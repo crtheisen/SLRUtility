@@ -1,0 +1,596 @@
+TY  - CONF
+JO  - Computer Applications and Information Systems (WCCAIS), 2014 World Congress on
+TI  - SIEM implementation for global and distributed environments
+T2  - Computer Applications and Information Systems (WCCAIS), 2014 World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Anastasov, I.
+AU  - Davcev, D.
+Y1  - 17-19 Jan. 2014
+PY  - 2014
+KW  - security of data
+KW  - software agents
+KW  - ArcSight ESM
+KW  - SIEM
+KW  - computer network
+KW  - data protection
+KW  - distributed environment
+KW  - event management system
+KW  - global environment
+KW  - hierarchical managers model
+KW  - log management
+KW  - proactive threat detection
+KW  - security event correlation
+KW  - security information
+KW  - security log data
+KW  - Connectors
+KW  - Databases
+KW  - Electronic mail
+KW  - Monitoring
+KW  - Organizations
+KW  - Security
+KW  - Servers
+KW  - ArcSight ESM [7]
+KW  - Internet of Things
+KW  - SIEM
+KW  - computer security
+KW  - event management
+KW  - information security
+KW  - log management
+KW  - rules
+KW  - use cases
+VL  - 
+JA  - Computer Applications and Information Systems (WCCAIS), 2014 World Congress on
+DO  - 10.1109/WCCAIS.2014.6916651
+AB  - Today's computer networks produce a huge amount of security log data. Handling this data is impossible without using Security Information and Event Management Systems (SIEM) to centralize the log management and increase the level of information security and data protection in the organization. SIEM collect and aggregate log data from various devices and applications through software called agents or connectors, filter uninteresting data and normalize to a proprietary format, analyses through correlation using contextual information and alert administrators in case of attack. SIEM provide proactive threat detection and real-time analysis of system activity. Handling these issues will be very hard without relying on consolidated, big data-powered SIEM. However, even having the most expensive SIEM solution, the organization should not expect the product to work great out of the box. The best SIEM solution does not guarantee success. The organization should focus on building various use cases to make their SIEM solution a success. In this paper, we propose a new model and architecture for SIEM implementation that is using multiple hierarchical SIEM Managers. The model is called &#x201C;Hierarchical Managers Model&#x201D;. We demonstrated how this model and architecture could be created and enabled in the leading SIEM system - ArcSight ESM [7]. We also provide examples of possible use cases that we have created and tested in our testing environment. These are meant to provide a good base starting point and should not be considered comprehensive for all situations. The use cases shown in this paper are created using the security event correlation framework from Hewlett-Packard - ArcSight ESM [7].
+ER  - 
+
+TY  - CONF
+JO  - Communication Software and Networks (ICCSN), 2011 IEEE 3rd International Conference on
+TI  - Design and realization of computer network security perception control system
+T2  - Communication Software and Networks (ICCSN), 2011 IEEE 3rd International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 163
+EP  - 166
+AU  - Zhihu Wang
+Y1  - 27-29 May 2011
+PY  - 2011
+KW  - Internet
+KW  - cellular radio
+KW  - computer network security
+KW  - data analysis
+KW  - input-output programs
+KW  - middleware
+KW  - radiofrequency identification
+KW  - GPRS
+KW  - GSM
+KW  - I/O interface
+KW  - IOT
+KW  - Internet of things
+KW  - RFID
+KW  - computer network security
+KW  - design
+KW  - middleware server
+KW  - network physical environment
+KW  - network software system environmental security
+KW  - quick data analysis
+KW  - radio frequency identification
+KW  - security information data perception
+KW  - security perception control system
+KW  - security protection measures
+KW  - system testing
+KW  - Electronic mail
+KW  - Fires
+KW  - GSM
+KW  - Hardware
+KW  - Mobile communication
+KW  - Modems
+KW  - Radiofrequency identification
+KW  - Computer Network
+KW  - Perception Control System
+KW  - Security strategy
+VL  - 
+JA  - Communication Software and Networks (ICCSN), 2011 IEEE 3rd International Conference on
+DO  - 10.1109/ICCSN.2011.6014242
+AB  - Based on analysis on applications by perception control technology in computer network security status and security protection measures, from the angles of network physical environment and network software system environmental security, this paper provides network security system perception control solution using Internet of Things (IOT), telecom and other perception technologies. Security Perception Control System is in the computer network environment, utilizing Radio Frequency Identification (RFID) of IOT and telecom integration technology to carry out integration design for systems. In the network physical security environment, RFID temperature, humidity, gas and perception technologies are used to do surveillance on environmental data, dynamic perception technology is used for network system security environment, user-defined security parameters, security log are used for quick data analysis, extends control on I/O interface, by development of API and AT command, Computer Network Security Perception Control based on Internet and GSM/GPRS is achieved, which enables users to carry out interactive perception and control for network security environment by WEB, E-MAIL as well as PDA, mobile phone short message and Internet. In the system testing, through middleware server, security information data perception in real time with deviation of 3-5% was achieved, it proves the feasibility of Computer Network Security Perception Control System.
+ER  - 
+
+TY  - CONF
+JO  - Globecom Workshops (GC Wkshps), 2013 IEEE
+TI  - Massive distributed and parallel log analysis for organizational security
+T2  - Globecom Workshops (GC Wkshps), 2013 IEEE
+IS  - 
+SN  - 
+VO  - 
+SP  - 194
+EP  - 199
+AU  - Xiaokui Shu
+AU  - Smiy, J.
+AU  - Danfeng Yao
+AU  - Heshan Lin
+Y1  - 9-13 Dec. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - distributed processing
+KW  - security of data
+KW  - system monitoring
+KW  - Amazon cloud environments
+KW  - EC2
+KW  - MapReduce
+KW  - S3
+KW  - cloud-based distributed framework
+KW  - dynamic task scheduling
+KW  - log data demands
+KW  - massive distributed frameworks
+KW  - organizational security
+KW  - parallel security log analysis framework
+KW  - streaming logs
+KW  - transaction logs
+KW  - Cloud computing
+KW  - Conferences
+KW  - Data privacy
+KW  - Organizations
+KW  - Security
+VL  - 
+JA  - Globecom Workshops (GC Wkshps), 2013 IEEE
+DO  - 10.1109/GLOCOMW.2013.6824985
+AB  - Security log analysis is extremely useful for uncovering intrusions and anomalies. However, the sheer volume of log data demands new frameworks and techniques of computing and security. We present a lightweight distributed and parallel security log analysis framework that allows organizations to analyze a massive number of system, network, and transaction logs efficiently and scalably. Different from the general distributed frameworks, e.g., MapReduce, our framework is specifically designed for security log analysis. It features a minimum set of necessary properties, such as dynamic task scheduling for streaming logs. For prototyping, we implement our framework in Amazon cloud environments (EC2 and S3) with a basic analysis application. Our evaluation demonstrates the effectiveness of our design and shows the potential of our cloud-based distributed framework in large-scale log analysis scenarios.
+ER  - 
+
+TY  - CONF
+JO  - Machine Learning and Cybernetics, 2003 International Conference on
+TI  - Wavelet based data mining and querying in network security databases
+T2  - Machine Learning and Cybernetics, 2003 International Conference on
+IS  - 
+SN  - 
+VO  - 1
+SP  - 178
+EP  - 182 Vol.1
+AU  - Wu Liu
+AU  - Hai-Xin Duan
+AU  - Ping Ren
+AU  - Xing Li
+AU  - Jian-Ping Wu
+Y1  - 2-5 Nov. 2003
+PY  - 2003
+KW  - computer networks
+KW  - data mining
+KW  - database management systems
+KW  - security of data
+KW  - wavelet transforms
+KW  - computer forensics
+KW  - content-based queries
+KW  - intrusion detection
+KW  - network security databases
+KW  - time-serial database
+KW  - wavelet based data mining
+KW  - wavelet transform analysis algorithm
+KW  - Computer hacking
+KW  - Computer networks
+KW  - Computer security
+KW  - Computer worms
+KW  - Data mining
+KW  - Data security
+KW  - Databases
+KW  - Forensics
+KW  - Intrusion detection
+KW  - Wavelet analysis
+VL  - 1
+JA  - Machine Learning and Cybernetics, 2003 International Conference on
+DO  - 10.1109/ICMLC.2003.1264466
+AB  - The phenomenal increase in the amounts of network security data are due to the hacker attacks, virus, worm and Slapper etc. Network security log databases are very important in intrusion detection and computer forensics. A lot of data mining methods to research it have been found. Fast and accurate retrievals for content-based queries are crucial for such numerous database systems to be useful. In this paper, a new method is provided to analyze and mine this kind of time-serial database. After signalize the NSD databases, we first represent a DWT wavelet transform analysis algorithm, then present two wavelet-based algorithms GET&#095;INDICES and QUERY for querying the complex and numerous NSD, and finally give the experimental result using these algorithms.
+ER  - 
+
+TY  - CONF
+JO  - Communication Technology Proceedings, 2003. ICCT 2003. International Conference on
+TI  - Wavelet-based analysis of network security databases
+T2  - Communication Technology Proceedings, 2003. ICCT 2003. International Conference on
+IS  - 
+SN  - 
+VO  - 1
+SP  - 372
+EP  - 377 vol.1
+AU  - Wu Liu
+AU  - Haixin Duan
+AU  - Peng Wang
+AU  - Jianping Wu
+AU  - Lu Yang
+Y1  - 9-11 April 2003
+PY  - 2003
+KW  - computer crime
+KW  - computer network management
+KW  - computer viruses
+KW  - data mining
+KW  - database management systems
+KW  - wavelet transforms
+KW  - computer forensics
+KW  - computer virus
+KW  - computer worm
+KW  - content-based queries
+KW  - data mining methods
+KW  - hacker attacks
+KW  - log file databases
+KW  - network security data
+KW  - network security databases
+KW  - similarity searches
+KW  - time-serial database
+KW  - wavelet-based transform analysis
+KW  - Computer hacking
+KW  - Computer networks
+KW  - Computer security
+KW  - Computer worms
+KW  - Content management
+KW  - Data mining
+KW  - Data security
+KW  - Databases
+KW  - Forensics
+KW  - Wavelet analysis
+VL  - 1
+JA  - Communication Technology Proceedings, 2003. ICCT 2003. International Conference on
+DO  - 10.1109/ICCT.2003.1209101
+AB  - The phenomenal increase in the amounts of network security data are due to the hacker attacks, virus, worm and Shapper etc. Network security log file databases are very important in computer forensics. From researches, a lot of data mining methods have been found, such as content-based queries and similarity searches to manage and use such data. Fast and accurate retrievals for content-based queries are crucial for such numerous database systems to be useful. In this paper, a new method is provided to analyze and mine this kind of time-serial database. We first signalize the NSD databases, then we use these wavelet based transform to analyze the NSD and get the periodic law of intrusion event.
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing and Intelligence Systems (CCIS), 2014 IEEE 3rd International Conference on
+TI  - A model for website anomaly detection based on log analysis
+T2  - Cloud Computing and Intelligence Systems (CCIS), 2014 IEEE 3rd International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 604
+EP  - 608
+AU  - Xu Han
+AU  - Tao Lv
+AU  - Lin Wei
+AU  - Yanyan Wu
+AU  - Jianyi Liu
+AU  - Cong Wang
+Y1  - 27-29 Nov. 2014
+PY  - 2014
+KW  - Algorithm design and analysis
+KW  - Analytical models
+KW  - Classification algorithms
+KW  - Data models
+KW  - Databases
+KW  - Feature extraction
+KW  - Security
+KW  - Anomaly detection
+KW  - C4.5 algorithm
+KW  - Feature sets
+KW  - Log analysis
+VL  - 
+JA  - Cloud Computing and Intelligence Systems (CCIS), 2014 IEEE 3rd International Conference on
+DO  - 10.1109/CCIS.2014.7175806
+AB  - To found security events from web logs has become an important aspect of network security. This paper proposes a website anomaly detection model based on security-log-analysis. After creating a anomaly feature sets of the model, C4.5 algorithm was used to improve feature sets, making the abnormal records in feature sets store hierarchically. Compared logs in website with the treated feature stes, the model ultimately achieves the purpose of checking website's security event fast and accurately.
+ER  - 
+
+TY  - CONF
+JO  - Military Communications Conference (MILCOM), 2014 IEEE
+TI  - Using Security Logs for Collecting and Reporting Technical Security Metrics
+T2  - Military Communications Conference (MILCOM), 2014 IEEE
+IS  - 
+SN  - 
+VO  - 
+SP  - 294
+EP  - 299
+AU  - Vaarandi, R.
+AU  - Pihelgas, M.
+Y1  - 6-8 Oct. 2014
+PY  - 2014
+KW  - Big Data
+KW  - computer network security
+KW  - big data
+KW  - log analysis methods
+KW  - log analysis techniques
+KW  - open source technology
+KW  - security logs
+KW  - technical security metric collection
+KW  - technical security metric reporting
+KW  - Correlation
+KW  - Internet
+KW  - Measurement
+KW  - Monitoring
+KW  - Peer-to-peer computing
+KW  - Security
+KW  - Workstations
+KW  - security log analysis
+KW  - security metrics
+VL  - 
+JA  - Military Communications Conference (MILCOM), 2014 IEEE
+DO  - 10.1109/MILCOM.2014.53
+AB  - During recent years, establishing proper metrics for measuring system security has received increasing attention. Security logs contain vast amounts of information which are essential for creating many security metrics. Unfortunately, security logs are known to be very large, making their analysis a difficult task. Furthermore, recent security metrics research has focused on generic concepts, and the issue of collecting security metrics with log analysis methods has not been well studied. In this paper, we will first focus on using log analysis techniques for collecting technical security metrics from security logs of common types (e.g., Network IDS alarm logs, workstation logs, and Net flow data sets). We will also describe a production framework for collecting and reporting technical security metrics which is based on novel open-source technologies for big data.
+ER  - 
+
+TY  - CONF
+JO  - Emerging Security Information, Systems and Technologies, 2008. SECURWARE '08. Second International Conference on
+TI  - Collaborative Approach to Automatic Classification of Heterogeneous Information Security
+T2  - Emerging Security Information, Systems and Technologies, 2008. SECURWARE '08. Second International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 294
+EP  - 299
+AU  - Benali, F.
+AU  - Ubeda, S.
+AU  - Legrand, V.
+Y1  - 25-31 Aug. 2008
+PY  - 2008
+KW  - Bayes methods
+KW  - classification
+KW  - groupware
+KW  - message passing
+KW  - ontologies (artificial intelligence)
+KW  - security of data
+KW  - text analysis
+KW  - vocabulary
+KW  - automatic classification
+KW  - collaborative approach
+KW  - extraction module
+KW  - heterogeneous information security
+KW  - information system
+KW  - k-nearest neighbour algorithm
+KW  - malicious activity
+KW  - naive Bayes
+KW  - ontology
+KW  - security devices
+KW  - security log files messages
+KW  - security log messages
+KW  - security messages
+KW  - text categorization technics
+KW  - training algorithms
+KW  - vocabulary size
+KW  - Collaboration
+KW  - Data security
+KW  - Engines
+KW  - Information analysis
+KW  - Information security
+KW  - Information systems
+KW  - Monitoring
+KW  - Ontologies
+KW  - Probes
+KW  - Vocabulary
+KW  - Automatic Classification
+KW  - Heterogeneous Probes
+KW  - Intrusion Detection
+KW  - Ontology
+KW  - Security Messages
+KW  - Text Categorization
+VL  - 
+JA  - Emerging Security Information, Systems and Technologies, 2008. SECURWARE '08. Second International Conference on
+DO  - 10.1109/SECURWARE.2008.53
+AB  - The messages generated by the security devices represent the necessary data for the detection of the malicious activities in an information system. The heterogeneity of the devices and the lack of a standard for the security messages make the automatic processing of the messages difficult. The messages are short, use a very wide vocabulary and have different formats. We propose in this article the collaboration between classifiers to increase the accuracy of the classification. We apply the text categorization technics for the automatic classification of security log files messages, in categories defined by an ontology. We develop an extraction module for the message attributes to reduce the vocabulary size. Then we apply two training algorithms: the k-nearest neighbour algorithm and the naive Bayes, on two corpus of security log messages. Finally we propose to collaborate the classifiers to produce a single classifier with better accuracy.
+ER  - 
+
+TY  - CONF
+JO  - Computational Aspects of Social Networks (CASoN), 2011 International Conference on
+TI  - Log management comprehensive architecture in Security Operation Center (SOC)
+T2  - Computational Aspects of Social Networks (CASoN), 2011 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 284
+EP  - 289
+AU  - Madani, A.
+AU  - Rezayi, S.
+AU  - Gharaee, H.
+Y1  - 19-21 Oct. 2011
+PY  - 2011
+KW  - security of data
+KW  - SOC
+KW  - correlation module
+KW  - fraudulent activities
+KW  - log management comprehensive architecture
+KW  - operational network problems
+KW  - policy violations
+KW  - security incidents
+KW  - security log data
+KW  - security log management
+KW  - security operation center
+KW  - storage module
+KW  - Computer architecture
+KW  - Correlation
+KW  - Monitoring
+KW  - Security
+KW  - Servers
+KW  - Software
+KW  - System-on-a-chip
+KW  - SOC
+KW  - event fiields
+KW  - log management
+KW  - normalizing
+KW  - storage
+VL  - 
+JA  - Computational Aspects of Social Networks (CASoN), 2011 International Conference on
+DO  - 10.1109/CASON.2011.6085959
+AB  - With the widespread use of information, variety of security logs have increased greatly, which due need for security log management. Organizations requirements have imposed to collect, store, and analyze tremendous volumes of log data across entire infrastructure for extended durations and at increasingly granular levels. It is the process of generating, transmitting, storing, analyzing, and disposing security log data from network to databases. Due to the wide variety of logs, storing comprises different methods. Recorded events in collection module are processed, normalized and classified. Logs are stored in storage module in order to use in forensic, reviewing, auditing and providing further necessities of correlation module. Routine log correlation analysis is beneficial for identifying security incidents, policy violations, fraudulent activities, troubleshooting and operational network problems. So log management is an important and efficient activity in network monitoring. Finding an effective log management functional architecture for network events analysis is the main goal of this paper. In this paper, we aim to suggest log management architecture with more common functions that are used by vendors. By studying logging architectures the main functions are administration of log collection, normalizing, categorization, queuing prioritizing and storing logged events/alarms by sensors. Log functions are different but the suitable architecture must justify the functions to send a normative, synchronized and prioritized log in an efficient way. The mentioned functions are gathered from SIEM products characteristics. Suggested architecture includes functions and activities in log collection server and storage server.
+ER  - 
+
+TY  - CONF
+JO  - Computational Intelligence and Natural Computing, 2009. CINC '09. International Conference on
+TI  - A Security Log Based Trust Negotiation Model
+T2  - Computational Intelligence and Natural Computing, 2009. CINC '09. International Conference on
+IS  - 
+SN  - 
+VO  - 2
+SP  - 517
+EP  - 520
+AU  - Cao Yuan
+AU  - Yaqin Li
+AU  - Jun Yan
+AU  - Zhengsong Liao
+Y1  - 6-7 June 2009
+PY  - 2009
+KW  - authorisation
+KW  - access control policies
+KW  - distributed environment
+KW  - iterative credentials
+KW  - open environment
+KW  - resource share
+KW  - security log based trust negotiation model
+KW  - system administrator
+KW  - Access control
+KW  - Authorization
+KW  - Computational intelligence
+KW  - Computer security
+KW  - Data security
+KW  - Information security
+KW  - Iterative methods
+KW  - Mobile computing
+KW  - Permission
+KW  - Resource management
+KW  - Access Control Policy
+KW  - Authorization
+KW  - Digital Credential
+KW  - Security log
+KW  - Trust Negotiation
+VL  - 2
+JA  - Computational Intelligence and Natural Computing, 2009. CINC '09. International Conference on
+DO  - 10.1109/CINC.2009.83
+AB  - Trust negotiation (TN) is an approach to establish trust relationship between strangers by disclosing iteratively credentials and access control policies. In open and distributed environment TN brings convenience in resource share, while it still has some shortcomings, such as easy to fail in negotiation, difficult to track userspsila deed and so on.... Security log provides a method to analyze the past and present status of TN for system administrator. According the current state of TN, a security log based trust negotiation model is proposed in the paper by combining security log with TN, which helps efficiently find out why the negotiation fails and track userspsila deed by recording all kinds of negotiation states.
+ER  - 
+
+TY  - CONF
+JO  - Security Technology, 1991. Proceedings. 25th Annual 1991 IEEE International Carnahan Conference on
+TI  - New challenges for telephone companies to secure switching systems
+T2  - Security Technology, 1991. Proceedings. 25th Annual 1991 IEEE International Carnahan Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 41
+EP  - 46
+AU  - Bhattacharyya, R.K.
+Y1  - 1-3 Oct 1991
+PY  - 1991
+KW  - auditing
+KW  - authorisation
+KW  - security
+KW  - switching systems
+KW  - telephone switching equipment
+KW  - audit features
+KW  - circuit switch
+KW  - flexible architecture
+KW  - operations channels
+KW  - password cracking
+KW  - protection
+KW  - resource control
+KW  - security log
+KW  - software driven function assignment
+KW  - switching systems security
+KW  - telephone companies
+KW  - timeout
+KW  - vendors
+KW  - Consumer electronics
+KW  - Data security
+KW  - Databases
+KW  - Manufacturing
+KW  - Performance analysis
+KW  - Software systems
+KW  - Switches
+KW  - Switching systems
+KW  - Telecommunication switching
+KW  - Telephony
+VL  - 
+JA  - Security Technology, 1991. Proceedings. 25th Annual 1991 IEEE International Carnahan Conference on
+DO  - 10.1109/CCST.1991.202188
+AB  - Describes typical operations channels for a circuit switch and the generic requirements that should be met to secure these channels. The author discusses the technical analysis of these features, and the major results obtained from analyses of circuit switches produced by various vendors. The general technological trend in switch design has been to incorporate a flexible architecture that allows assigning any operations function to any input port; the assignments are software-driven. The newer switches, in general, all provide this flexibility. All switches have login features that can be deployed on a majority of operations channels. Different switches have different levels of protection against password cracking. Time-out is a common feature among switches and resource control is available on a limited basis. Except for a few conspicuous exceptions, switches generally provide a security log and associated audit features
+ER  - 
+
+TY  - CONF
+JO  - Intelligent Control and Automation, 2008. WCICA 2008. 7th World Congress on
+TI  - Network security data mining based on wavelet decomposition
+T2  - Intelligent Control and Automation, 2008. WCICA 2008. 7th World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 6646
+EP  - 6649
+AU  - Ming Meng
+Y1  - 25-27 June 2008
+PY  - 2008
+KW  - Internet
+KW  - computer network management
+KW  - data mining
+KW  - database management systems
+KW  - discrete wavelet transforms
+KW  - security of data
+KW  - telecommunication security
+KW  - Internet
+KW  - association rule
+KW  - discrete wavelet transform method
+KW  - multiresolution analysis
+KW  - network security data mining
+KW  - network security log file database
+KW  - security management
+KW  - wavelet decomposition
+KW  - Clustering algorithms
+KW  - Data analysis
+KW  - Data mining
+KW  - Data security
+KW  - Databases
+KW  - Discrete wavelet transforms
+KW  - Fourier transforms
+KW  - Frequency
+KW  - Information security
+KW  - Wavelet analysis
+KW  - Data mining
+KW  - Discrete wavelet transform
+KW  - Network log file database
+KW  - security management
+VL  - 
+JA  - Intelligent Control and Automation, 2008. WCICA 2008. 7th World Congress on
+DO  - 10.1109/WCICA.2008.4593932
+AB  - The network log file database is important to security management. But, with the development of Internet, it has become too bulkiness to be used directly. In this paper, the wavelet decomposition is adopted to mining the useful rules from the network security data. This is different from traditional data mining methods of association rules. Multi-resolution analysis of wavelet transform method is used to analyze and mine the data of network security log file database on different time scale. The period law of the attack number in different time domain is found by this method. These are important messages for taking relevant measures to insure network security.
+ER  - 
+
+TY  - CONF
+JO  - Internet Security (WorldCIS), 2014 World Congress on
+TI  - Anomaly detection system: Towards a framework for enterprise log management of security services
+T2  - Internet Security (WorldCIS), 2014 World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 97
+EP  - 102
+AU  - Ozulku, O.
+AU  - Fadhel, N.F.
+AU  - Argles, D.
+AU  - Wills, G.B.
+Y1  - 8-10 Dec. 2014
+PY  - 2014
+KW  - Internet
+KW  - business data processing
+KW  - computer network security
+KW  - data mining
+KW  - ADS
+KW  - Web usage mining
+KW  - anomalous behavior detection
+KW  - anomaly detection system
+KW  - computer networks
+KW  - enterprise log management
+KW  - enterprise organizations
+KW  - proprietary hardware
+KW  - security log management
+KW  - security services
+KW  - useful information extraction
+KW  - Algorithm design and analysis
+KW  - Data mining
+KW  - Organizations
+KW  - Security
+KW  - Web servers
+KW  - Anomaly Detection
+KW  - RESTful style log data collection
+KW  - enterprise log management
+KW  - web usage mining algortithm
+VL  - 
+JA  - Internet Security (WorldCIS), 2014 World Congress on
+DO  - 10.1109/WorldCIS.2014.7028175
+AB  - In recent years, enterprise log management systems have been widely used by organizations. Several companies such as (IBM, MacAfee and Splunk etc.) have brought their own log management solutions to the market. However, the problem is that these systems often require proprietary hardware and do not involve web usage mining to analyze the log data. The purpose of this paper is to investigate an approach towards a framework for managing security logs in enterprise organizations called of the anomaly detection system (ADS), built to detect anomalous behavior inside computer networks that is free from hardware constraints and benefits from web usage mining to extract useful information from the log files.
+ER  - 
+
+

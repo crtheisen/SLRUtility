@@ -1,0 +1,2865 @@
+1
+	
+The TClouds Platform: From the Concept to the Implementation of Benchmark Scenarios
+Alysson Bessani, Leucio A. Cutillo, Gianluca Ramunno, Norbert Schirmer, Paolo Smiraglia
+December 2014 		
+SIGOPS Operating Systems Review , Volume 48 Issue 2
+Publisher: ACM
+Full text available: 	PDFPDF (1.53 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 10,   Downloads (12 Months): 101,   Downloads (Overall): 101,    Citation Count: 0
+
+TClouds was an EU project (2010-2013) targeted at improving the security and the dependability of cloud infrastructures and services, especially for supporting critical applications. During the project, the participants of the consortium developed a ...
+2
+	
+SP 800-153. Guidelines for Securing Wireless Local Area Networks (WLANs)
+Murugiah P. Souppaya, Karen A. Scarfone
+February 2012 		
+SP 800-153. Guidelines for Securing Wireless Local Area Networks (WLANs)
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (686.08 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 25,   Downloads (Overall): 48,    Citation Count: 0
+
+A wireless local area network (WLAN) is a group of wireless networking devices within a limited geographic area, such as an office building, that exchange data through radio communications. The security of each WLAN is heavily dependent on how well each ...
+Keywords: 802.11, AP, IEEE 802.11, WLAN, Wireless Local Area Network, access points, wireless networking, wireless networking security
+3
+	
+Access control for large collections
+H. M. Gladney
+April 1997 		
+Transactions on Information Systems (TOIS) , Volume 15 Issue 2
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (482.88 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 50,   Downloads (Overall): 1621,    Citation Count: 8
+
+Efforts to place vast information resources at the fingertips of each individual in large user populations must be balanced by commensurate attention to information protection. For distributed systems with less-structured tasks, more-diversified information, ...
+
+Keywords: access control, digital library, document, electronic library, information security
+4
+	
+Managing Information Security
+John R. Vacca
+March 2010 		
+Managing Information Security
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (2.45 MB),  PDFPDF (11.25 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 26,   Downloads (12 Months): 132,   Downloads (Overall): 171,    Citation Count: 1
+
+Managing Information Security offers focused coverage of how to protect mission critical systems, how to deploy security management systems, IT security, ID Management, intrusion detection and prevention systems, computer forensics, network forensics, ...
+5
+	
+Botnets: The Killer Web Applications
+Craig Schiller, Jim Binkley
+February 2007 		
+Botnets: The Killer Web Applications
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (5.84 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 20,   Downloads (12 Months): 99,   Downloads (Overall): 479,    Citation Count: 5
+
+The book begins with real world cases of botnet attacks to underscore the need for action. Next the book will explain botnet fundamentals using real world examples. These chapters will cover what they are, how they operate, and the environment and technology ...
+Keywords: Computer Science, Security
+6
+	
+A study on information wrapper protection profile
+Kwo-Jean Farn, Shu-Kuo Lin, Jiann-Ming Hwang
+April 2007 		
+ACOS'07: Proceedings of the 6th Conference on WSEAS International Conference on Applied Computer Science - Volume 6 , Volume 6
+Publisher: World Scientific and Engineering Academy and Society (WSEAS)
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+How to help the end-users to identify and analyze the attacks in cyberspace has become extremely important to the information security task. Based on the standard of the Information Security Audit and Alarms Framework published by ISO, in this paper ...
+
+Keywords: common criteria (CC), information security audit and alarms, protection profile (PP), security assurance, security functional
+7
+	
+Analyzing multiple logs for forensic evidence
+Ali Reza Arasteh, Mourad Debbabi, Assaad Sakha, Mohamed Saleh
+September 2007 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 4
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Information stored in logs of a computer system is of crucial importance to gather forensic evidence of investigated actions or attacks. Analysis of this information should be rigorous and credible, hence it lends itself to formal methods. We propose ...
+Keywords: Forensic analysis, Formal methods, Log analysis, Log correlation, Logging systems, Model checking
+8
+	
+Using lamport's logical clocks to consolidate log files from different sources
+Roberto Gómez, Jorge Herrerias, Erika Mata
+June 2005 		
+IICS'05: Proceedings of the 5th international conference on Innovative Internet Community Systems
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Event logging and log files are playing an important role in system and network security. Log files record computer system activities, are used to provide requirements of reliability, security and accountability applications. Information stored in log ...
+9
+	
+Tamper detection in audit logs
+Richard T. Snodgrass, Shilong Stanley Yao, Christian Collberg
+August 2004 		
+VLDB '04: Proceedings of the Thirtieth international conference on Very large data bases - Volume 30 , Volume 30
+Publisher: VLDB Endowment
+Full text available: 	PDFPDF (186.30 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 34,   Downloads (Overall): 211,    Citation Count: 25
+
+Audit logs are considered good practice for business systems, and are required by federal regulations for secure systems, drug approval data, medical information disclosure, financial records, and electronic voting. Given the central role of audit logs, ...
+10
+	
+Network Security: Know It All: Know It All
+James Joshi
+May 2008 		
+Network Security: Know It All: Know It All
+Publisher: Morgan Kaufmann Publishers Inc.
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (3.92 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 11,   Downloads (12 Months): 133,   Downloads (Overall): 594,    Citation Count: 0
+
+Network Security: Know It All explains the basics, describes the protocols, and discusses advanced topics, by the best and brightest experts in the field of network security.Assembled from the works of leading researchers and practitioners, this ...
+Keywords: Networking
+11
+	
+SP 800-98. Guidelines for Securing Radio Frequency Identification (RFID) Systems
+Athanasios T. Karygiannis, Bernard Eydt, Greg Barber, Lynn Bunn, Ted Phillips
+April 2007 		
+SP 800-98. Guidelines for Securing Radio Frequency Identification (RFID) Systems
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.38 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 32,   Downloads (Overall): 53,    Citation Count: 5
+
+This publication seeks to assist organizations in understanding the risks of RFID technology and security measures to mitigate those risks. It provides practical, real-world advice on how to initiate, design, implement and operate RFID systems in a manner ...
+Keywords: Privacy, RFID, Radio Frequency Identification, Security
+12
+	
+Accountability in organisations
+Richard W. C. Lui, Lucas C. K. Hui, S. M. Yiu
+June 2007 		
+International Journal of Information and Computer Security , Volume 1 Issue 3
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Accountability is an important requirement in computer and information security but it is an ambiguous concept which is open to multiple interpretations. Most of the work in accountability from computer security research only focus on the association ...
+
+Keywords: accountability, computer security, delegation, information security, non-repudiation, systems assurance
+13
+	
+Surveillance of anomaly and misuse in critical networks to counter insider threats using computational intelligence
+D. Shalini Punithavathani, K. Sujatha, J. Mark Jain
+March 2015 		
+Cluster Computing , Volume 18 Issue 1
+Publisher: Kluwer Academic Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+The Insider threat is minimally addressed by current information security practices, yet the insider poses the most serious threat to organization through various malicious activities. Forensic investigation is a technique used to prove the presence ...
+Keywords: Computational intelligence log files, Digital evidence, Insider threat, Network forensics, Network traffic
+14
+	
+End-to-end policy based encryption techniques for multi-party data management
+Michael Beiter, Marco Casassa Mont, Liqun Chen, Siani Pearson
+June 2014 		
+Computer Standards & Interfaces , Volume 36 Issue 4
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+We describe a data management solution and associated key management approaches to provide accountability within service provision networks, in particular addressing privacy issues in cloud computing applications. Our solution involves machine readable ...
+Keywords: Cloud, Policy enforcement, Privacy, Secret sharing, Sticky policy
+15
+	
+SP 800-115. Technical Guide to Information Security Testing and Assessment
+Karen A. Scarfone, Murugiah P. Souppaya, Amanda Cody, Angela D. Orebaugh
+September 2008 		
+SP 800-115. Technical Guide to Information Security Testing and Assessment
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (469.61 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 27,   Downloads (12 Months): 159,   Downloads (Overall): 202,    Citation Count: 1
+
+The purpose of this document is to assist organizations in planning and conducting technical information security tests and examinations, analyzing findings, and developing mitigation strategies. The guide provides practical recommendations for designing, ...
+Keywords: Penetration testing, risk assessment, security assessment, security examination, security testing, vulnerability scanning
+16
+	
+A survey of information security incident handling in the cloud
+Nurul Hidayah Ab Rahman, Kim-Kwang Raymond Choo
+March 2015 		
+Computers and Security , Volume 49 Issue C
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Incident handling strategy is one key strategy to mitigate risks to the confidentiality, integrity and availability (CIA) of organisation assets, as well as minimising loss (e.g. financial, reputational and legal) particularly as organisations move to ...
+Keywords: Capability Maturity Model For Services (CMMI-SVC), Cloud computing, Cloud response, Incident handling, Incident management, Incident response
+17
+	
+Heuristics for evaluating IT security management tools
+Pooya Jaferian, Kirstie Hawkey, Andreas Sotirakopoulos, Maria Velez-Rojas, Konstantin Beznosov
+July 2011 		
+SOUPS '11: Proceedings of the Seventh Symposium on Usable Privacy and Security
+Publisher: ACM
+Full text available: 	PDFPDF (314.12 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 43,   Downloads (Overall): 369,    Citation Count:
+
+The usability of IT security management (ITSM) tools is hard to evaluate by regular methods, making heuristic evaluation attractive. However, standard usability heuristics are hard to apply as IT security management occurs within a complex and collaborative ...
+Keywords: IT security management, complex systems, computer supported cooperative work, heuristic evaluation
+18
+	
+Audit-based compliance control
+J. G. Cederquist, R. Corin, M. A. Dekker, S. Etalle, J. I. Hartog, G. Lenzini
+March 2007 		
+International Journal of Information Security , Volume 6 Issue 2-3
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+In this paper we introduce a new framework for controlling compliance to discretionary access control policies [Cederquist et al. in Proceedings of the International Workshop on Policies for Distributed Systems and Networks (POLICY), 2005; Corin et al. ...
+Keywords: Access control, Audit, Policy, Privacy
+19
+	
+Kells: a protection framework for portable data
+Kevin R. B. Butler, Stephen E. McLaughlin, Patrick D. McDaniel
+December 2010 		
+ACSAC '10: Proceedings of the 26th Annual Computer Security Applications Conference
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (414.93 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 0,   Downloads (12 Months): 24,   Downloads (Overall): 200,    Citation Count: 3
+
+Portable storage devices, such as key-chain USB devices, are ubiquitous. These devices are often used with impunity, with users repeatedly using the same storage device in open computer laboratories, Internet cafes, and on office and home computers. ...
+20
+	
+SP 800-122. Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)
+Erika McCallister, Timothy Grance, Karen A. Scarfone
+April 2010 		
+SP 800-122. Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (812.32 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 15,   Downloads (12 Months): 135,   Downloads (Overall): 196,    Citation Count: 6
+
+The purpose of this document is to assist Federal agencies in protecting the confidentiality of personally identifiable information (PII) in information systems. The document explains the importance of protecting the confidentiality of PII in the context ...
+Keywords: FIPS 199, PII, PII confidentiality impact level, confidentiality, personally identifiable information, privacy 
+21
+	
+Physical and Logical Security Convergence: Powered By Enterprise Security Management: Powered By Enterprise Security Management
+Brian T. Contos, Steve Hunt, Colby Derodeff
+April 2007 		
+Physical and Logical Security Convergence: Powered By Enterprise Security Management: Powered By Enterprise Security Management
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (10.55 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 10,   Downloads (12 Months): 47,   Downloads (Overall): 189,    Citation Count: 0
+
+Government and companies have already invested hundreds of millions of dollars in the convergence of physical and logical security solutions, but there are no books on the topic.This book begins with an overall explanation of information security, ...
+Keywords: Computer Science, Security
+22
+	
+Application-level isolation and recovery with solitude
+Shvetank Jain, Fareha Shafique, Vladan Djeric, Ashvin Goel
+April 2008 		
+Eurosys '08: Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer Systems 2008
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (218.41 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 19,   Downloads (Overall): 629,    Citation Count: 13
+
+When computer systems are compromised by an attack, it is difficult to determine the precise extent of the damage caused by the attack because the state changes made by an attacker and those made by regular users can be closely intertwined. This problem ...
+
+Keywords: access control, copy-on-write, file systems, recovery, taint analysis, transactional file system
+
+Also published in:
+April 2008 	SIGOPS Operating Systems Review 	Volume 42 Issue 4
+23
+	
+NetQuery: a knowledge plane for reasoning about network properties
+Alan Shieh, Emin Gün Sirer, Fred B. Schneider
+August 2011 		
+SIGCOMM '11: Proceedings of the ACM SIGCOMM 2011 conference
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	Mp4Mp4 (2798546:46 MIN),  PDFPDF (782.77 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 38,   Downloads (Overall): 588,    Citation Count: 5
+
+This paper presents the design and implementation of NetQuery, a knowledge plane for federated networks such as the Internet. In such networks, not all administrative domains will generate information that an application can trust and many administrative ...
+Keywords: knowledge plane, tpm, trustworthy computing
+
+Also published in:
+October 2011 	SIGCOMM Computer Communication Review 	Volume 41 Issue 4
+24
+	
+An access control reference architecture
+Amir Jerbi, Ethan Hadar, Carrie Gates, Dmitry Grebenev
+October 2008 		
+CSAW '08: Proceedings of the 2nd ACM workshop on Computer security architectures
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (342.42 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 20,   Downloads (Overall): 373,    Citation Count:
+
+System administrators typically have unrestricted access to all files and programs on a system, with no enforced principle of least privilege. Additionally, this unrestricted access causes challenges for audit as many different users might have superuser ...
+
+Keywords: access control, architecture centric evolution, reference architecture, security
+25
+	
+Accountable key infrastructure (AKI): a proposal for a public-key validation infrastructure
+Tiffany Hyun-Jin Kim, Lin-Shung Huang, Adrian Perring, Collin Jackson, Virgil Gligor
+May 2013 		
+WWW '13: Proceedings of the 22nd international conference on World Wide Web
+Publisher: International World Wide Web Conferences Steering Committee
+Full text available: 	PDFPDF (446.45 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 25,   Downloads (12 Months): 113,   Downloads (Overall): 220,    Citation Count: 9
+
+Recent trends in public-key infrastructure research explore the tradeoff between decreased trust in Certificate Authorities (CAs), resilience against attacks, communication overhead (bandwidth and latency) for setting up an SSL/TLS connection, and availability ...
+Keywords: accountability, certificate validation, public log servers, public-key infrastructure, ssl, tls
+26
+	
+Securing the Cloud: Cloud Computer Security Techniques and Tactics
+J. R. Vic Winkler
+May 2011 		
+Securing the Cloud: Cloud Computer Security Techniques and Tactics
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (7.11 MB),  PDFPDF (6.86 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 13,   Downloads (12 Months): 149,   Downloads (Overall): 205,    Citation Count: 7
+
+As companies turn to cloud computing technology to streamline and save money, security is a fundamental concern. Loss of certain control and lack of trust make this transition difficult unless you know how to handle it. Securing the Cloud discusses making ...
+27
+	
+Enforcing Minimum Necessary Access in Healthcare Through Integrated Audit and Access Control
+Paul Martin, Aviel D. Rubin, Rafae Bhatti
+September 2013 		
+BCB'13: Proceedings of the International Conference on Bioinformatics, Computational Biology and Biomedical Informatics
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (427.72 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 53,   Downloads (Overall): 89,    Citation Count: 0
+
+One of the most important requirements of HIPAA is the "minimum-necessary" access requirement, which states that healthcare personnel must be granted no more access to electronic healthcare data than is necessary in order to work effectively. Due to ...
+28
+	
+Case study: Network intrusion investigation - Preparation and challenges
+Andy Johnston, Jessica Reust
+September 2006 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 3 Issue 3
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+As new legislation is written mandating notification of affected parties following the compromise of confidential data, reliable investigative procedures into unauthorized access of such data assume increasing importance. The increasing costs and penalties ...
+Keywords: Compromise of sensitive information, Digital forensic examination, Forensic preparedness, Incident response, Intrusion investigation, Network forensics
+29
+	
+Modeling of information system correlated events time dependencies
+Jacques Saraydaryan, Véronique Legrand, Stéphane Ubéda
+June 2008 		
+NOTERE '08: Proceedings of the 8th international conference on New technologies in distributed systems
+Publisher: ACM
+Full text available: 	PDFPDF (670.80 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 10,   Downloads (Overall): 140,    Citation Count:
+
+Many works have been carried out in events correlation and intrusion detection. Although they use different methods or correlation approaches, they all highlight the importance of time in their modeling process. In this paper, we suggest a new time consideration ...
+
+Keywords: Bayesian network, behavior, global vision, intrusion detection
+30
+	
+SecLaaS: secure logging-as-a-service for cloud forensics
+Shams Zawoad, Amit Kumar Dutta, Ragib Hasan
+May 2013 		
+ASIA CCS '13: Proceedings of the 8th ACM SIGSAC symposium on Information, computer and communications security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (665.78 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 14,   Downloads (12 Months): 211,   Downloads (Overall): 587,    Citation Count: 0
+
+Cloud computing has emerged as a popular computing paradigm in recent years. However, today's cloud computing architectures often lack support for computer forensic investigations. Analyzing various logs (e.g., process logs, network logs) plays a vital ...
+Keywords: cloud forensics, cloud security, forensic investigation, logging-as-a-service
+31
+	
+A privacy-preserving secure service discovery protocol for ubiquitous computing environments
+Jangseong Kim, Joonsang Baek, Kwangjo Kim, Jianying Zhou
+September 2010 		
+EuroPKI'10: Proceedings of the 7th European conference on Public key infrastructures, services and applications
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Recently, numerous service discovery protocols have been introduced in the open literature. Unfortunately, many of them did not consider security issues, and for those that did, many security and privacy problems still remain. One important issue is ...
+32
+	
+An authentication and validation mechanism for analyzing syslogs forensically
+Steena D. S. Monteiro, Robert F. Erbacher
+April 2008 		
+SIGOPS Operating Systems Review , Volume 42 Issue 3
+Publisher: ACM
+Full text available: 	PDFPDF (365.84 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 29,   Downloads (Overall): 530,    Citation Count:
+
+This research proposes a novel technique for authenticating and validating syslogs for forensic analysis. This technique uses a modification of the Needham Schroeder protocol, which uses nonces (numbers used only once) and public keys. Syslogs, which ...
+
+Keywords: authentication and validation, forensic validity, model, system log files
+33
+	
+Disappearing Cryptography: Information Hiding: Steganography & Watermarking, 3 edition
+Peter Wayner
+December 2008 		
+Disappearing Cryptography: Information Hiding: Steganography & Watermarking, 3 edition
+Publisher: Morgan Kaufmann Publishers Inc.
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (3.79 MB),  PDFPDF (5.35 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 19,   Downloads (12 Months): 94,   Downloads (Overall): 410,    Citation Count: 5
+
+Cryptology is the practice of hiding digital information by means of various obfuscatory and steganographic techniques. The application of said techniques facilitates message confidentiality and sender/receiver identity authentication, and helps to ensure ...
+Keywords: Security
+34
+	
+SP 800-123. Guide to General Server Security
+Karen A. Scarfone, Wayne Jansen, Miles Tracy
+July 2008 		
+SP 800-123. Guide to General Server Security
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (257.75 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 12,   Downloads (Overall): 22,    Citation Count: 1
+
+The purpose of this document is to assist organizations in understanding the fundamental activities performed as part of securing and maintaining the security of servers that provide services over network communications as a main function. The document ...
+Keywords: Host security, server security
+35
+	
+Modular design, application architecture, and usage of a self-service model for enterprise data delivery
+Monica M. Horvath, Shelley A. Rusincovitch, Stephanie Brinson, Howard C. Shang, Steve Evans, Jeffrey M. Ferranti
+December 2014 		
+Journal of Biomedical Informatics , Volume 52 Issue C
+Publisher: Elsevier Science
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Display Omitted DEDUCE is a self-service platform for data generated in clinical practice.The application is a framework of modules, each providing a targeted functionality.DEDUCE Cohort Manager is the keystone module for user data exploration.The DEDUCE ...
+Keywords: Application development, BIBusiness Intelligence, CCOWClinical Context Object Workgroup, CMCohort Manager, CRChart Review, CTClinical Text, Cohort definition, DEDUCEDuke Enterprise Data Unified Content Explorer, DMCDuke MAESTRO Care, EDWenterprise data warehouse, EHRelectronic health record, EMExport Manager, ETLextract-transform-load, GQGuided Query, HIPAAHealth Insurance Portability and Accountability Act, HbA1cglycated hemoglobin, IRBinstitutional review board, Information systems, MAESTROMedical Application Environments Supporting Transformation of Research and Operations, Medical informatics applications, NCRRNational Center for Research Resources, NIHNational Institutes of Health, NINRNational Institute of Nursing Research, PHIprotected health information, RPDRResearch Patient Data Repository, Research query tool, SQLstructured query language, STRIDEStanford Translational Research Integrated Database Environment, System design and architecture, i2b2informatics for integrating biology and the bedside, ld
+36
+	
+ROAC: a role-oriented access control model
+Nezar Nassr, Eric Steegmans
+June 2012 		
+WISTP'12: Proceedings of the 6th IFIP WG 11.2 international conference on Information Security Theory and Practice: security, privacy and trust in computing systems and ambient intelligent ecosystems
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+Role-Based Access Control (RBAC) has become the de facto standard for realizing authorization requirements in a wide range of organizations. Existing RBAC models suffer from two main shortcomings; lack of expressiveness of roles/permissions and ambiguities ...
+Keywords: RBAC, access control, authorization, role hierarchies
+37
+	
+A framework for post-event timeline reconstruction using neural networks
+M. N. A. Khan, C. R. Chatwin, R. C. D. Young
+September 2007 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 4 Issue 3-4
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Post-event timeline reconstruction plays a critical role in forensic investigation and serves as a means of identifying evidence of the digital crime. We present an artificial neural networks based approach for post-event timeline reconstruction using ...
+Keywords: Computer forensics, Digital evidence, Digital forensic analysis, Digital investigation, Event reconstruction, Neural networks
+38
+	
+Measuring the forensic-ability of audit logs for nonrepudiation
+Jason King
+May 2013 		
+ICSE '13: Proceedings of the 2013 International Conference on Software Engineering
+Publisher: IEEE Press
+Full text available: 	PDFPDF (398.64 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 37,   Downloads (Overall): 116,    Citation Count: 0
+
+Forensic analysis of software log files is used to extract user behavior profiles, detect fraud, and check compliance with policies and regulations. Software systems maintain several types of log files for different purposes. For example, a system may ...
+39
+	
+BBox: a distributed secure log architecture
+Rafael Accorsi
+September 2010 		
+EuroPKI'10: Proceedings of the 7th European conference on Public key infrastructures, services and applications
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+This paper presents BBox, a digital black box to provide for authentic archiving in distributed systems. Based upon public key cryptography and trusted computing platforms, the BBox employs standard primitives to ensure the authenticity of records during ...
+Keywords: distributed log architecture, public key cryptography
+40
+	
+Security Risk Management: Building an Information Security Risk Management Program from the Ground Up, 1st edition
+Evan Wheeler
+May 2011 		
+Security Risk Management: Building an Information Security Risk Management Program from the Ground Up, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (2.99 MB),  PDFPDF (3.30 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 23,   Downloads (12 Months): 85,   Downloads (Overall): 120,    Citation Count: 0
+
+The goal of Security Risk Management is to teach you practical techniques that will be used on a daily basis, while also explaining the fundamentals so you understand the rationale behind these practices. Security professionals often fall into the trap ... 
+41
+	
+Human factors considerations for privacy properties in home healthcare systems
+Kyeong-Ah Jeong, Robert W. Proctor
+April 2011 		
+SREIS '11: Proceedings of the 12th Annual Information Security Symposium
+Publisher: CERIAS - Purdue University
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Privacy properties for remote/home-based healthcare systems have been proposed, but human factors issues involved in implementing those properties have received little consideration. We reviewed proposed privacy properties and identified human factors ...
+42
+	
+Federal Cloud Computing: The Definitive Guide for Cloud Service Providers
+Matthew Metheny
+December 2012 		
+Federal Cloud Computing: The Definitive Guide for Cloud Service Providers
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (48.28 MB),  PDFPDF (18.42 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 33,   Downloads (12 Months): 153,   Downloads (Overall): 188,    Citation Count: 0
+
+Federal Cloud Computing: The Definitive Guide for Cloud Service Providers offers an in-depth look at topics surrounding federal cloud computing within the federal government, including the Federal Cloud Computing Strategy, Cloud Computing Standards, ...
+43
+	
+TechnoSecurity's Guide to E-Discovery and Digital Forensics: A Comprehensive Handbook
+Jack Wiles
+October 2007 		
+TechnoSecurity's Guide to E-Discovery and Digital Forensics: A Comprehensive Handbook
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (9.51 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 11,   Downloads (12 Months): 55,   Downloads (Overall): 229,    Citation Count: 0
+
+This book provides IT security professionals with the information (hardware, software, and procedural requirements) needed to create, manage and sustain a digital forensics lab and investigative team that can accurately and effectively analyze forensic ...
+Keywords: Security
+44
+	
+A Model of Privacy and Security for Electronic Health Records
+Pulkit Mehndiratta, Shelly Sachdeva, Sudhanshu Kulshrestha
+March 2014 		
+DNIS 2014: Proceedings of the 9th International Workshop on Databases in Networked Information Systems - Volume 8381 , Volume 8381
+Publisher: Springer-Verlag New York, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Information and communication technology has created excellent development in over the past few years in the field of medicine and healthcare. Healthcare is constantly undergoing changes, with new medical technologies, business models and research findings. ...
+Keywords: Developing Country, Electronic Health Record, India, Security and Privacy
+45
+	
+The case of the fake Picasso: preventing history forgery with secure provenance
+Ragib Hasan, Radu Sion, Marianne Winslett
+February 2009 		
+FAST '09: Proccedings of the 7th conference on File and storage technologies
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 33
+
+As increasing amounts of valuable information are produced and persist digitally, the ability to determine the origin of data becomes important. In science, medicine, commerce, and government, data provenance tracking is essential for rights protection, ...
+46
+	
+Temporal Mode-Checking for Runtime Monitoring of Privacy Policies
+Omar Chowdhury, Limin Jia, Deepak Garg, Anupam Datta
+July 2014 		
+Proceedings of the 16th International Conference on Computer Aided Verification - Volume 8559 , Volume 8559
+Publisher: Springer-Verlag New York, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Fragments of first-order temporal logic are useful for representing many practical privacy and security policies. Past work has proposed two strategies for checking event trace (audit log) compliance with policies: online monitoring and offline audit. ...
+Keywords: Mode checking, metric first-order temporal logic, privacy policy, runtime monitoring
+47
+	
+Visualization and management of digital forensics data
+Guillermo Francia, Monica Trifas, Dorothy Brown, Rahjima Francia, Chrissy Scott
+September 2006 		
+InfoSecCD '06: Proceedings of the 3rd annual conference on Information security curriculum development
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (87.18 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 21,   Downloads (Overall): 1138,    Citation Count: 0
+
+The collection, analysis, and preservation of digital forensic data are complementary activities that are ushered by our growing dependence on Information Technology. The training of professionals, who can effectively carry out these activities, suddenly ...
+Keywords: computer forensics, computer security, data mining, human perception, visualization
+48
+	
+Forensic analysis of database tampering
+Kyriacos Pavlou, Richard T. Snodgrass
+June 2006 		
+SIGMOD '06: Proceedings of the 2006 ACM SIGMOD international conference on Management of data
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (244.49 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 15,   Downloads (Overall): 1183,    Citation Count: 5
+
+Mechanisms now exist that detect tampering of a database, through the use of cryptographically-strong hash functions. This paper addresses the next problem, that of determining who, when, and what, by providing a systematic means of performing forensic ...
+Keywords: append-only, corruption diagram, cryptographic hash function, forensic strength
+49
+	
+SP 800-86. Guide to Integrating Forensic Techniques into Incident Response
+Karen Kent, Suzanne Chevalier, Timothy Grance, Hung Dang
+August 2006 		
+SP 800-86. Guide to Integrating Forensic Techniques into Incident Response
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (2.82 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 74,   Downloads (Overall): 88,    Citation Count: 5
+
+This publication is intended to help organizations in investigating computer security incidents and troubleshooting some information technology (IT) operational problems by providing practical guidance on performing computer and network forensics. The ...
+Keywords: FISMA, Forensics, Incident Response
+50
+	
+Windows Server 2012 Security from End to Edge and Beyond: Architecting, Designing, Planning, and Deploying Windows Server 2012 Security Solutions, 1st edition
+Thomas W. Shinder, Yuri Diogenes, Debra Littlejohn Shinder
+April 2013 		
+Windows Server 2012 Security from End to Edge and Beyond: Architecting, Designing, Planning, and Deploying Windows Server 2012 Security Solutions, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (10.47 MB),  PDFPDF (53.70 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 16,   Downloads (12 Months): 70,   Downloads (Overall): 92,    Citation Count: 0
+
+Windows Server 2012 Security from End to Edge and Beyond shows you how to architect, design, plan, and deploy Microsoft security technologies for Windows 8/Server 2012 in the enterprise. The book covers security technologies that apply to both ...
+51
+	
+A framework for establishing trust in Cloud provenance
+Imad M. Abbadi
+April 2013 		
+International Journal of Information Security , Volume 12 Issue 2
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+Provenance is a vital requirement for the success of Clouds, and it is associated with many challenges that are difficult to deal with. In this paper, we explore this area, we identify the problems in current Cloud provenance, we identify the challenges ...
+Keywords: Cloud computing, Provenance framework, Trust management
+52
+	
+Sarbanes-Oxley IT Compliance Using Open Source Tools, 2 edition
+Christian B. Lahti, Roderick Peterson
+December 2007 		
+Sarbanes-Oxley IT Compliance Using Open Source Tools, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (9.16 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 39,   Downloads (Overall): 245,    Citation Count: 0
+
+The Sarbanes-Oxley Act (officially titled the Public Company Accounting Reform and Investor Protection Act of 2002), signed into law on 30 July 2002 by President Bush, is considered the most significant change to federal securities laws in the United ...
+Keywords: Business Software, Computer Science, Computers, Utilities
+53
+	
+Improving the Security of Storage Systems: Bahrain Case Study
+Wasan Shaker Awad, Hanin Mohammed Abdullah
+July 2014 		
+International Journal of Mobile Computing and Multimedia Communications , Volume 6 Issue 3
+Publisher: IGI Global
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Developing security systems to protect the storage systems are needed. The main objective of this paper is to study the security of file storage server of an organization. Different kinds of security threats and a number of security techniques used to ...
+Keywords: Attacks, Cyber Security, Risk Assessment, Risk Matrix, Storage Systems, Threats
+54
+	
+Securing Citrix Presentation Server in the Enterprise
+Tariq Azad
+June 2008 		
+Securing Citrix Presentation Server in the Enterprise
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (11.25 MB),  PDFPDF (25.46 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 23,   Downloads (Overall): 98,    Citation Count: 0
+
+Citrix Presentation Server allows remote users to work off a network server as if they weren't remote. That means: Incredibly fast access to data and applications for users, no third party VPN connection, and no latency issues. All of these features ...
+Keywords: Applied, Computer Science, Computers, Security
+55
+	
+The Best Damn Cybercrime and Digital Forensics Book Period
+Jack Wiles, Anthony Reyes
+November 2007 		
+The Best Damn Cybercrime and Digital Forensics Book Period
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (19.35 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 23,   Downloads (12 Months): 104,   Downloads (Overall): 499,    Citation Count: 1
+
+Electronic discovery refers to a process in which electronic data is sought, located, secured, and searched with the intent of using it as evidence in a legal case. Computer forensics is the application of computer investigation and analysis techniques ...
+Keywords: Security
+56
+	
+Continuous Tamper-Proof Logging Using TPM 2.0
+Arunesh Sinha, Limin Jia, Paul England, Jacob R. Lorch
+June 2014 		
+Proceedings of the 7th International Conference on Trust and Trustworthy Computing - Volume 8564 , Volume 8564
+Publisher: Springer-Verlag New York, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Auditing system logs is an important means of ensuring systems' security in situations where run-time security mechanisms are not sufficient to completely prevent potentially malicious activities. A fundamental requirement for reliable auditing is the ...
+57
+	
+A temporal logic-based model for forensic investigation in networked system security
+Slim Rekhis, Noureddine Boudriga
+September 2005 		
+MMM-ACNS'05: Proceedings of the Third international conference on Mathematical Methods, Models, and Architectures for Computer Network Security
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Research in computer and network forensic investigation has recently addressed the development of procedural guidelines, technical documents, and semi-automation tools. It has however omitted the need of formal proof. This work provides a novel approach ...
+58
+	
+File Marshal: Automatic extraction of peer-to-peer data
+Frank Adelstein, Robert A. Joyce
+September 2007 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 4
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+Digital forensic investigators often find peer-to-peer, or file sharing, software present on the computers, or the images of the disks, that they examine. Investigators must first determine what P2P software is present and where the associated information ...
+Keywords: File sharing, Forensics, LimeWire, P2P, Peer-to-peer
+59
+	
+Location privacy based on trusted computing and secure logging
+Urs Hengartner
+September 2008 		
+SecureComm '08: Proceedings of the 4th international conference on Security and privacy in communication netowrks
+Publisher: ACM
+Full text available: 	PDFPDF (217.91 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 13,   Downloads (Overall): 132,    Citation Count: 3
+
+Many operators of cellphone networks now offer location-based services to their customers, whereby an operator often outsources service provisioning to a third-party provider. Since a person's location could reveal sensitive information about the person, ...
+
+Keywords: location-based services, timing attacks, trusted platform module
+60
+	
+WORM-SEAL: trustworthy data retention and verification for regulatory compliance
+Tiancheng Li, Xiaonan Ma, Ninghui Li
+September 2009 		
+ESORICS'09: Proceedings of the 14th European conference on Research in computer security
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+As the number and scope of government regulations and rules mandating trustworthy retention of data keep growing, businesses today are facing a higher degree of regulation and accountability than ever. Existing compliance storage solutions focus on providing ... 
+61
+	
+Efficient data structures for tamper-evident logging
+Scott A. Crosby, Dan S. Wallach
+August 2009 		
+SSYM'09: Proceedings of the 18th conference on USENIX security symposium
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 13
+
+Many real-world applications wish to collect tamperevident logs for forensic purposes. This paper considers the case of an untrusted logger, serving a number of clients who wish to store their events in the log, and kept honest by a number of auditors ...
+62
+	
+Windows Forensic Analysis DVD Toolkit
+Harlan Carvey
+April 2007 		
+Windows Forensic Analysis DVD Toolkit
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (6.31 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 41,   Downloads (Overall): 231,    Citation Count: 6
+
+The only book available on the market that addresses and discusses in-depth forensic analysis of Windows systems. Windows Forensic Analysis DVD Toolkit takes the reader to a whole new, undiscovered level of forensic analysis for Windows systems, providing ...
+Keywords: Computer Science, Security
+63
+	
+Log Management: Turning log files into a security asset
+Donal Casey
+February 2008 		
+Network Security , Volume 2008 Issue 2
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+Despite most businesses having a range of devices which create log files of user and system activity, few actually analyse the logs for information. As the internet becomes an integral part of the way we live and work, the number of logs generated and ...
+64
+	
+Large-scale collection and sanitization of network security data: risks and challenges
+Phillip Porras, Vitaly Shmatikov
+September 2006 		
+NSPW '06: Proceedings of the 2006 workshop on New security paradigms
+Publisher: ACM
+Full text available: 	PDFPDF (153.57 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 34,   Downloads (Overall): 922,    Citation Count: 8
+
+Over the last several years, there has been an emerging interest in the development of wide-area data collection and analysis centers to help identify, track, and formulate responses to the ever-growing number of coordinated attacks and malware infections ...
+65
+	
+Nysiad: practical protocol transformation to tolerate Byzantine failures
+Chi Ho, Robbert van Renesse, Mark Bickford, Danny Dolev
+April 2008 		
+NSDI'08: Proceedings of the 5th USENIX Symposium on Networked Systems Design and Implementation
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 8
+
+The paper presents and evaluates Nysiad, a system that implements a new technique for transforming a scalable distributed system or network protocol tolerant only of crash failures into one that tolerates arbitrary failures, including such failures as ...
+66
+	
+A real-time intrusion prevention system for commercial enterprise databases
+Ulf Mattsson
+February 2005 		
+SEPADS'05: Proceedings of the 4th WSEAS International Conference on Software Engineering, Parallel & Distributed Systems
+Publisher: World Scientific and Engineering Academy and Society (WSEAS)
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Modern intrusion detection systems are comprised of three basically different approaches, host based, network based, and a third relatively recent addition called procedural based detection. The first two have been extremely popular in the commercial ...
+
+Keywords: GLBA, HIPAA, VISA CISP, database security, encryption, intrusion tolerance, isolation
+67
+	
+Malware Forensics Field Guide for Windows Systems: Digital Forensics Field Guides
+Cameron H. Malin, Eoghan Casey, James M. Aquilina
+June 2012 		
+Malware Forensics Field Guide for Windows Systems: Digital Forensics Field Guides
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (15.62 MB),  PDFPDF (59.91 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 12,   Downloads (12 Months): 95,   Downloads (Overall): 156,    Citation Count: 0
+
+The Syngress Digital Forensics Field Guides series includes companions for any digital and computer forensic investigator and analyst. Each book is a "toolkit" with checklists for specific tasks, case studies of difficult situations, and expert analyst ...
+68
+	
+Restricted queries over an encrypted index with applications to regulatory compliance
+Nikita Borisov, Soumyadeb Mitra
+June 2008 		
+ACNS'08: Proceedings of the 6th international conference on Applied cryptography and network security
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Compliance storage is an increasingly important area for businesses faced with a myriad of new document retention regulations. Today, businesses have turned to Write-One Read Many (WORM) storage technology to achieve compliance. But WORM answers only ...
+69
+	
+Reconstruction of falsified computer logs for digital forensics investigations
+Maolin Tang, Colin Fidge
+January 2010 		
+AISC '10: Proceedings of the Eighth Australasian Conference on Information Security - Volume 105 , Volume 105
+Publisher: Australian Computer Society, Inc.
+Full text available: 	PDFPDF (376.75 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 29,   Downloads (Overall): 185,    Citation Count:
+
+Digital forensics investigations aim to find evidence that helps confirm or disprove a hypothesis about an alleged computer-based crime. However, the ease with which computer-literate criminals can falsify computer event logs makes the prosecutor's job ...
+Keywords: computer logs, digital forensics, event correlation algorithms
+70
+	
+VoteBox: a tamper-evident, verifiable electronic voting system
+Daniel Sandler, Kyle Derr, Dan S. Wallach
+July 2008 		
+SS'08: Proceedings of the 17th conference on Security symposium
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 19
+
+Commercial electronic voting systems have experienced many high-profile software, hardware, and usability failures in real elections. While it is tempting to abandon electronic voting altogether, we show how a careful application of distributed systems ...
+71
+	
+Usable security: how to get it
+Butler Lampson
+November 2009 		
+Communications of the ACM , Volume 52 Issue 11
+Publisher: ACM
+Full text available: 	Digital EditionDigital Edition ,  HtmlHtml (19.59 KB),  PDFPDF (1.85 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 475,   Downloads (12 Months): 2610,   Downloads (Overall): 30896,    Citation Count: 26
+
+Why does your computer bother you so much about security, but still isn't secure? It's because users don't have a model for security, or a simple way to keep important things safe.
+72
+	
+Policy auditing over incomplete logs: theory, implementation and applications
+Deepak Garg, Limin Jia, Anupam Datta
+October 2011 		
+CCS '11: Proceedings of the 18th ACM conference on Computer and communications security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (691.44 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 43,   Downloads (Overall): 367,    Citation Count: 15
+
+We present the design, implementation and evaluation of an algorithm that checks audit logs for compliance with privacy and security policies. The algorithm, which we name reduce, addresses two fundamental challenges in compliance checking that arise ...
+Keywords: audit, formal logic, incomplete logs, privacy policy
+73
+	
+Role of an auditing and reporting service in compliance management
+J. Ramanathan, R. J. Cohen, E. Plassmann, K. Ramamoorthy
+April 2007 		
+IBM Systems Journal , Volume 46 Issue 2
+Publisher: IBM Corp.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+Regulatory compliance has become a major focus in today's business environment as companies adapt to comply with regulations such as Sarbanes-Oxley, Basel II, and HIPAA (the Health Insurance Portability and Accountability Act). Runtime audit data that ...
+74
+	
+Exemplifying Attack Identification and Analysis in a Novel Forensically Viable Syslog Model
+Steena Dominica Steven Monteiro, Robert F. Erbacher
+May 2008 		
+SADFE '08: Proceedings of the 2008 Third International Workshop on Systematic Approaches to Digital Forensic Engineering
+Publisher: IEEE Computer Society
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 1,   Downloads (Overall): 1,    Citation Count: 1
+
+This research builds on our method for validating syslog entries proposed in [5]. The goal of the proposed method is to allow syslog files to be forensically viable. The goal with this phase of the work is to implement the proposed method and evaluate ...
+
+Keywords: Digital Forensics, Syslog Authentication, Forensic Validity
+75
+	
+Privacy in mobile technology for personal healthcare
+Sasikanth Avancha, Amit Baxi, David Kotz
+November 2012 		
+Computing Surveys (CSUR) , Volume 45 Issue 1
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (398.26 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 91,   Downloads (12 Months): 1162,   Downloads (Overall): 3602,    Citation Count: 9
+
+Information technology can improve the quality, efficiency, and cost of healthcare. In this survey, we examine the privacy requirements of mobile computing technologies that have the potential to transform healthcare. Such mHealth technology enables ...
+Keywords: HIPAA, Privacy framework, e-health, electronic health record, home healthcare, mHealth, medicine, mobile healthcare, personal health record
+76
+	
+Computer security
+Carl E. Landwehr
+August 2001 		
+International Journal of Information Security , Volume 1 Issue 1
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+A strong factor in the early development of computers was security --- the computations that motivated their development, such as decrypting intercepted messages, generating gunnery tables, and developing weapons, had military applications. But the computers ...
+Keywords: Key words: Computer security --- Vulnerability --- Security principles --- Security policy --- Security mechanisms
+77
+	
+Embedding Hercule Poirot in networks: addressing inefficiencies in digital forensic investigations
+Barbara Endicott-Popovsky, Deborah A. Frincke
+July 2007 		
+FAC'07: Proceedings of the 3rd international conference on Foundations of augmented cognition
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Forensic investigations on networks are not scalable in terms of time and money [1]. Those investigations that do occur consume months of attention from the very experts who should be investing in more productive activities, like designing and improving ...
+
+Keywords: augmented cognition, computer crime, digital forensics, network forensics
+78
+	
+Private resource pairing
+Joseph A. Calandrino, Alfred C. Weaver
+June 2006 		
+PET'06: Proceedings of the 6th international conference on Privacy Enhancing Technologies
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Protection of information confidentiality can result in obstruction of legitimate access to necessary resources. This paper explores the problem of pairing resource requestors and providers such that neither must sacrifice privacy. While solutions to ...
+79
+	
+Malware Forensics Field Guide for Linux Systems: Digital Forensics Field Guides
+Cameron H. Malin, Eoghan Casey, James M. Aquilina
+May 2014 		
+Malware Forensics Field Guide for Linux Systems: Digital Forensics Field Guides
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (15.37 MB),  PDFPDF (59.47 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 42,   Downloads (12 Months): 152,   Downloads (Overall): 152,    Citation Count: 0
+
+The Syngress Digital Forensics Field Guides series includes companions for any digital and computer forensic investigator and analyst. Each book is a "toolkit" with checklists for specific tasks, case studies of difficult situations, and expert analyst ...
+80
+	
+Finding the Evidence in Tamper-Evident Logs
+Daniel Sandler, Kyle Derr, Scott Crosby, Dan S. Wallach
+May 2008 		
+SADFE '08: Proceedings of the 2008 Third International Workshop on Systematic Approaches to Digital Forensic Engineering
+Publisher: IEEE Computer Society
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 4
+
+Secure logs are powerful tools for building systems that must resist forgery, prove temporal relationships, and stand up to forensic scrutiny. The proofs of order and integrity encoded in these tamper-evident chronological records, typically built using ...
+
+Keywords: tamper evidence, secure logs, hash chaining, predicate logic, query processing 
+81
+	
+BAF and FI-BAF: Efficient and Publicly Verifiable Cryptographic Schemes for Secure Logging in Resource-Constrained Systems
+Attila A. Yavuz, Peng Ning, Michael K. Reiter
+July 2012 		
+Transactions on Information and System Security (TISSEC) , Volume 15 Issue 2
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (290.47 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 14,   Downloads (12 Months): 59,   Downloads (Overall): 409,    Citation Count:
+
+Audit logs are an integral part of modern computer systems due to their forensic value. Protecting audit logs on a physically unprotected machine in hostile environments is a challenging task, especially in the presence of active adversaries. It is critical ...
+Keywords: Applied cryptography, digital signature, forward security, secure audit logging, signature aggregation
+82
+	
+Medical data security model for early intervention support system based on HIPAA
+Eko Supriyanto, Haikal Satria, Tan Kean Siong
+May 2010 		
+TELE-INFO'10: Proceedings of the 9th WSEAS international conference on Telecommunications and informatics
+Publisher: World Scientific and Engineering Academy and Society (WSEAS)
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Early Intervention Support System for Special Children (ELISSA) is an effective tool to improve the special children developmental ability. As the system stores sensitive personal data such as children medical data, it is crucial to have an adequate ...
+Keywords: AES, ELISSA, HIPAA, USB dongle, medical data, security model
+83
+	
+Foundational Security Principles for Medical Application Platforms
+Eugene Y. Vasserman, John Hatcliff
+August 2013 		
+WISA 2013: Revised Selected Papers of the 14th International Workshop on Information Security Applications - Volume 8267 , Volume 8267
+Publisher: Springer-Verlag New York, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+We describe a preliminary set of security requirements for safe and secure next-generation medical systems, consisting of dynamically composable units, tied together through a real-time safety-critical middleware. We note that this requirement set is ...
+84
+	
+CloudSafetyNet: Detecting Data Leakage between Cloud Tenants
+Christian Priebe, Divya Muthukumaran, Dan O' Keeffe, David Eyers, Brian Shand, Ruediger Kapitza, Peter Pietzuch
+November 2014 		
+CCSW '14: Proceedings of the 6th edition of the ACM Workshop on Cloud Computing Security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (623.92 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 19,   Downloads (12 Months): 179,   Downloads (Overall): 179,    Citation Count: 0
+
+When tenants deploy applications under the control of third-party cloud providers, they must trust the provider's security mechanisms for inter-tenant isolation, resource sharing and access control. Despite a provider's best efforts, accidental data ...
+Keywords: cloud, data leakage detection, inter-tenant isolation, socket-level monitoring
+85
+	
+Security in data networks
+S. E. Forrester
+January 1998 		
+BT Technology Journal , Volume 16 Issue 1
+Publisher: Kluwer Academic Publishers
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+The explosive growth of data networks and their commercial application is driving the need for improved security. This paper aims to raise awareness of the features of secure data networks and the role that encryption plays in this context. An overview ...
+86
+	
+Intruders versus intrusiveness: teens' and parents' perspectives on home-entryway surveillance
+Blase Ur, Jaeyeon Jung, Stuart Schechter
+September 2014 		
+UbiComp '14: Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (283.82 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 65,   Downloads (12 Months): 622,   Downloads (Overall): 622,    Citation Count: 0
+
+We investigated how household deployment of Internet-connected locks and security cameras could impact teenagers' privacy. In interviews with 13 teenagers and 11 parents, we investigated reactions to audit logs of family members' comings and goings. ...
+Keywords: audit mechanisms, domestic technologies, internet of things (IoT), monitoring, parents, privacy, smart homes, teenagers
+87
+	
+The service availability forum security service (SEC): status and future directions
+Peter Badovinatz, Santosh Balakrishnan, Makan Pourzandi, Manfred Reitenspiess, Chad Tindel
+May 2006 		
+ISAS'06: Proceedings of the Third international conference on Service Availability
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+The Service Availability Forum is specifying high availability interfaces for carrier grade applications. Along with the direct support for applications an implementation of these interfaces implies that it can itself be highly available. To ensure this ...
+Keywords: SA forum system security, carrier class systems, clusters, middleware security, service availability forum
+88
+	
+User centricity: A taxonomy and open issues
+Abhilasha Bhargav-Spantzel, Jan Camenisch, Thomas Gross, Dieter Sommer
+October 2007 		
+Journal of Computer Security , Volume 15 Issue 5
+Publisher: IOS Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 10
+
+User centricity is a significant concept in federated identity management (FIM), as it provides for stronger user control and privacy. However, several notions of user-centricity in the FIM community render its semantics unclear and hamper future research ...
+
+Keywords: Identity management, privacy, security
+89
+	
+Experiences building PlanetLab
+Larry Peterson, Andy Bavier, Marc E. Fiuczynski, Steve Muir
+November 2006 		
+OSDI '06: Proceedings of the 7th symposium on Operating systems design and implementation
+Publisher: USENIX Association
+Full text available: 	PDFPDF (532.73 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 40,   Downloads (Overall): 433,    Citation Count: 17
+
+This paper reports our experiences building PlanetLab over the last four years. It identifies the requirements that shaped PlanetLab, explains the design decisions that resulted from resolving conflicts among these requirements, and reports our experience ...
+90
+	
+Cyber Warfare: Techniques, Tactics and Tools for Security Practitioners, 1st edition
+Jason Andress, Steve Winterfeld
+July 2011 		
+Cyber Warfare: Techniques, Tactics and Tools for Security Practitioners, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (3.71 MB),  PDFPDF (5.65 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 27,   Downloads (12 Months): 187,   Downloads (Overall): 269,    Citation Count: 0
+
+Cyber Warfare explores the battlefields, participants and the tools and techniques used during today's digital conflicts. The concepts discussed in this book will give those involved in information security at all levels a better idea of how cyber ...
+91
+	
+Behavioural biometrics: a survey and classification
+Roman V. Yampolskiy, Venu Govindaraju
+June 2008 		
+International Journal of Biometrics , Volume 1 Issue 1
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 13
+
+This study is a survey and classification of the state-of-the-art in behavioural biometrics which is based on skills, style, preference, knowledge, motor-skills or strategy used by people while accomplishing different everyday tasks such ...
+
+Keywords: behavioural biometrics, features, human behaviour, motor skills, privacy, user verification
+92
+	
+Requirements and design for an extensible toolkit for analyzing EMR audit logs
+Eric Duffy, Steve Nyemba, Carl A. Gunter, David Liebovitz, Bradley Malin
+August 2013 		
+HealthTech'13: Proceedings of the 2013 USENIX conference on Safety, Security, Privacy and Interoperability of Health Information Technologies
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site ,  Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Over the past decade, various regulations have been proposed and promulgated to support the auditing of accesses to Electronic Medical Record (EMRs). Current tools to support this process can improve their use of statistical and machine learning techniques ...
+93
+	
+Flexible and Secure Logging of Grid Data Access
+Weide Zhang, David Vecchio, Glenn Wasson, Marty Humphrey
+September 2006 		
+GRID '06: Proceedings of the 7th IEEE/ACM International Conference on Grid Computing
+Publisher: IEEE Computer Society
+Full text available: 	PDFPDF (136.87 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 6,   Downloads (Overall): 91,    Citation Count:
+
+In Grid collaborations, scientists use middleware to execute computational experiments, visualize results, and securely share data on resources ranging from desktop machines to supercomputers. While there has been significant effort in authentication ...
+94
+	
+Compliance by design - Bridging the chasm between auditors and IT architects
+Klaus Julisch, Christophe Suter, Thomas Woitalla, Olaf Zimmermann
+September 2011 		
+Computers and Security , Volume 30 Issue 6-7
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+System and process auditors assure - from an information processing perspective - the correctness and integrity of the data that is aggregated in a company's financial statements. To do so, they assess whether a company's business processes and information ...
+Keywords: Business processes, CAVR, Compliance, Enterprise applications, Information systems audit, Patterns, Security architecture, Service-oriented architecture
+95
+	
+Privacy-preserving audit for broker-based health information exchange
+Se Eun Oh, Ji Young Chun, Limin Jia, Deepak Garg, Carl A. Gunter, Anupam Datta
+March 2014 		
+CODASPY '14: Proceedings of the 4th ACM conference on Data and application security and privacy
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (651.97 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 56,   Downloads (Overall): 85,    Citation Count: 0
+
+Developments in health information technology have encouraged the establishment of distributed systems known as Health Information Exchanges (HIEs) to enable the sharing of patient records between institutions. In many cases, the parties running these ...
+Keywords: audit, formal logic, health information technology, hierarchical identity based encryption
+96
+	
+Access Control: Policies, Models, and Mechanisms
+Pierangela Samarati, Sabrina De Capitani di Vimercati
+September 2000 		
+FOSAD '00: Revised versions of lectures given during the IFIP WG 1.7 International School on Foundations of Security Analysis and Design on Foundations of Security Analysis and Design: Tutorial Lectures
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 106
+
+Access control is the process of mediating every request to resources and data maintained by a system and determining whether the request should be granted or denied. The access control decision is enforced by a mechanism implementing regulations established ...
+97
+	
+NetReview: detecting when interdomain routing goes wrong
+Andreas Haeberlen, Ioannis Avramopoulos, Jennifer Rexford, Peter Druschel
+April 2009 		
+NSDI'09: Proceedings of the 6th USENIX symposium on Networked systems design and implementation
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 12
+
+Despite many attempts to fix it, the Internet's interdomain routing system remains vulnerable to configuration errors, buggy software, flaky equipment, protocol oscillation, and intentional attacks. Unlike most existing solutions that prevent specific ...
+98
+	
+Preventing history forgery with secure provenance
+Ragib Hasan, Radu Sion, Marianne Winslett
+December 2009 		
+Transactions on Storage (TOS) , Volume 5 Issue 4
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (998.65 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 11,   Downloads (12 Months): 67,   Downloads (Overall): 713,    Citation Count: 12
+
+As increasing amounts of valuable information are produced and persist digitally, the ability to determine the origin of data becomes important. In science, medicine, commerce, and government, data provenance tracking is essential for rights protection, ...
+
+Keywords: audit, confidentiality, integrity, lineage, provenance, security
+99
+	
+SP 800-21 Second edition. Guideline for Implementing Cryptography in the Federal Government
+Elaine B. Barker, William C. Barker, Annabelle Lee
+December 2005 		
+SP 800-21 Second edition. Guideline for Implementing Cryptography in the Federal Government
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (673.01 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 14,   Downloads (Overall): 23,    Citation Count: 1
+
+This Second Edition of NIST Special Publication (SP) 800-21, updates and replaces the November 1999 edition of Guideline for Implementing Cryptography in the Federal Government. Many of the references and cryptographic techniques contained in the first ...
+Keywords: Cryptographic algorithm, cryptographic hash function, cryptographic key, cryptographic module, digital signature, key establishment, key management, message authentication code
+100
+	
+Required information release
+Stephen Chong
+November 2012 		
+Journal of Computer Security , Volume 20 Issue 6
+Publisher: IOS Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Many computer systems have a functional requirement to release information. Such requirements are an important part of a system's information security requirements. Current information-flow control techniques are able to reason about permitted information ...
+Keywords: Algorithmic Knowledge, Declassification, Information Flow, Information Release 
+101
+	
+A formal framework for specifying and analyzing logs as electronic evidence
+Eduardo Mazza, Marie-Laure Potet, Daniel Le Métayer
+November 2010 		
+SBMF'10: Proceedings of the 13th Brazilian conference on Formal methods: foundations and applications
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+The issues of logging for determining liability requires to define, prior to a dispute, the logging system and the log analysis in a manner that would determine the parties liable for a predetermined misbehavior of the system. We propose a formal framework ...
+102
+	
+A posteriori compliance control
+Sandro Etalle, William H. Winsborough
+June 2007 		
+SACMAT '07: Proceedings of the 12th ACM symposium on Access control models and technologies
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (288.11 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 9,   Downloads (Overall): 457,    Citation Count: 13
+
+While preventative policy enforcement mechanisms can provide theoretical guarantees that policy is correctly enforced, they have limitations in practice. They are inflexible when unanticipated circumstances arise, and most are either inflexible with ...
+Keywords: access control, policy enforcement, trust management
+103
+	
+Security and performance in service-oriented applications: Trading off competing objectives
+Hangjung Zo, Derek L. Nazareth, Hemant K. Jain
+December 2010 		
+Decision Support Systems , Volume 50 Issue 1
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+As service-oriented computing becomes more prevalent, an increasing number of applications will be developed using existing software components with standard interfaces. These components may be developed in-house, may represent purchased software, or ...
+Keywords: Application composition, Multiple criteria decision making, Performance, Security, Service-oriented computing
+104
+	
+Privacy models and languages: obligation policies
+Marco Casassa Mont
+January 2011 		
+Digital privacy
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+105
+	
+Tiered fault tolerance for long-term integrity
+Byung-Gon Chun, Petros Maniatis, Scott Shenker, John Kubiatowicz
+February 2009 		
+FAST '09: Proccedings of the 7th conference on File and storage technologies
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+Fault-tolerant services typically make assumptions about the type and maximum number of faults that they can tolerate while providing their correctness guarantees; when such a fault threshold is violated, correctness is lost. We revisit the notion of ...
+106
+	
+Authenticating operation-based history in collaborative systems
+Hien Thi Thu Truong, Claudia-Lavinia Ignat, Pascal Molli
+October 2012 		
+GROUP '12: Proceedings of the 17th ACM international conference on Supporting group work
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (770.24 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 24,   Downloads (Overall): 104,    Citation Count: 0
+
+Within last years multi-synchronous collaborative editing systems became widely used. Multi-synchronous collaboration maintains multiple, simultaneous streams of activity which continually diverge and synchronized. These streams of activity are represented ...
+Keywords: authenticating logs, authenticators, logs, multi-synchronous collaboration, operation-based history, optimistic replication
+107
+	
+Audit mechanisms for privacy protection in healthcare environments
+Jeremiah Blocki, Nicolas Christin, Anupam Datta, Arunesh Sinha
+August 2011 		
+HealthSec'11: Proceedings of the 2nd USENIX conference on Health security and privacy
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+We take the position that audit mechanisms are essential for privacy protection in healthcare environments. Although audits are used in practice and commercial tools that provide assistance for audits are emerging, we currently lack rigorous models and ...
+108
+	
+Audit-Based Access Control for Electronic Health Records
+M. A. C. Dekker, S. Etalle
+February 2007 		
+Electronic Notes in Theoretical Computer Science (ENTCS) , Volume 168
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+Traditional access control mechanisms aim to prevent illegal actions a-priori occurrence, i.e. before granting a request for a document. There are scenarios however where the security decision can not be made on the fly. For these settings we developed ...
+
+Keywords: Electronic Health Record (EHR) systems, accountability, audit, distributed access control
+109
+	
+A comprehensive privacy-aware authorization framework founded on HIPAA privacy rules
+Ahmed AL Faresi, Duminda Wijesekera, Khaled Moidu
+November 2010 		
+IHI '10: Proceedings of the 1st ACM International Health Informatics Symposium
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (672.56 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 48,   Downloads (Overall): 287,    Citation Count:
+
+Health care entities publish privacy polices that are aligned with government regulations such as Health Insurance Portability and Accountability Act (HIPPA) and promise to use and disclose health data according to the stated policies. However actual ...
+Keywords: access control, ehr, hipaa, itepp, phi, privacy policy
+110
+	
+Tool review: Network traffic as a source of evidence: tool strengths, weaknesses, and future needs
+Eoghan Casey
+February 2004 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 1 Issue 1
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 15
+
+Digital investigators require specialized knowledge and tools to process network traffic as a source of evidence. Existing open source tools can be used for basic tasks in simple cases but lack the functionality of commercial tools that are specifically ...
+Keywords: Computer crime, Digital evidence, Forensic examination, Network investigations, Network traffic
+111
+	
+Integrity in very large information systems: dealing with information risk black swans
+Beat Liver, Helmut Kaufmann
+June 2013 		
+CAiSE'13: Proceedings of the 25th international conference on Advanced Information Systems Engineering
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Multi-national enterprises, like financial services companies, operate large and critical information systems around the globe on a 24/7 basis. In an information-based business, even a single inadequately designed, implemented, tested and operated business ...
+Keywords: business critical systems, data analytics, information risk management, integrity, service-oriented architecture
+112
+	
+Designing and Implementing the OP and OP2 Web Browsers
+Chris Grier, Shuo Tang, Samuel T. King
+May 2011 		
+Transactions on the Web (TWEB) , Volume 5 Issue 2
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.22 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 69,   Downloads (Overall): 647,    Citation Count: 6
+
+Current web browsers are plagued with vulnerabilities, providing hackers with easy access to computer systems via browser-based attacks. Browser security efforts that retrofit existing browsers have had limited success because the design of modern browsers ...
+Keywords: OP browser, Web browsing, browser plugin, formal verification, security
+113
+	
+Cisco Router and Switch Forensics: Investigating and Analyzing Malicious Network Activity
+Dale Liu
+May 2009 		
+Cisco Router and Switch Forensics: Investigating and Analyzing Malicious Network Activity
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (11.55 MB),  PDFPDF (46.55 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 8,   Downloads (12 Months): 84,   Downloads (Overall): 388,    Citation Count: 1
+
+Cisco IOS (the software that runs the vast majority of Cisco routers and all Cisco network switches) is the dominant routing platform on the Internet and corporate networks. This widespread distribution, as well as its architectural deficiencies, makes ...
+Keywords: Networking, Security
+114
+	
+T-DRE: a hardware trusted computing base for direct recording electronic vote machines
+Roberto Gallo, Henrique Kawakami, Ricardo Dahab, Rafael Azevedo, Saulo Lima, Guido Araujo
+December 2010 		
+ACSAC '10: Proceedings of the 26th Annual Computer Security Applications Conference
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (750.10 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 27,   Downloads (Overall): 152,    Citation Count:
+
+We present a hardware trusted computing base (TCB) aimed at Direct Recording Voting Machines (T-DRE), with novel design features concerning vote privacy, device verifiability, signed-code execution and device resilience. Our proposal is largely compliant ...
+115
+	
+A framework for secure and verifiable logging in public communication networks
+Vassilios Stathopoulos, Panayiotis Kotzanikolaou, Emmanouil Magkos
+August 2006 		
+CRITIS'06: Proceedings of the First international conference on Critical Information Infrastructures Security
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+In this paper we are focusing on secure logging for public network providers. We review existing security threat models against system logging and we extend these to a new threat model especially suited in the environment of telecommunication network ...
+116
+	
+Securing provenance
+Uri Braun, Avraham Shinnar, Margo Seltzer
+July 2008 		
+HOTSEC'08: Proceedings of the 3rd conference on Hot topics in security
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 43
+
+Provenance describes how an object came to be in its present state. Intelligence dossiers, medical records and corporate financial reports capture provenance information. Many of these applications call for security, but existing security models are ...
+117
+	
+SP 800-113. Guide to SSL VPNs
+Sheila E. Frankel, Paul Hoffman, Angela D. Orebaugh, Richard Park
+July 2008 		
+SP 800-113. Guide to SSL VPNs
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (868.36 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 7,   Downloads (Overall): 24,    Citation Count: 0
+
+Secure Sockets Layer (SSL) Virtual Private Networks (VPNs) provide users with secure remote access to an organization's resources. An SSL VPN consists of one or more VPN devices to which users connect using their Web browsers. The traffic between the ...
+Keywords: SSL, Secure sockets layer, TLS, VPN, secure remote access, transport layer security, virtual private network
+118
+	
+Digital Forensics for Legal Professionals: Understanding Digital Evidence From The Warrant To The Courtroom, 1st edition
+Larry Daniel, Lars Daniel
+October 2011 		
+Digital Forensics for Legal Professionals: Understanding Digital Evidence From The Warrant To The Courtroom, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (4.52 MB),  PDFPDF (13.84 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 14,   Downloads (12 Months): 60,   Downloads (Overall): 100,    Citation Count: 0
+
+Digital Forensics for Legal Professionals provides you with a guide to digital technology forensics in plain English. In the authors' years of experience in working with attorneys as digital forensics experts, common questions arise again and ...
+119
+	
+Security Issues in Mobile Agent Applications
+O. A. Ojesanmi
+October 2010 		
+International Journal of Agent Technologies and Systems , Volume 2 Issue 4
+Publisher: IGI Global
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+An autonomous mobile agent is an executing program that can migrate from machine to machine in a heterogeneous network under its own control. An agent can either follow a pre-assigned path on the network or determine its itinerary based on the data collected ...
+Keywords: Autonomous, Computing, Data, High Latency, Mobile Agent, Network, Program, Security
+120
+	
+SP 800-97. Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i
+Sheila E. Frankel, Bernard Eydt, Les Owens, Karen A. Scarfone
+February 2007 		
+SP 800-97. Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (4.00 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 33,   Downloads (Overall): 76,    Citation Count: 1
+
+This report provides readers with a detailed explanation of next generation 802.11 wireless security. It describes the inherently flawed Wired Equivalent Privacy (WEP) and explains 802.11i's two-step approach (interim and long-term)to providing effective ...
+Keywords: IEEE 802.11, Wi-Fi, network security, wireless local area network, wireless networking 
+121
+	
+Moving To The Cloud: Developing Apps in the New World of Cloud Computing, 1st edition
+Dinkar Sitaram, Geetha Manjunath
+December 2011 		
+Moving To The Cloud: Developing Apps in the New World of Cloud Computing, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (7.34 MB),  PDFPDF (14.44 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 14,   Downloads (12 Months): 137,   Downloads (Overall): 198,    Citation Count: 1
+
+Moving to the Cloud provides an in-depth introduction to cloud computing models, cloud platforms, application development paradigms, concepts and technologies. The authors particularly examine cloud platforms that are in use today. They also describe ...
+122
+	
+Understanding and protecting privacy: formal semantics and principled audit mechanisms
+Anupam Datta, Jeremiah Blocki, Nicolas Christin, Henry DeYoung, Deepak Garg, Limin Jia, Dilsun Kaynar, Arunesh Sinha
+December 2011 		
+ICISS'11: Proceedings of the 7th international conference on Information Systems Security
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+Privacy has become a significant concern in modern society as personal information about individuals is increasingly collected, used, and shared, often using digital technologies, by a wide range of organizations. Certain information handling practices ...
+123
+	
+Performance analysis of Bayesian networks and neural networks in classification of file system activities
+Muhammad Naeem Ahmed Khan
+June 2012 		
+Computers and Security , Volume 31 Issue 4
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Precise comprehension of a file system state at any given time is vital for performing digital forensic analyses. To uncover evidence of the digital crime, the logical representation of file system activities helps reconstruct post-event timeline of ...
+Keywords: Bayesian decision theory, Bayesian learning, Computer forensic analysis, Digital evidence, Digital forensics, Neural networks
+124
+	
+Generalizing database forensics
+Kyriacos E. Pavlou, Richard T. Snodgrass
+June 2013 		
+Transactions on Database Systems (TODS) , Volume 38 Issue 2
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (638.93 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 103,   Downloads (Overall): 368,    Citation Count: 0
+
+In this article we present refinements on previously proposed approaches to forensic analysis of database tampering. We significantly generalize the basic structure of these algorithms to admit new characterizations of the “where” axis of ...
+Keywords: Compliant records, Monochromatic Algorithm, a3D Algorithm, attribute-based partitioning, corruption event taxonomy, forensic analysis algorithm, forensic analysis protocol, forensic cost, page-based partitioning
+125
+	
+Efficient auditing for complex SQL queries
+Raghav Kaushik, Ravi Ramamurthy
+June 2011 		
+SIGMOD '11: Proceedings of the 2011 ACM SIGMOD International Conference on Management of data
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.60 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 46,   Downloads (Overall): 526,    Citation Count: 5
+
+We address the problem of data auditing that asks for an audit trail of all users and queries that potentially breached information about sensitive data. A lot of the previous work in data auditing has focused on providing strong privacy guarantees and ...
+Keywords: access control, auditing, privacy, query processing, security
+126
+	
+Network Intrusion Analysis: Methodologies, Tools, and Techniques for Incident Analysis and Response, 1st edition
+Joe Fichera, Steven Bolt
+December 2012 		
+Network Intrusion Analysis: Methodologies, Tools, and Techniques for Incident Analysis and Response, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (13.32 MB),  PDFPDF (32.19 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 16,   Downloads (12 Months): 74,   Downloads (Overall): 144,    Citation Count: 0
+
+Nearly every business depends on its network to provide information services to carry out essential activities, and network intrusion attacks have been growing increasingly frequent and severe. When network intrusions do occur, it's imperative that a ...
+127
+	
+Integrity of electronic voting systems: fallacious use of cryptography
+Seda Davtyan, Aggelos Kiayias, Laurent Michel, Alexander Russell, Alexander A. Shvartsman
+March 2012 		
+SAC '12: Proceedings of the 27th Annual ACM Symposium on Applied Computing
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.96 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 22,   Downloads (Overall): 199,    Citation Count:
+
+In recent years, electronic voting systems have been deployed in all U.S. elections. Despite the fact that cryptographic integrity checks are used in most such systems, several reports have documented serious security vulnerabilities of electronic voting ...
+128
+	
+GitBAC: Flexible access control for non-modular concerns
+Mark Robinson, Jianwei Niu, Macneil Shonle
+November 2011 		
+ASE '11: Proceedings of the 2011 26th IEEE/ACM International Conference on Automated Software Engineering
+Publisher: IEEE Computer Society
+Full text available: 	PDFPDF (284.77 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 8,   Downloads (Overall): 40,    Citation Count:
+
+Today's techniques for controlling access to software artifacts are limited to restricting access to whole files and directories. But when a company's access control policy does not match a project's existing physical modularization, these techniques ...
+129
+	
+Securing distributed storage: challenges, techniques, and systems
+Vishal Kher, Yongdae Kim
+November 2005 		
+StorageSS '05: Proceedings of the 2005 ACM workshop on Storage security and survivability
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (294.61 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 12,   Downloads (12 Months): 92,   Downloads (Overall): 2491,    Citation Count: 19
+
+The rapid increase of sensitive data and the growing number of government regulations that require longterm data retention and protection have forced enterprises to pay serious attention to storage security. In this paper, we discuss important security ...
+Keywords: authorization, confidentiality, integrity, intrusion detection, privacy
+130
+	
+LogGC: garbage collecting audit log
+Kyu Hyung Lee, Xiangyu Zhang, Dongyan Xu
+November 2013 		
+CCS '13: Proceedings of the 2013 ACM SIGSAC conference on Computer & communications security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.14 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 7,   Downloads (12 Months): 77,   Downloads (Overall): 166,    Citation Count: 0
+
+System-level audit logs capture the interactions between applications and the runtime environment. They are highly valuable for forensic analysis that aims to identify the root cause of an attack, which may occur long ago, or to determine the ramifications ...
+Keywords: attack provenance, audit log, garbage collection, reverse engineering
+131
+	
+Electronic government procurement implementation in India: a cross sectional study
+Prabir Panda, G. P. Sahu
+December 2015 		
+International Journal of Business Information Systems , Volume 18 Issue 1
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+In the recent past, electronic procurement has drawn lots of attention in India due to its potential of bringing transparency and efficiency in public purchases. The Government of India launched National E-Government Plan in 2006 with e-procurement as ...
+132
+	
+SP 800-53 Rev. 3. Recommended Security Controls for Federal Information Systems and Organizations
+Joint Task Force Transformation Initiative
+August 2009 		
+SP 800-53 Rev. 3. Recommended Security Controls for Federal Information Systems and Organizations
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (438.72 KB),  PDFPDF (588.93 KB),  PDFPDF (646.60 KB),  PDFPDF (3.32 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 644,   Downloads (12 Months): 5387,   Downloads (Overall): 5434,    Citation Count: 1
+
+The objective of NIST SP 800-53 is to provide a set of security controls that can satisfy the breadth and depth of security requirements levied on information systems and organizations and that is consistent with and complementary to other established ...
+Keywords: FISMA, Security controls, common controls, managing risk, risk management framework, security control assurance, security control baselines, security requirements
+133
+	
+Forensic discovery auditing of digital evidence containers
+Golden G. Richard, III, Vassil Roussev, Lodovico Marziale
+June 2007 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 4 Issue 2
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Current digital forensics methods capture, preserve, and analyze digital evidence in general-purpose electronic containers (typically, plain files) with no dedicated support to help establish that the evidence has been properly handled. Auditing of a ...
+Keywords: Digital evidence containers Auditing, Digital forensics, Filesystems, Operating systems internals
+134
+	
+Computer forensics laboratory and tools
+Guillermo A. Francia, Keion Clinton
+June 2005 		
+Journal of Computing Sciences in Colleges , Volume 20 Issue 6
+Publisher: Consortium for Computing Sciences in Colleges
+Full text available: 	PDFPDF (244.78 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 41,   Downloads (Overall): 3289,    Citation Count: 0
+
+The pervasiveness and the convenience of information technology tend to make most of society deeply dependent on the availability computers and network systems. As our reliance on such systems grows, so does our exposure to its vulnerabilities. Day after ...
+135
+	
+UNICORN: misuse detection for UNICOS
+Gary G. Christoph, Kathleen A. Jackson, Michael C. Neuman, Christine L. B. Siciliano, Dennis D. Simmonds, Cathy A. Stallings, Joseph L. Thompson
+December 1995 		
+Supercomputing '95: Proceedings of the 1995 ACM/IEEE conference on Supercomputing (CDROM)
+Publisher: ACM
+Full text available: 	HtmlHtml (43.88 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 5,   Downloads (Overall): 242,    Citation Count: 3
+
+An effective method for detecting computer misuse is the automatic auditing and analysis of on-line user activity. This activity is reflected in the system audit record, by changes in the vulnerability posture of the system configuration, and in other ...
+Keywords: anomaly detection, computer misuse, auditing, UNICOS, computer security, hacking, intrusion detection, security logs
+136
+	
+Secure log management for privacy assurance in electronic communications
+Vassilios Stathopoulos, Panayiotis Kotzanikolaou, Emmanouil Magkos
+December 2008 		
+Computers and Security , Volume 27 Issue 7-8
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+In this paper we examine logging security in the environment of electronic communication providers. We review existing security threat models for system logging and we extend these to a new security model especially suited for communication network providers, ...
+Keywords: Digital signatures, Integrity, Internal attacks, Network providers, System logging
+137
+	
+Nokia Firewall, VPN, and IPSO Configuration Guide
+Andrew Hay, Keli Hay, Peter Giannoulis
+November 2008 		
+Nokia Firewall, VPN, and IPSO Configuration Guide
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (5.13 MB),  PDFPDF (9.30 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 17,   Downloads (Overall): 92,    Citation Count: 0
+
+"While Nokia is perhaps most recognized for its leadership in the mobile phone market, they have successfully demonstrated their knowledge of the Internet security appliance market and its customers requirements."--Chris Christiansen, Vice President, ...
+Keywords: Applied, Computer Science, Computers, Handheld Computing, Security
+138
+	
+SP 800-68 Rev. 1. Guide to Securing Microsoft Windows XP Systems for IT Professionals: A NIST Security Configuration Checklist
+Karen A. Scarfone, Murugiah P. Souppaya, Paul M. Johnson
+October 2008 		
+SP 800-68 Rev. 1. Guide to Securing Microsoft Windows XP Systems for IT Professionals: A NIST Security Configuration Checklist
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.44 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 6,   Downloads (Overall): 15,    Citation Count: 0
+
+This publication assists IT professionals in securing Windows XP workstations, mobile computers, and computers used by telecommuters within various environments. The recommendations are specifically intended for Windows XP Professional systems running ...
+Keywords: Federal Desktop Core Configuration, Windows XP security, Windows security, host security
+139
+	
+SP 800-128. Guide for Security-Focused Configuration Management of Information Systems
+L. Arnold Johnson, Kelley L. Dempsey, Ronald S. Ross, Sarbari Gupta, Dennis Bailey
+August 2011 		
+SP 800-128. Guide for Security-Focused Configuration Management of Information Systems
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (854.80 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 44,   Downloads (Overall): 88,    Citation Count: 0
+
+The purpose of Special Publication 800-128, Guide for Security-Focused Configuration Management of Information Systems, is to provide guidelines for organizations responsible for managing and administering the security of federal information systems ...
+Keywords: Configuration management, SecCM, control, information systems, monitoring, risk management framework, security content automation protocol (SCAP), security program, security-focused continuous monitoring
+140
+	
+Windows Registry Forensics: Advanced Digital Forensic Analysis of the Windows Registry
+Harlan Carvey
+February 2011 		
+Windows Registry Forensics: Advanced Digital Forensic Analysis of the Windows Registry
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (2.88 MB),  PDFPDF (4.21 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 54,   Downloads (Overall): 91,    Citation Count: 1
+
+Harlan Carvey brings readers an advanced book on Windows Registry. The first book of its kind EVER -- Windows Registry Forensics provides the background of the Registry to help develop an understanding of the binary structure of Registry hive files. ... 
+141
+	
+A comparative study of attributes for gathering admissible evidence in the investigation of distributed denial of service (DDoS) attacks
+Joshua Ojo Nehinbe
+July 2012 		
+International Journal of Internet Technology and Secured Transactions , Volume 4 Issue 2/3
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Global crises have widened the scope of criminal activities that intruders commit on computer networks. However, available litigations to charge intruders are ineffective because most electronic evidence obtained from intrusion logs are inadmissible ...
+142
+	
+An audit trail service to enhance privacy compliance in federated identity management
+Liam Peyton, Chintan Doshi, Pierre Seguin
+October 2007 		
+CASCON '07: Proceedings of the 2007 conference of the center for advanced studies on Collaborative research
+Publisher: IBM Corp.
+Full text available: 	PDFPDF (177.94 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 12,   Downloads (Overall): 688,    Citation Count: 2
+
+Federated identity management systems, such as the Liberty Alliance framework, are intended to protect identity and control access to personal information. An audit trail service has been proposed as an addition to the framework to address potential ...
+143
+	
+Challenges for protecting the privacy of health information: required certification can leave common vulnerabilities undetected
+Ben Smith, Andrew Austin, Matt Brown, Jason T. King, Jerrod Lankford, Andrew Meneely, Laurie Williams
+October 2010 		
+SPIMACS '10: Proceedings of the second annual workshop on Security and privacy in medical and home-care systems
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (613.72 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 76,   Downloads (Overall): 654,    Citation Count: 2
+
+The use of electronic health record (EHR) systems by medical professionals enables the electronic exchange of patient data, yielding cost and quality of care benefits. The United States American Recovery and Reinvestment Act (ARRA) of 2009 provides up ...
+Keywords: attack, cchit, dos, ehr, emr, ethical hacking, exploit, healthcare, man-in-the-middle, meaningful use, medical records, openemr, security testing, sql injection, vulnerability, white hat, xss
+144
+	
+On Incident Handling and Response: A state-of-the-art approach
+Sarandis Mitropoulos, Dimitrios Patsos, Christos Douligeris
+July 2006 		
+Computers and Security , Volume 25 Issue 5
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+Incident Response has always been an important aspect of Information Security but it is often overlooked by security administrators. Responding to an incident is not solely a technical issue but has many management, legal, technical and social aspects ...
+Keywords: Computer forensics, Incident Handling, Incident Response, Internet forensics, Software forensics, Trace-back mechanisms
+145
+	
+Automatic forensic log file analysis for Mac OS X systems
+Zeki Turedi, Liangxiu Han
+July 2013 		
+International Journal of Electronic Security and Digital Forensics , Volume 5 Issue 2
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Mac OS X-based systems are gaining growing popularity. Yet forensics on this type of systems is still in its infancy and traditional forensic tools do not work well with it. Currently, most examinations for Mac OS X systems are done manually by experts. ...
+146
+	
+A mutual and pseudo inverse matrix - based authentication mechanism for outsourcing service
+Hue T. B. Pham, Thuc D. Nguyen, Van H. Dang, Isao Echizen, Thuy T. B. Dong
+April 2011 		
+ACIIDS'11: Proceedings of the Third international conference on Intelligent information and database systems - Volume Part I , Volume Part I
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Database outsourcing is becoming popular in which the data owners ship their data to external service provider. Such a model provides organizations advantages such as cost savings and service benefits. However, the delegation of database management to ...
+Keywords: authentication mechanism, outsourcing service, untrusted server
+147
+	
+Does organizing security patterns focus architectural choices?
+Koen Yskout, Riccardo Scandariato, Wouter Joosen
+June 2012 		
+ICSE '12: Proceedings of the 34th International Conference on Software Engineering
+Publisher: IEEE Press
+Full text available: 	PDFPDF (481.06 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 23,   Downloads (Overall): 118,    Citation Count: 2
+
+Security patterns can be a valuable vehicle to design secure software. Several proposals have been advanced to improve the usability of security patterns. They often describe extra annotations to be included in the pattern documentation. This paper ...
+148
+	
+A new approach to secure logging
+Di Ma, Gene Tsudik
+March 2009 		
+Transactions on Storage (TOS) , Volume 5 Issue 1
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (169.35 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 8,   Downloads (12 Months): 66,   Downloads (Overall): 867,    Citation Count: 8
+
+The need for secure logging is well-understood by the security professionals, including both researchers and practitioners. The ability to efficiently verify all (or some) log entries is important to any application employing secure logging techniques. ...
+
+Keywords: MACs, Secure logging, forward secure sequential aggregate (FssAgg) authentication, forward-secure stream integrity, signatures, truncation attack
+149
+	
+The IT Regulatory and Standards Compliance Handbook:: How to Survive Information Systems Audit and Assessments
+Craig S. Wright
+June 2008 		
+The IT Regulatory and Standards Compliance Handbook:: How to Survive Information Systems Audit and Assessments
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (9.19 MB),  PDFPDF (20.21 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 12,   Downloads (12 Months): 80,   Downloads (Overall): 398,    Citation Count: 0
+
+This book provides comprehensive methodology, enabling the staff charged with an IT security audit to create a sound framework, allowing them to meet the challenges of compliance in a way that aligns with both business and technical needs. This "roadmap" ...
+Keywords: Applied, Computer Science, Computers, Security
+150
+	
+Modifying without a trace: general audit guidelines are inadequate for open-source electronic health record audit mechanisms
+Jason Tyler King, Ben Smith, Laurie Williams
+January 2012 		
+IHI '12: Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (504.50 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 49,   Downloads (Overall): 261,    Citation Count: 8
+
+Without adequate audit mechanisms, electronic health record (EHR) systems remain vulnerable to undetected misuse. Users could modify or delete protected health information without these actions being traceable. The objective of this paper is to assess ...
+Keywords: accountability, audit, healthcare, log, privacy, security, user-based non-repudiation
+151
+	
+Security and privacy system architecture for an e-hospital environment
+Kathryn Garson, Carlisle Adams
+March 2008 		
+IDtrust '08: Proceedings of the 7th symposium on Identity and trust on the Internet
+Publisher: ACM
+Full text available: 	PDFPDF (391.96 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 81,   Downloads (Overall): 1466,    Citation Count: 2
+
+Hospitals are now using electronic medical records and computer applications in order to provide more efficient and thorough care for their patients. The Mobile Emergency Triage system provides doctors with decision support for emergency care by pulling ...
+Keywords: authentication, health care, policy-based encryption, privacy
+152
+	
+SP 800-55 Rev. 1. Performance Measurement Guide for Information Security
+Elizabeth Chew, Marianne Swanson, Kevin M. Stine, Nadya Bartol, Anthony Brown, Will Robinson
+July 2008 		
+SP 800-55 Rev. 1. Performance Measurement Guide for Information Security
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.45 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 17,   Downloads (12 Months): 149,   Downloads (Overall): 366,    Citation Count: 6
+
+This document provides guidance on how an organization, through the use of metrics, identifies the adequacy of in-place security controls, policies, and procedures. It provides an approach to help management decide where to invest in additional security ...
+Keywords: Information Security, Measures, Metrics, Performance, Reports, Security Controls
+153
+	
+Middleware support for auditing service process flows
+Hakan Hacigümüs
+November 2006 		
+MW4SOC '06: Proceedings of the 1st workshop on Middleware for Service Oriented Computing (MW4SOC 2006)
+Publisher: ACM
+Full text available: 	PDFPDF (141.53 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 6,   Downloads (Overall): 394,    Citation Count: 0
+
+The ever increasing security and privacy concerns require organizations to strictly comply with the regulations and the guidelines. Similar to any other part of an organization, it is necessary to conduct audits to determine whether the IT systems are ...
+Keywords: auditing, middleware, privacy, security, service oriented computing
+154
+	
+Is Privacy Supportive for Adaptive ICT Systems?
+Sven Wohlgemuth
+December 2014 		
+iiWAS '14: Proceedings of the 16th International Conference on Information Integration and Web-based Applications & Services
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (367.19 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 48,   Downloads (Overall): 48,    Citation Count: 0
+
+Adaptive ICT systems promise to improve resilience by re-using and sharing ICT services and information related to electronic identities and real-time requirements of business networking applications. The aim is to improve welfare and security of a society, ...
+Keywords: Adaptive ICT System, Game Theory, IT Risk Management, Identity Management, Multilateral IT Security, Privacy, Resilience, Security
+155
+	
+Casting votes in the auditorium
+Daniel Sandler, Dan S. Wallach
+August 2007 		
+EVT'07: Proceedings of the USENIX Workshop on Accurate Electronic Voting Technology
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 9
+
+In elections employing electronic voting machines, we have observed that poor procedures, equipment failures, and honest mistakes pose a real threat to the accuracy of the final tally. The event logs kept by these machines can give auditors clues as ...
+156
+	
+A privacy framework for mobile health and home-care systems
+David Kotz, Sasikanth Avancha, Amit Baxi
+November 2009 		
+SPIMACS '09: Proceedings of the first ACM workshop on Security and privacy in medical and home-care systems
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (666.47 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 17,   Downloads (12 Months): 201,   Downloads (Overall): 1697,    Citation Count: 12
+
+In this paper, we consider the challenge of preserving patient privacy in the context of mobile healthcare and home-care systems, that is, the use of mobile computing and communications technologies in the delivery of healthcare or the provision of at-home ...
+
+Keywords: e-health, electronic health record, hipaa, home healthcare, medicine, mhealth, mobile healthcare, privacy framework
+157
+	
+MEGA: A tool for Mac OS X operating system and application forensics
+Robert A. Joyce, Judson Powers, Frank Adelstein
+September 2008 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 5
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Computer forensic tools for Apple Mac hardware have traditionally focused on low-level file system details. Mac OS X and common applications on the Mac platform provide an abundance of information about the user's activities in configuration files, caches, ...
+Keywords: Application analysis, Computer forensics, Disk image analysis, Mac OS X, Spotlight
+158
+	
+Securing SQL Server: Protecting Your Database from Attackers, 2 edition
+Denny Cherry
+July 2012 		
+Securing SQL Server: Protecting Your Database from Attackers, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (4.37 MB),  PDFPDF (15.39 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 47,   Downloads (Overall): 65,    Citation Count: 0
+
+Securing SQL Server, Second Edition explores the potential attack vectors someone can use to break into your SQL Server database as well as how to protect your database from these attacks. Written by Denny Cherry, a Microsoft MVP for the SQL Server ...
+159
+	
+Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management
+Anton Chuvakin, Kevin Schmidt, Chris Phillips
+December 2012 		
+Logging and Log Management: The Authoritative Guide to Understanding the Concepts Surrounding Logging and Log Management
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (5.00 MB),  PDFPDF (12.41 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 17,   Downloads (12 Months): 102,   Downloads (Overall): 155,    Citation Count: 0
+
+Effectively analyzing large volumes of diverse logs can pose many challenges. Logging and Log Management helps to simplify this complex process using practical guidance and real-world examples. Packed with information you need to know for system, ...
+160
+	
+How to Cheat at Deploying and Securing RFID
+Frank Thornton
+December 2007 		
+How to Cheat at Deploying and Securing RFID
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (4.16 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 11,   Downloads (12 Months): 31,   Downloads (Overall): 151,    Citation Count: 1
+
+RFID is a method of remotely storing and receiving data using devices called RFID tags. RFID tags can be small adhesive stickers containing antennas that receive and respond to transmissions from RFID transmitters. RFID tags are used to identify and ...
+Keywords: Security 
+161
+	
+Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework
+S. Chokhani, W. Ford, R. Sabett, C. Merrill, S. Wu
+November 2003 		
+Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework
+Publisher: RFC Editor
+Full text available: 	TxtTxt (228.12 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 1,   Downloads (Overall): 105,    Citation Count: 11
+
+This document presents a framework to assist the writers of certificate policies or certification practice statements for participants within public key infrastructures, such as certification authorities, policy authorities, and communities of interest ...
+162
+	
+A Formal Approach for the Forensic Analysis of Logs
+Ali Reza Arasteh, Mourad Debbabi, Assaad Sakha
+May 2006 		
+Proceeding of the 2006 conference on New Trends in Software Methodologies, Tools and Techniques: Proceedings of the fifth SoMeT_06
+Publisher: IOS Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+The increasing trend of computer crimes has intensified the relevance of cyber-forensics. In such a context, forensic analysis plays a major role by analyzing the evidence gathered from the crime scene and corroborating facts about the committed crime. ...
+
+Keywords: Cyber Forensics, Formal Verification, Log Analysis, Logic, Semantics
+163
+	
+Ohmage: A General and Extensible End-to-End Participatory Sensing Platform
+H. Tangmunarunkit, C. K. Hsieh, B. Longstaff, S. Nolen, J. Jenkins, C. Ketcham, J. Selsky, F. Alquaddoomi, D. George, J. Kang, Z. Khalapyan, J. Ooms, N. Ramanathan, D. Estrin
+May 2015 		
+Transactions on Intelligent Systems and Technology (TIST) , Volume 6 Issue 3
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (673.52 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 26,   Downloads (12 Months): 71,   Downloads (Overall): 71,    Citation Count: 0
+
+Participatory sensing (PS) is a distributed data collection and analysis approach where individuals, acting alone or in groups, use their personal mobile devices to systematically explore interesting aspects of their lives and communities [Burke et al. ...
+Keywords: Participatory sensing, citizen science, clinical research, data sharing, educational tool, experience sampling, mobile data collection, mobile sensing
+164
+	
+A roadmap towards improving managed security services from a privacy perspective
+Nils Ulltveit-Moe
+September 2014 		
+Ethics and Information Technology , Volume 16 Issue 3
+Publisher: Kluwer Academic Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+This paper proposes a roadmap for how privacy leakages from outsourced managed security services using intrusion detection systems can be controlled. The paper first analyses the risk of leaking private or confidential information from signature-based ...
+Keywords: Ethical awareness, Intrusion detection and prevention systems, Managed security services, Outsourcing, Privacy, Security
+165
+	
+Security for Microsoft Windows System Administrators: Introduction to Key Information Security Concepts
+Derrick Rountree
+October 2010 		
+Security for Microsoft Windows System Administrators: Introduction to Key Information Security Concepts
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (7.14 MB),  PDFPDF (19.97 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 55,   Downloads (Overall): 72,    Citation Count: 0
+
+It's no longer just a buzz word: "Security" is an important part of your job as a Systems Administrator. Most security books are aimed at security professionals, but Security for System Administrators is written for System Administrators. This book covers ...
+166
+	
+Identifying the provenance of correlated anomalies
+Dawood Tariq, Basim Baig, Ashish Gehani, Salman Mahmood, Rashid Tahir, Azeem Aqil, Fareed Zaffar
+March 2011 		
+SAC '11: Proceedings of the 2011 ACM Symposium on Applied Computing
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (533.93 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 8,   Downloads (Overall): 108,    Citation Count:
+
+Identifying when anomalous activity is correlated in a distributed system is useful for a range of applications from intrusion detection to tracking quality of service. The more specific the logs, the more precise the analysis they allow. However, collecting ...
+Keywords: anomalies, correlation, detection, distributed, grid, lineage, monitoring, provenance
+167
+	
+SP 800-92. Guide to Computer Security Log Management
+Karen Kent, Murugiah P. Souppaya
+September 2006 		
+SP 800-92. Guide to Computer Security Log Management
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.56 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 10,   Downloads (12 Months): 106,   Downloads (Overall): 169,    Citation Count: 4
+
+The National Institute of Standards and Technology (NIST) developed this doocument in furtherance of its statutory responsibilities under the Federal Information security Management Act (FISMA) of 2002, Public Law 107-347. This publication seeks to assist ...
+Keywords: Computer security log management, FISMA, log management
+168
+	
+Business Continuity and Disaster Recovery Planning for IT Professionals, 2 edition
+Susan Snedaker
+September 2013 		
+Business Continuity and Disaster Recovery Planning for IT Professionals, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (4.86 MB),  PDFPDF (5.84 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 46,   Downloads (12 Months): 105,   Downloads (Overall): 105,    Citation Count: 0
+
+Powerful Earthquake Triggers Tsunami in Pacific. Hurricane Isaac Makes Landfall in the Gulf Coast. Wildfires Burn Hundreds of Houses and Businesses in Colorado. Tornado Touches Down in Missouri. These headlines not only have caught the attention of people ...
+169
+	
+SP 800-137. Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations
+Kelley L. Dempsey, Nirali Shah Chawla, L. Arnold Johnson, Ronald Johnston, Alicia Clay Jones, Angela D. Orebaugh, Matthew A. Scholl, Kevin M. Stine
+September 2011 		
+SP 800-137. Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (980.76 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 42,   Downloads (Overall): 78,    Citation Count: 1
+
+The purpose of this guideline is to assist organizations in the development of a continuous monitoring strategy and the implementation of a continuous monitoring program providing visibility into organizational assets, awareness of threats and vulnerabilities, ...
+Keywords: Continuous monitoring, ISCM, information security, risk management, security
+170
+	
+Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems
+Eric D. Knapp
+September 2011 		
+Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (4.05 MB),  PDFPDF (12.13 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 23,   Downloads (12 Months): 107,   Downloads (Overall): 140,    Citation Count: 1
+
+For a decade now we have been hearing the same thing-that our critical infrastructure is vulnerable and it needs to be secured. Industrial Network Security examines the unique protocols and applications that are the foundation of industrial control ...
+171
+	
+A latent class modeling approach to detect network intrusion
+Yun Wang, Inyoung Kim, Gaston Mbateng, Shih-Yieh Ho
+December 2006 		
+Computer Communications , Volume 30 Issue 1
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+This study presents a latent class modeling approach to examine network traffic data when labeled abnormal events are absent in training data, or such events are insufficient to fit a conventional regression model. Using six anomaly-associated risk factors ...
+
+Keywords: Classification, Computer security, Intrusion detection, Latent class model, Machine learning
+172
+	
+The role of operating systems in computer forensics
+Ewa Huebner, Frans Henskens
+April 2008 		
+SIGOPS Operating Systems Review , Volume 42 Issue 3
+Publisher: ACM
+Full text available: 	PDFPDF (570.42 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 68,   Downloads (Overall): 1070,    Citation Count: 1
+
+Computer forensics is a multidisciplinary field concerned with the examination of computer systems which have been involved in criminal activity, either as an object or a tool of a crime. The aim of the investigator is to find information relevant to ...
+173
+	
+Digital Forensics with Open Source Tools, 1st edition
+Cory Altheide, Harlan Carvey
+April 2011 		
+Digital Forensics with Open Source Tools, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (3.34 MB),  PDFPDF (6.83 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 23,   Downloads (12 Months): 127,   Downloads (Overall): 198,    Citation Count: 2
+
+Digital Forensics with Open Source Tools is the definitive book on investigating and analyzing computer systems and media using open source tools. The book is a technical procedural guide, and explains the use of these tools on Linux and Windows systems ...
+174
+	
+Towards improved privacy policy coverage in healthcare using policy refinement
+Rafae Bhatti, Tyrone Grandison
+September 2007 		
+SDM'07: Proceedings of the 4th VLDB conference on Secure data management
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 6
+
+It is now mandatory for healthcare organizations to specify and publish their privacy policies. This has made privacy management initiatives in the healthcare sector increasingly important. However, several recent reports in the public media and the ...
+
+Keywords: HIPAA, compliance, healthcare, privacy management, refinement
+175
+	
+Automated inference of past action instances in digital investigations
+Joshua I. James, Pavel Gladyshev
+June 2015 		
+International Journal of Information Security , Volume 14 Issue 3
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+As the amount of digital devices suspected of containing digital evidence increases, case backlogs for digital investigations are also increasing in many organizations. To ensure timely investigation of requests, this work proposes the use of signature-based ...
+Keywords: Action-trace update pattern detection, Automated inference, Automatic event reconstruction, Digital forensic investigations, Signature analysis
+176
+	
+Ideal log setting for database forensics reconstruction
+Oluwasola Mary Adedayo, Martin S. Olivier
+March 2015 		
+Digital Investigation: The International Journal of Digital Forensics & Incident Response , Volume 12 Issue C
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+The ability to reconstruct the data stored in a database at an earlier time is an important aspect of database forensics. Past research shows that the log file in a database can be useful for reconstruction. However, in many database systems there are ...
+Keywords: Database forensics, Database management system, Digital forensics, Ideal log setting, Reconstruction
+177
+	
+Adding value to log event correlation using distributed techniques
+Justin Myers, Michael R. Grimaila, Robert F. Mills
+April 2010 		
+CSIIRW '10: Proceedings of the Sixth Annual Workshop on Cyber Security and Information Intelligence Research
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (76.23 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 28,   Downloads (Overall): 248,    Citation Count:
+
+Log management and monitoring activities have traditionally proved very useful in detecting system and network faults. Increasingly, log monitoring has also been recognized for its value in detecting and thwarting malicious behavior on systems and the ...
+Keywords: common event expression, event correlation, insider threat, insider threat detection, log management, web server logs
+178
+	
+Model-driven business process security requirement specification
+Christian Wolter, Michael Menzel, Andreas Schaad, Philip Miseldine, Christoph Meinel
+April 2009 		
+Journal of Systems Architecture: the EUROMICRO Journal , Volume 55 Issue 4
+Publisher: Elsevier North-Holland, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 13
+
+Various types of security goals, such as authentication or confidentiality, can be defined as policies for service-oriented architectures, typically in a manual fashion. Therefore, we foster a model-driven transformation approach from modelled security ...
+
+Keywords: Access control, Business process, Model transformation, Security annotations, Web service security
+179
+	
+Cloud Computing: Theory and Practice, 1st edition
+Dan C. Marinescu
+June 2013 		
+Cloud Computing: Theory and Practice, 1st edition
+Publisher: Morgan Kaufmann Publishers Inc.
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (8.66 MB),  PDFPDF (13.83 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 50,   Downloads (12 Months): 416,   Downloads (Overall): 581,    Citation Count: 1
+
+Cloud Computing: Theory and Practice provides students and IT professionals with an in-depth analysis of the cloud from the ground up. Beginning with a discussion of parallel computing and architectures and distributed systems, the book turns to contemporary ...
+180
+	
+Trail of Bytes: New Techniques for Supporting Data Provenance and Limiting Privacy Breaches
+Srinivas Krishnan, Kevin Z. Snow, Fabian Monrose
+December 2012 		
+IEEE Transactions on Information Forensics and Security , Volume 7 Issue 6
+Publisher: IEEE Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Forensic analysis of computer systems requires that one first identify suspicious objects or events, and then examine them in enough detail to form a hypothesis as to their cause and effect. Sadly, while our ability to gather vast amounts of data has ... 
+181
+	
+The application of i-voting for estonian parliamentary elections of 2011
+Sven Heiberg, Peeter Laud, Jan Willemson
+September 2011 		
+VoteID'11: Proceedings of the Third international conference on E-Voting and Identity
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 3
+
+Estonia has implemented internet voting as a method to participate in various types of elections since 2005. In Riigikogu (parliament) Elections of 2011, over 140,000 voters used the internet voting method. The share of votes cast over the internet among ...
+182
+	
+Forensic analysis of database tampering
+Kyriacos E. Pavlou, Richard T. Snodgrass
+November 2008 		
+Transactions on Database Systems (TODS) , Volume 33 Issue 4
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.27 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 96,   Downloads (Overall): 1384,    Citation Count: 7
+
+Regulations and societal expectations have recently expressed the need to mediate access to valuable databases, even by insiders. One approach is tamper detection via cryptographic hashing. This article shows how to determine when the tampering occurred, ...
+
+Keywords: Monochromatic algorithm, Polychromatic algorithm, RGBY algorithm, Tiled Bitmap algorithm, a3D algorithm, compliant records, forensic analysis algorithm, forensic cost
+183
+	
+Evaluating text preprocessing to improve compression on maillogs
+Fred Otten, Barry Irwin, Hannah Thinyane
+October 2009 		
+SAICSIT '09: Proceedings of the 2009 Annual Research Conference of the South African Institute of Computer Scientists and Information Technologists
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (328.53 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 12,   Downloads (Overall): 97,    Citation Count:
+
+Maillogs contain important information about mail which has been sent or received. This information can be used for statistical purposes, to help prevent viruses or to help prevent SPAM. In order to satisfy regulations and follow good security practices, ...
+Keywords: algorithms, data compression, digital forensics, log management, security and trust management
+184
+	
+Practical policy patterns
+Dan Thomsen
+February 2011 		
+CODASPY '11: Proceedings of the first ACM conference on Data and application security and privacy
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (449.49 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 15,   Downloads (Overall): 121,    Citation Count:
+
+The paper attempts to encourage deeper thinking about the nature of security enforcement policies with the intent of fostering a practical engineering design approach for building security enforcement policy. The paper suggests several approaches to ...
+Keywords: access control, computer security, security pattern engineering
+185
+	
+Database Archiving: How to Keep Lots of Data for a Very Long Time, 1st edition
+Jack E. Olson
+November 2008 		
+Database Archiving: How to Keep Lots of Data for a Very Long Time, 1st edition
+Publisher: Morgan Kaufmann Publishers Inc.
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (1.42 MB),  PDFPDF (3.67 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 9,   Downloads (12 Months): 45,   Downloads (Overall): 277,    Citation Count: 1
+
+With the amount of data a business accumulates now doubling every 12 to 18 months, IT professionals need to know how to develop a system for archiving important database data, in a way that both satisfies regulatory requirements and is durable and secure. ...
+Keywords: Database Management, Information Management, Information Technology, Library & Information Science
+186
+	
+Single password authentication
+Tolga Acar, Mira Belenkiy, Alptekin Küpçü
+September 2013 		
+Computer Networks: The International Journal of Computer and Telecommunications Networking , Volume 57 Issue 13
+Publisher: Elsevier North-Holland, Inc.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Users frequently reuse their passwords when authenticating to various online services. Combined with the use of weak passwords or honeypot/phishing attacks, this brings high risks to the security of the user's account information. In this paper, we propose ...
+Keywords: Dictionary attacks, Honeypots, Malware, Mobile, Password-based authentication, Privacy
+187
+	
+A platform for RFID security and privacy administration
+Melanie R. Rieback, Georgi N. Gaydadjiev, Bruno Crispo, Rutger F. H. Hofman, Andrew S. Tanenbaum
+December 2006 		
+LISA '06: Proceedings of the 20th conference on Large Installation System Administration
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 8
+
+This paper presents the design, implementation, and evaluation of the RFID Guardian, the first-ever unified platform for RFID security and privacy administration. The RFID Guardian resembles an "RFID firewall," that monitors and controls access to RFID ...
+188
+	
+On scaling up sensitive data auditing
+Raghav Kaushik, Yupeng Fu, Ravishankar Ramamurthy
+March 2013 		
+Proceedings of the VLDB Endowment , Volume 6 Issue 5
+Publisher: VLDB Endowment
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.86 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 15,   Downloads (Overall): 47,    Citation Count: 0
+
+This paper studies the following problem: given (1) a query and (2) a set of sensitive records, find the subset of records "accessed" by the query. The notion of a query accessing a single record is adopted from prior work. There are several scenarios ...
+189
+	
+A software method for managing event logs to improve quality and dependability of business processes
+Mehmet S. Unluturk, Kaan Kurtel
+July 2010 		
+ICCOMP'10: Proceedings of the 14th WSEAS international conference on Computers: part of the 14th WSEAS CSCC multiconference - Volume I , Volume I
+Publisher: World Scientific and Engineering Academy and Society (WSEAS)
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+In this paper, we propose a logging service on .NET environment that utilizes the business process management domain to improve business fault tolerance, fault avoidance and alert managers to undesirable effects. The purpose of logging business processes ...
+Keywords: business process logging, diagnostics log viewer, diagnostics logging control, event log
+190
+	
+Audit Log Management in MongoDB
+Prabhakaran Murugesan, Indrakshi Ray
+June 2014 		
+SERVICES '14: Proceedings of the 2014 IEEE World Congress on Services
+Publisher: IEEE Computer Society
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+In the past few years, web-based applications and their data management needs have changed dramatically. Relational databases are often being replaced by other viable alternatives, such as NoSQL databases, for reasons of scalability and heterogeneity. ...
+Keywords: NoSQL, MongoDB, Audit Trail, Log Management
+191
+	
+The Best Damn Firewall Book Period, 2 edition
+Cherie Amon, Thomas W. Shinder, Anne Carasik-Henmi
+December 2007 		
+The Best Damn Firewall Book Period, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (63.90 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 13,   Downloads (12 Months): 65,   Downloads (Overall): 315,    Citation Count: 1
+
+The Second Edition of the Best Damn Firewall Book Period is completely revised and updated to include all of the most recent releases from Microsoft, Cisco, Juniper Network, SonicWALL, and Check Point.Compiled from the best of the Syngress firewall ...
+Keywords: Security
+192
+	
+Retrofitting network security to third-party applications: the secureBase experience
+Jonathan I. Kamens
+October 1993 		
+usenix-ss'93: Proceedings of the 4th conference on UNIX security symposium - Volume 4 , Volume 4
+Publisher: USENIX Association
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Systems such as Kerberos, designed to provide secure user and service authentication over insecure open networks, continue to gain acceptance in the UNIX world. There are both freely available and commercial products which reduce the vulnerabilities ...
+193
+	
+SP 800-82. Guide to Industrial Control Systems (ICS) Security: Supervisory Control and Data Acquisition (SCADA) systems, Distributed Control Systems (DCS), and other control system configurations such as Programmable Logic Controllers (PLC)
+Keith A. Stouffer, Joseph A. Falco, Karen A. Scarfone
+June 2011 		
+SP 800-82. Guide to Industrial Control Systems (ICS) Security: Supervisory Control and Data Acquisition (SCADA) systems, Distributed Control Systems (DCS), and other control system configurations such as Programmable Logic Controllers (PLC)
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.97 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 40,   Downloads (12 Months): 336,   Downloads (Overall): 547,    Citation Count: 3
+
+The purpose of this document is to provide guidance for securing industrial control systems (ICS), including supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and other systems performing control functions. ...
+Keywords: Cyber-physcial systems, ICS, Industrial Control Systems, SCADA, Supervisory Control and Data Acquisition, security controls, threats, vulnerabilities
+194
+	
+SP 800-45 Version 2. Guidelines on Electronic Mail Security
+Miles Tracy, Wayne Jansen, Karen A. Scarfone, Jason Butterfield
+February 2007 		
+SP 800-45 Version 2. Guidelines on Electronic Mail Security
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.01 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 19,   Downloads (Overall): 34,    Citation Count: 0
+
+This document was developed in furtherance of NIST's statutory responsibilities under the Federal Information Security Management Act (FISMA) of 2002, Public Law 107-347. The purpose of the publication is to recommend security practices for designing, ...
+Keywords: E-mail, FISMA, electronic mail
+195
+	
+Computer and Information Security Handbook, Second Edition, 2nd edition
+John R. Vacca, John R. Vacca
+June 2013 		
+Computer and Information Security Handbook, Second Edition, 2nd edition
+Publisher: Morgan Kaufmann Publishers Inc.
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (18.79 MB),  PDFPDF (67.58 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 90,   Downloads (12 Months): 1018,   Downloads (Overall): 1816,    Citation Count: 0
+
+Thesecond editionof this comprehensive handbook of computer and information securityprovides the most complete view of computer security and privacy available. It offers in-depth coverage of security theory, technology, and practice as they relate to ...
+196
+	
+An amulet for trustworthy wearable mHealth
+Jacob Sorber, Minho Shin, Ronald Peterson, Cory Cornelius, Shrirang Mare, Aarathi Prasad, Zachary Marois, Emma Smithayer, David Kotz
+February 2012 		
+HotMobile '12: Proceedings of the Twelfth Workshop on Mobile Computing Systems & Applications
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (452.93 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 14,   Downloads (12 Months): 157,   Downloads (Overall): 519,    Citation Count: 10
+
+Mobile technology has significant potential to help revolutionize personal wellness and the delivery of healthcare. Mobile phones, wearable sensors, and home-based tele-medicine devices can help caregivers and individuals themselves better monitor and ...
+197
+	
+How to Cheat at Securing Your Network
+Ido Dubrawsky
+October 2007 		
+How to Cheat at Securing Your Network
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (8.35 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 15,   Downloads (12 Months): 52,   Downloads (Overall): 314,    Citation Count: 0
+
+Most System Administrators are not security specialists. Keeping the network secure is one of many responsibilities, and it is usually not a priority until disaster strikes. How to Cheat at Securing Your Network is the perfect book for this audience. ...
+Keywords: Security
+198
+	
+The Hacker's Guide to OS X: Exploiting OS X from the Root Up, 1st edition
+Robert Bathurst, Russ Rogers, Alijohn Ghassemlouei
+November 2012 		
+The Hacker's Guide to OS X: Exploiting OS X from the Root Up, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (5.72 MB),  PDFPDF (20.63 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 19,   Downloads (12 Months): 83,   Downloads (Overall): 126,    Citation Count: 0
+
+Written by two experienced penetration testers the material presented discusses the basics of the OS X environment and its vulnerabilities. Including but limited to; application porting, virtualization utilization and offensive tactics at the kernel, ...
+199
+	
+PCI Compliance: Understand and Implement Effective PCI Data Security Standard Compliance, 2nd edition
+Anton Chuvakin, Branden R. Williams
+December 2009 		
+PCI Compliance: Understand and Implement Effective PCI Data Security Standard Compliance, 2nd edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (3.18 MB),  PDFPDF (6.39 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 15,   Downloads (12 Months): 68,   Downloads (Overall): 89,    Citation Count: 0
+
+Identity theft and other confidential information theft have now topped the charts as the #1 cybercrime. In particular, credit card data is preferred by cybercriminals. Is your payment processing secure and compliant? Now in its second edition, PCI Compliance ...
+200
+	
+Analysis of recommended cloud security controls to validate OpenPMF "policy as a service"
+Ulrich Lang, Rudolf Schreiner
+August 2011 		
+Information Security Tech. Report , Volume 16 Issue 3-4
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+This paper describes some of the findings of a cloud research project the authors carried out in Q2/2011. As part of the project, the authors first identified security concerns related to cloud computing, and gaps in cloud-related standards/regulations. ...
+Keywords: Access policy, Accreditation, Application security, Audit policy, Authorization management, Cloud, Compliance, HIPAA, Model-driven security, NIST 800-147, NIST 800-53, NIST IR 7628, OpenPMF, PCI-DSS, Policy, Security, XACML 
+201
+	
+Palantir: a framework for collaborative incident response and investigation
+Himanshu Khurana, Jim Basney, Mehedi Bakht, Mike Freemon, Von Welch, Randy Butler
+April 2009 		
+IDtrust '09: Proceedings of the 8th Symposium on Identity and Trust on the Internet
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.18 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 11,   Downloads (12 Months): 96,   Downloads (Overall): 849,    Citation Count: 4
+
+Organizations owning cyber-infrastructure assets face large scale distributed attacks on a regular basis. In the face of increasing complexity and frequency of such attacks, we argue that it is insufficient to rely on organizational incident response ...
+
+Keywords: digital investigation, incident response, multi-site collaboration
+202
+	
+e-governance in debts recovery tribunals and debts recovery appellate tribunals: a framework for implementation in India
+Sanjeev Kumar Katara, Nagesh Shastri
+October 2014 		
+ICEGOV '14: Proceedings of the 8th International Conference on Theory and Practice of Electronic Governance
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (101.71 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 7,   Downloads (Overall): 7,    Citation Count: 0
+
+This paper aims to study the processes of Debts Recovery Tribunals (DRTs) and Debts Recovery Appellate Tribunals (DRATs) in India and propose an e-Governance framework to improve their core functioning and expedite the recovery of Non-Performing Assets ...
+Keywords: DRAT, DRT, India, NPA, RDDB&FI, SARFAESI, e-governance, finance, framework, law
+203
+	
+Forensic analysis of logs: Modeling and verification
+Mohamed Saleh, Ali Reza Arasteh, Assaad Sakha, Mourad Debbabi
+October 2007 		
+Knowledge-Based Systems , Volume 20 Issue 7
+Publisher: Elsevier Science Publishers B. V.
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+Information stored in logs of a computer system is of crucial importance to gather forensic evidence of investigated actions or attacks against the system. Analysis of this information should be rigorous and credible, hence it lends itself to formal ...
+
+Keywords: Forensic analysis, Formal methods, Log analysis, Logging systems, Model checking
+204
+	
+Fine-grained role-based delegation in presence of the hybrid role hierarchy
+James B. D. Joshi, Elisa Bertino
+June 2006 		
+SACMAT '06: Proceedings of the eleventh ACM symposium on Access control models and technologies
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (594.43 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 3,   Downloads (12 Months): 8,   Downloads (Overall): 685,    Citation Count: 9
+
+Delegation of authority is an important process that needs to be captured by any access control model. In role-based access control models, delegation of authority involves delegating roles that a user can assume or the set of permissions that he can ...
+Keywords: access control, delegation, hybrid hierarchy, role based
+205
+	
+Communication, collaboration, and bugs: the social nature of issue tracking in small, collocated teams
+Dane Bertram, Amy Voida, Saul Greenberg, Robert Walker
+February 2010 		
+CSCW '10: Proceedings of the 2010 ACM conference on Computer supported cooperative work
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (432.97 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 10,   Downloads (12 Months): 113,   Downloads (Overall): 777,    Citation Count: 16
+
+Issue tracking systems help organizations manage issue reporting, assignment, tracking, resolution, and archiving. Traditionally, it is the Software Engineering community that researches issue tracking systems, where software defects are reported and ...
+
+Keywords: issue tracking, shared knowledge, software engineering
+206
+	
+Cloud Computing Synopsis and Recommendations
+Mark Lee Badger, Timothy Grance, Robert Patt-Corner, Jeffery M, Voas
+May 2012 		
+Cloud Computing Synopsis and Recommendations
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.51 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 41,   Downloads (Overall): 323,    Citation Count: 2
+
+This document reprises the NIST-established definition of cloud computing, describes cloud computing benefits and open issues, presents an overview of major classes of cloud technology, and provides guidelines and recommendations on how organizations ...
+Keywords: cloud computing, computer security, virtualization
+207
+	
+Next Generation SSH2 Implementation: Securing Data in Motion, 1st edition
+Max Caceres, Aaron E. Earle, Devin Ganger, Wipul Jayawickrama, Jan Kanclirz, Dane Liu, Tim Robichaux, Eric S. Seagren, Brad Smith, Christopher Stokes
+November 2008 		
+Next Generation SSH2 Implementation: Securing Data in Motion, 1st edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (5.20 MB),  PDFPDF (10.98 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 33,   Downloads (Overall): 126,    Citation Count: 0
+
+New security risks, continuously evolving regulation and increasing security standards have created new and growing needs for secure internal information transfers, which SSH provides. This book addresses these new trends in depth, offering the most ...
+Keywords: Security
+208
+	
+SP 800-95. Guide to Secure Web Services
+Anoop Singhal, Theodore Winograd, Karen A. Scarfone
+August 2007 		
+SP 800-95. Guide to Secure Web Services
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (1.21 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 6,   Downloads (12 Months): 24,   Downloads (Overall): 30,    Citation Count: 2
+
+The advance of Web services technologies promises to have far-reaching effects on the Internet and enterprise networks. Web services based on the eXtensible Markup Language (XML), SOAP, and related open standards, and deployed in Service Oriented Architectures ...
+Keywords: Application security, Web services
+209
+	
+Managing Catastrophic Loss of Sensitive Data: A Guide for IT and Security Professionals
+Constantine Photopoulos
+April 2008 		
+Managing Catastrophic Loss of Sensitive Data: A Guide for IT and Security Professionals
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (1.45 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 8,   Downloads (12 Months): 41,   Downloads (Overall): 152,    Citation Count: 0
+
+Offering a structured approach to handling and recovering from a catastrophic data loss, this book will help both technical and non-technical professionals put effective processes in place to secure their business-critical information and provide a roadmap ...
+Keywords: Security
+210
+	
+Flow-net methodology for accountability in wireless networks
+Yang Xiao
+September 2009 		
+IEEE Network: The Magazine of Global Internetworking , Volume 23 Issue 5
+Publisher: IEEE Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 7
+
+Accountability implies that any entity should be held responsible for its own specific action or behavior so that the entity is part of larger chains of accountability. One of the goals of accountability is that once an event has transpired, the events ...
+211
+	
+Fourth-factor authentication: somebody you know
+John Brainard, Ari Juels, Ronald L. Rivest, Michael Szydlo, Moti Yung
+October 2006 		
+CCS '06: Proceedings of the 13th ACM conference on Computer and communications security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (372.40 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 18,   Downloads (12 Months): 81,   Downloads (Overall): 2071,    Citation Count: 14
+
+User authentication in computing systems traditionally depends on three factors: something you have (e.g., a hardware token), something you are (e.g., a fingerprint), and something you know (e.g., a password). In this paper, we explore a fourth factor, ...
+Keywords: authentication, hardware tokens, vouchers
+212
+	
+Distributed privacy-preserving transparency logging
+Tobias Pulls, Roel Peeters, Karel Wouters
+November 2013 		
+WPES '13: Proceedings of the 12th ACM workshop on Workshop on privacy in the electronic society
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (1.15 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 56,   Downloads (Overall): 105,    Citation Count: 0
+
+We present a transparency-enhancing tool in the form of a cryptographic scheme that enables data processors to inform users about the actual data processing that takes place on their personal data. Our proposed solution can handle arbitrary processes ...
+Keywords: applied cryptography, data processing, distributed, privacy, transparency-enhancing tool
+213
+	
+Selecting a trusted cloud service provider for your SaaS program
+Changlong Tang, Jiqiang Liu
+May 2015 		
+Computers and Security , Volume 50 Issue C
+Publisher: Elsevier Advanced Technology Publications
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 0
+
+Software as a Service (SaaS) offers major business and IT benefits that organizations are looking to take advantage of. SaaS adoption presents serious and unique security risks. Moving a company's sensitive data into the hands of cloud providers expands ...
+Keywords: Auditability, Cloud security, Function, Governability, Interoperability, SaaS, Security assurance, Software as a service, Trusted cloud services
+214
+	
+SP 800-66 Rev. 1. An Introductory Resource Guide for Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule
+Matthew A. Scholl, Kevin M. Stine, Joan Hash, Pauline Bowen, L. Arnold Johnson, Carla Dancy Smith, Daniel I. Steinberg
+October 2008 		
+SP 800-66 Rev. 1. An Introductory Resource Guide for Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (681.18 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 15,   Downloads (12 Months): 59,   Downloads (Overall): 108,    Citation Count: 1
+
+Special Publication 800-66 Rev. 1, An Introductory Resource Guide for Implementing the Health Insurance Probability and Accountability Act (HIPAA) Security Rule, which discusses security considerations and resources that may provide value when implementing ...
+Keywords: HIPAA, Healthcare, Information Security, security Rule
+215
+	
+A formal implementation of value commitment
+Cédric Fournet, Nataliya Guts, Francesco Zappa Nardelli
+March 2008 		
+ESOP'08/ETAPS'08: Proceedings of the Theory and practice of software, 17th European conference on Programming languages and systems
+Publisher: Springer-Verlag
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 4
+
+In an optimistic approach to security, one can often simplify protocol design by relying on audit logs, which can be analyzed a posteriori. Such auditing is widely used in practice, but no formal studies guarantee that the log information suffices to ...
+216
+	
+Proposing regulatory-driven automated test suites for electronic health record systems
+Patrick Morrison, Casper Holmgreen, Aaron Massey, Laurie Williams
+May 2013 		
+SEHC '13: Proceedings of the 5th International Workshop on Software Engineering in Health Care
+Publisher: IEEE Press
+Full text available: 	PDFPDF (191.63 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 13,   Downloads (Overall): 13,    Citation Count: 0
+
+In regulated domains such as finance and health care, failure to comply with regulation can lead to financial, civil and criminal penalties. While systems vary from organization to organization, regulations apply across organizations. We propose the ...
+Keywords: behavior-driven-development, healthcare it, regulatory compliance, security, software engineering, software testing
+217
+	
+PeerReview re-evaluation for accountability in distributed systems or networks
+Zhifeng Xiao, Yang Xiao
+August 2012 		
+International Journal of Security and Networks , Volume 7 Issue 1
+Publisher: Inderscience Publishers
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Accountability implies that any entity shall be held responsible for its own specific actions and behaviour, so that the entity is part of a larger chain of accountability. PeerReview (Haeberlen et al., 2007) is a software library that provides accountability ...
+218
+	
+SP 800-44 Version 2. Guidelines on Securing Public Web Servers
+Miles Tracy, Wayne Jansen, Karen A. Scarfone, Theodore Winograd
+September 2007 		
+SP 800-44 Version 2. Guidelines on Securing Public Web Servers
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (982.73 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 10,   Downloads (12 Months): 55,   Downloads (Overall): 72,    Citation Count: 1
+
+Web servers are often the most targeted and attacked hosts on organizations' networks. As a result, it is essential to secure Web servers and the network infrastructure that supports them. This document is intended to assist organizations in installing, ...
+Keywords: Web server, Web server security
+219
+	
+Eagle Eye: An Accountable Logging Framework for Distributed Systems
+Nandhakumar Kathiresshan
+August 2012 		
+Eagle Eye: An Accountable Logging Framework for Distributed Systems
+Publisher: LAP Lambert Academic Publishing
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Although security has been addressed in various aspects, accountability is a main stream of security which is lacking in todays computer systems. The ability to not just detect errors but also to find the reason for the failure and also the system in ...
+220
+	
+The Obama EHR Experiment
+Ralph Grams
+April 2012 		
+Journal of Medical Systems , Volume 36 Issue 2
+Publisher: Plenum Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 
+221
+	
+SP 800-57. Recommendation for Key Management, Part 1: General (revised)
+Elaine B. Barker, William C. Barker, William E. Burr, W. Timothy Polk, Miles E. Smid
+March 2007 		
+SP 800-57. Recommendation for Key Management, Part 1: General (revised)
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (405.46 KB),  PDFPDF (1.15 MB),  PDFPDF (532.17 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 32,   Downloads (12 Months): 319,   Downloads (Overall): 331,    Citation Count: 21
+
+This Recommendation provides cryptographic key management guidance. It consists of three parts. Part 1 provides general guidance and best practices for the management of cryptographic keying material. Part 2 provides guidance on policy and security planning ...
+Keywords: Assurances, authentication, authorization, availability, backup, compromise, confidentiality, cryptanalysis, cryptographic key, cryptographic module, digital signature, hash function, key agreement, key management, key management policy, key recovery, key transport, originator usage period, private key, public key, recipient usage period, secret key, split knowledge, trust anchor.
+222
+	
+The meaning of logs
+Sandro Etalle, Fabio Massacci, Artsiom Yautsiukhin
+September 2007 		
+TrustBus'07: Proceedings of the 4th international conference on Trust, Privacy and Security in Digital Business
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 1
+
+While logging events is becoming increasingly common in computing, in communication and in collaborative environments, log systems need to satisfy increasingly challenging (if not conflicting) requirements. In this paper we propose a high-level framework ...
+223
+	
+Nexus authorization logic (NAL): Design rationale and applications
+Fred B. Schneider, Kevin Walsh, Emin Gün Sirer
+May 2011 		
+Transactions on Information and System Security (TISSEC) , Volume 14 Issue 1
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (304.30 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 4,   Downloads (12 Months): 43,   Downloads (Overall): 309,    Citation Count: 14
+
+Nexus Authorization Logic (NAL) provides a principled basis for specifying and reasoning about credentials and authorization policies. It extends prior access control logics that are based on “says” and “speaks for” operators. ...
+Keywords: Authorization logic, CDD, credentials-based authorization
+224
+	
+Site Security Handbook
+B. Fraser
+September 1997 		
+Site Security Handbook
+Publisher: RFC Editor
+Full text available: 	TxtTxt (191.77 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 1,   Downloads (12 Months): 1,   Downloads (Overall): 217,    Citation Count: 2
+
+This handbook is a guide to developing computer security policies and procedures for sites that have systems on the Internet. The purpose of this handbook is to provide practical guidance to administrators trying to secure their information and services. ...
+225
+	
+Dr. Tom Shinder's ISA Server 2006 Migration Guide
+Thomas W. Shinder, Debra Littlejohn Shinder, Adrian F. Dimcev, James Eaton-Lee, Jason Jones, Steve Moffat
+December 2007 		
+Dr. Tom Shinder's ISA Server 2006 Migration Guide
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (15.20 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 5,   Downloads (12 Months): 12,   Downloads (Overall): 89,    Citation Count: 1
+
+Dr. Tom Shinder's ISA Server 2006 Migration Guide provides a clear, concise, and thorough path to migrate from previous versions of ISA Server to ISA Server 2006. ISA Server 2006 is an incremental upgrade from ISA Server 2004, this book provides all ...
+Keywords: Computer Science, Security, Windows
+226
+	
+Advances and Current State of the Security and Privacy in Electronic Health Records: Survey from a Social Perspective
+Antonio Tejero, Isabel Torre
+October 2012 		
+Journal of Medical Systems , Volume 36 Issue 5
+Publisher: Plenum Press
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count: 2
+
+E-Health systems are experiencing an impulse in these last years, when many medical agencies began to include digital solutions into their platforms. Electronic Health Records (EHRs) are one of the most important improvements, being in its most part ...
+Keywords: E-health, EHR, Privacy, Security
+227
+	
+Developing a secure distributed OSGI cloud computing infrastructure for sharing health records
+Sabah Mohammed, Daniel Servos, Jinan Fiaidhi
+June 2011 		
+AIS'11: Proceedings of the Second international conference on Autonomous and intelligent systems
+Publisher: Springer-Verlag
+Full text available: 	Publisher SitePublisher Site
+	
+Bibliometrics:  Downloads (6 Weeks): n/a,   Downloads (12 Months): n/a,   Downloads (Overall): n/a,    Citation Count:
+
+Cloud Computing has become an emerging computing paradigm which brings new opportunities and challenges to overcome. While the cloud provides seemingly limitless scalability and an alternative to expensive data center infrastructure, it raises new issues ...
+Keywords: cloud computing, cloud security, distributed OSGi, electronic healthcare records
+228
+	
+PeerReview: practical accountability for distributed systems
+Andreas Haeberlen, Petr Kouznetsov, Peter Druschel
+October 2007 		
+SOSP '07: Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	Mp3Mp3 (214390:50 MIN),  Mp4Mp4 (2958514:25 MIN),  PDFPDF (363.72 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 12,   Downloads (12 Months): 69,   Downloads (Overall): 1102,    Citation Count: 72
+
+We describe PeerReview, a system that provides accountability in distributed systems. PeerReview ensures that Byzantine faults whose effects are observed by a correct node are eventually detected and irrefutably linked to a faulty node. At the same time, ...
+
+Keywords: accountability, byzantine faults, distributed systems, fault detection
+
+Also published in:
+October 2007 	SIGOPS Operating Systems Review 	Volume 41 Issue 6
+229
+	
+Log your CRUD: design principles for software logging mechanisms
+Jason King, Laurie Williams
+April 2014 		
+HotSoS '14: Proceedings of the 2014 Symposium and Bootcamp on the Science of Security
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (517.93 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 7,   Downloads (12 Months): 41,   Downloads (Overall): 41,    Citation Count: 1
+
+According to a 2011 survey in healthcare, the most commonly reported breaches of protected health information involved employees snooping into medical records of friends and relatives. Logging mechanisms can provide a means for forensic analysis of user ...
+Keywords: accountability, audit, black-box testing, case study, electronic health record software, healthcare, logging mechanism, nonrepudiation, science
+230
+	
+Towards SIRF: self-contained information retention format
+Simona Rabinovici-Cohen, Mary G. Baker, Roger Cummings, Sam Fineberg, John Marberg
+May 2011 		
+SYSTOR '11: Proceedings of the 4th Annual International Conference on Systems and Storage
+Publisher: ACM Request Permissions Request Permissions   
+Full text available: 	PDFPDF (689.44 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 2,   Downloads (12 Months): 15,   Downloads (Overall): 143,    Citation Count:
+
+Many organizations are now required to preserve and maintain access to large volumes of digital content for dozens of years. There is a need for preservation systems and processes to support such long-term retention requirements and enable the usability ...
+Keywords: cloud storage, digital archiving, digital preservation, long term retention, metadata, provenance, standards, storage container catalog, storage subsystem
+231
+	
+CISSP Study Guide, 2 edition
+Eric Conrad, Seth Misenar, Joshua Feldman
+September 2012 		
+CISSP Study Guide, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (9.43 MB),  PDFPDF (17.25 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 17,   Downloads (12 Months): 142,   Downloads (Overall): 195,    Citation Count: 0
+
+The CISSP certification is the most prestigious, globally-recognized, vendor neutral exam for information security professionals.¿The newest edition of this acclaimed study guide is aligned to cover all of the material included in the newest version ...
+232
+	
+SP 800-64 Rev. 2. Security Considerations in the System Development Life Cycle
+Richard Kissel, Kevin M. Stine, Matthew A. Scholl, Hart Rossman, James Fahlsing, Jessica Gulick
+October 2008 		
+SP 800-64 Rev. 2. Security Considerations in the System Development Life Cycle
+Publisher: National Institute of Standards & Technology
+Full text available: 	Publisher SitePublisher Site ,  PDFPDF (954.22 KB)
+	
+Bibliometrics:  Downloads (6 Weeks): 16,   Downloads (12 Months): 197,   Downloads (Overall): 379,    Citation Count: 1
+
+The purpose of this guideline is to assist agencies in building security into their IT development processes. This should result in more cost-effective, risk-appropriate security control identification, development, and testing. This guide focuses on ...
+Keywords: Computer Security, Cyber Security, FISMA, SDLC, System Development
+233
+	
+Scene of the Cybercrime, 2 edition
+Debra Littlejohn Shinder, Michael Cross
+June 2008 		
+Scene of the Cybercrime, 2 edition
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  ePubePub (3.63 MB),  PDFPDF (11.11 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 17,   Downloads (12 Months): 72,   Downloads (Overall): 419,    Citation Count: 4
+
+When it comes to computer crimes, the criminals got a big head start. But the law enforcement and IT security communities are now working diligently to develop the knowledge, skills, and tools to successfully investigate and prosecute Cybercrime cases. ...
+Keywords: Applied, Computer Science, Computers, Criminal Law, Law, Security
+234
+	
+The Best Damn IT Security Management Book Period
+Susan Snedaker, Robert McCrie
+December 2007 		
+The Best Damn IT Security Management Book Period
+Publisher: Syngress Publishing
+Full text available: 	The ACM Learning CenterThe ACM Learning Center ,  PDFPDF (18.35 MB)
+	
+Bibliometrics:  Downloads (6 Weeks): 18,   Downloads (12 Months): 74,   Downloads (Overall): 384,    Citation Count: 1
+
+The Best Damn Security Manager's Handbook Periodhas comprehensive coverage of all management isuses facing IT and security professionals. Compiled from the best of the Syngress and Butterworth Heinemann libraries and authored by business continuity ...
+Keywords: Security 

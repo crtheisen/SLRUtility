@@ -1,0 +1,4092 @@
+TY  - CONF
+JO  - Cloud Computing (CLOUD), 2014 IEEE 7th International Conference on
+TI  - Progger: An Efficient, Tamper-Evident Kernel-Space Logger for Cloud Data Provenance Tracking
+T2  - Cloud Computing (CLOUD), 2014 IEEE 7th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 881
+EP  - 889
+AU  - Ko, R.K.L.
+AU  - Will, M.A.
+Y1  - June 27 2014-July 2 2014
+PY  - 2014
+KW  - cloud computing
+KW  - security of data
+KW  - system monitoring
+KW  - Progger
+KW  - cloud computing systems
+KW  - cloud data provenance tracking
+KW  - data accountability
+KW  - data activity audit
+KW  - data activity tracking
+KW  - data security component
+KW  - kernel-space logger
+KW  - Cloud computing
+KW  - Data security
+KW  - Kernel
+KW  - Sockets
+KW  - Synchronization
+KW  - Virtual machining
+KW  - Accountability
+KW  - Cloud Computing
+KW  - Data Provenance
+KW  - Data Security
+KW  - Tamper-evident logging
+KW  - Time Synchronisation
+VL  - 
+JA  - Cloud Computing (CLOUD), 2014 IEEE 7th International Conference on
+DO  - 10.1109/CLOUD.2014.121
+ER  - 
+
+TY  - CONF
+JO  - Engineering in Medicine and Biology Society, 2005. IEEE-EMBS 2005. 27th Annual International Conference of the
+TI  - HIPPA's compliant Auditing System for Medical Imaging System
+T2  - Engineering in Medicine and Biology Society, 2005. IEEE-EMBS 2005. 27th Annual International Conference of the
+IS  - 
+SN  - 
+VO  - 
+SP  - 562
+EP  - 563
+AU  - Xiaomeng Chen
+AU  - Jianguo Zhang
+AU  - Dongjing Wu
+AU  - RuoLing Han
+Y1  - 17-18 Jan. 2006
+PY  - 2005
+KW  - PACS
+KW  - authorisation
+KW  - data privacy
+KW  - Audit Trail Messages
+KW  - DICOM
+KW  - HIPPA compliant auditing system
+KW  - HIPPA compliant auditing trails
+KW  - Health Insurance Portability and Accountability Act
+KW  - PACS
+KW  - Protected Health Information
+KW  - RIS
+KW  - access control
+KW  - audit controls
+KW  - authorization control
+KW  - data authentication
+KW  - entity authentication
+KW  - healthcare privacy
+KW  - healthcare security
+KW  - medical imaging system
+KW  - security monitoring system
+KW  - Access control
+KW  - Authentication
+KW  - Authorization
+KW  - Biomedical imaging
+KW  - Data privacy
+KW  - Data security
+KW  - Information security
+KW  - Insurance
+KW  - Medical control systems
+KW  - Medical services
+VL  - 
+JA  - Engineering in Medicine and Biology Society, 2005. IEEE-EMBS 2005. 27th Annual International Conference of the
+DO  - 10.1109/IEMBS.2005.1616473
+ER  - 
+
+TY  - CONF
+JO  - Measurement Systems for Homeland Security, Contraband Detection and Personal Safety Workshop, 2005. (IMS 2005) Proceedings of the 2005 IEEE International Workshop on
+TI  - Implementation of an electronic media security system
+T2  - Measurement Systems for Homeland Security, Contraband Detection and Personal Safety Workshop, 2005. (IMS 2005) Proceedings of the 2005 IEEE International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 35
+EP  - 41
+AU  - Silvers, K.L.
+AU  - Burghard, B.J.
+AU  - Skorpik, J.R.
+AU  - Clark, D.A.
+Y1  - 29-30 March 2005
+PY  - 2005
+KW  - identification technology
+KW  - security of data
+KW  - storage management
+KW  - storage media
+KW  - Department of Energy Laboratories
+KW  - access events
+KW  - classified removable electronic media storage
+KW  - electronic media security system
+KW  - electronic tag
+KW  - electronically readable identification code
+KW  - security lapses
+KW  - weekly inventory collection
+KW  - weekly inventory reporting system
+KW  - Alarm systems
+KW  - Containers
+KW  - Costs
+KW  - Data security
+KW  - Documentation
+KW  - Energy storage
+KW  - Humans
+KW  - Laboratories
+KW  - National security
+KW  - Secure storage
+VL  - 
+JA  - Measurement Systems for Homeland Security, Contraband Detection and Personal Safety Workshop, 2005. (IMS 2005) Proceedings of the 2005 IEEE International Workshop on
+DO  - 10.1109/MSHS.2005.1502552
+ER  - 
+
+TY  - CONF
+JO  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2013 12th IEEE International Conference on
+TI  - S2Logger: End-to-End Data Tracking Mechanism for Cloud Data Provenance
+T2  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2013 12th IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 594
+EP  - 602
+AU  - Chun Hui Suen
+AU  - Ko, R.K.L.
+AU  - Yu Shyang Tan
+AU  - Jagadpramana, P.
+AU  - Bu Sung Lee
+Y1  - 16-18 July 2013
+PY  - 2013
+KW  - cloud computing
+KW  - data analysis
+KW  - data loggers
+KW  - data protection
+KW  - security of data
+KW  - system monitoring
+KW  - S2Logger
+KW  - atomic data events
+KW  - cloud computing environments
+KW  - cloud data provenance
+KW  - cloud data provenance records
+KW  - cloud servers
+KW  - cloud stakeholders
+KW  - critical data-related cloud security problems
+KW  - data activities
+KW  - data event analysis
+KW  - data event capturing
+KW  - data event logging mechanism
+KW  - data event visualization
+KW  - data leakages
+KW  - data lifecycle
+KW  - data movement accountability
+KW  - data movement transparency
+KW  - data policy violations
+KW  - data tracking tools
+KW  - data-centric logging techniques
+KW  - end-to-end data tracking mechanism
+KW  - file creation
+KW  - file deletions
+KW  - file duplication
+KW  - file edition
+KW  - file transfers
+KW  - logging mechanisms
+KW  - malicious actions
+KW  - system-centric security tools
+KW  - Cloud computing
+KW  - Distributed databases
+KW  - Kernel
+KW  - Linux
+KW  - Monitoring
+KW  - Security
+KW  - Virtual machine monitors
+KW  - Cloud Computing
+KW  - Cloud data provenance
+KW  - S2Logger
+KW  - accountability in cloud computing
+KW  - cloud computing security
+KW  - cloud computing transparency
+KW  - data tracing
+KW  - data tracking
+KW  - file tracking
+VL  - 
+JA  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2013 12th IEEE International Conference on
+DO  - 10.1109/TrustCom.2013.73
+ER  - 
+
+TY  - CONF
+JO  - Software Engineering (ICSE), 2013 35th International Conference on
+TI  - Measuring the forensic-ability of audit logs for nonrepudiation
+T2  - Software Engineering (ICSE), 2013 35th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1419
+EP  - 1422
+AU  - King, J.
+Y1  - 18-26 May 2013
+PY  - 2013
+KW  - auditing
+KW  - digital forensics
+KW  - educational computing
+KW  - financial data processing
+KW  - fraud
+KW  - health care
+KW  - software metrics
+KW  - system monitoring
+KW  - activity logging mechanism
+KW  - application performance monitoring
+KW  - audit log
+KW  - compliance checking
+KW  - data field
+KW  - debugging
+KW  - education
+KW  - finance
+KW  - forensic ability measurement
+KW  - forensic analysis
+KW  - fraud detection
+KW  - grounded theory method
+KW  - healthcare
+KW  - log file attribute
+KW  - software log files
+KW  - software security events
+KW  - software security metrics
+KW  - software system
+KW  - system resources
+KW  - unique user identifier
+KW  - user access tracking
+KW  - user behavior profile extraction
+KW  - user nonrepudiation
+KW  - user privilege revocation
+KW  - Forensics
+KW  - Measurement
+KW  - Medical services
+KW  - Security
+KW  - Software systems
+KW  - Standards
+KW  - forensics
+KW  - grounded theory
+KW  - logging
+KW  - metric
+KW  - nonrepudiation
+KW  - security
+KW  - software logs
+VL  - 
+JA  - Software Engineering (ICSE), 2013 35th International Conference on
+DO  - 10.1109/ICSE.2013.6606732
+ER  - 
+
+TY  - CONF
+JO  - Services (SERVICES), 2013 IEEE Ninth World Congress on
+TI  - Towards a Forensic-Based Service Oriented Architecture Framework for Auditing of Cloud Logs
+T2  - Services (SERVICES), 2013 IEEE Ninth World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 75
+EP  - 83
+AU  - Thorpe, S.
+AU  - Grandison, T.
+AU  - Campbell, A.
+AU  - Williams, J.
+AU  - Burrell, K.
+AU  - Ray, I.
+Y1  - June 28 2013-July 3 2013
+PY  - 2013
+KW  - Web services
+KW  - cloud computing
+KW  - digital forensics
+KW  - service-oriented architecture
+KW  - virtual machines
+KW  - VM host operating system
+KW  - Web Services-centric approach
+KW  - cloud based log-centric SOA
+KW  - cloud computing log digital investigations
+KW  - cloud log forensics SOA audit framework
+KW  - data cloud log forensics service oriented architecture audit framework
+KW  - digital forensic evidence
+KW  - enterprise private cloud
+KW  - evidence forensic reconstruction
+KW  - heterogeneous complexity
+KW  - hypervisor event logs
+KW  - virtual machine host operating system
+KW  - Cloud computing
+KW  - Data collection
+KW  - Forensics
+KW  - Security
+KW  - Service-oriented architecture
+KW  - Standards
+KW  - SOA;cloud;web; forensic
+VL  - 
+JA  - Services (SERVICES), 2013 IEEE Ninth World Congress on
+DO  - 10.1109/SERVICES.2013.76
+ER  - 
+
+TY  - CONF
+JO  - Research and Innovation in Information Systems (ICRIIS), 2013 International Conference on
+TI  - Data provenance trusted model in cloud computing
+T2  - Research and Innovation in Information Systems (ICRIIS), 2013 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 257
+EP  - 262
+AU  - Saad, M.I.M.
+AU  - Jalil, K.A.
+AU  - Manaf, M.
+Y1  - 27-28 Nov. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - storage management
+KW  - trusted computing
+KW  - cloud computing
+KW  - cloud environment
+KW  - cloud service provider
+KW  - consolidation log storage
+KW  - data provenance trusted model
+KW  - high level accountability
+KW  - high level assurance
+KW  - historical data
+KW  - physical layer
+KW  - provenance logging system
+KW  - secured communication channel
+KW  - virtual layer
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Data models
+KW  - Information systems
+KW  - Law
+KW  - Security
+KW  - Technological innovation
+KW  - accountability
+KW  - cloud computing
+KW  - provenance
+KW  - security
+KW  - trust
+VL  - 
+JA  - Research and Innovation in Information Systems (ICRIIS), 2013 International Conference on
+DO  - 10.1109/ICRIIS.2013.6716719
+ER  - 
+
+TY  - CONF
+JO  - Advanced Information Networking and Applications (AINA), 2010 24th IEEE International Conference on
+TI  - Towards More Trustable Log Files for Digital Forensics by Means of &#147;Trusted Computing&#148;
+T2  - Advanced Information Networking and Applications (AINA), 2010 24th IEEE International Conference on
+IS  - 
+SN  - 1550-445X
+VO  - 
+SP  - 1020
+EP  - 1027
+AU  - Bo&#x0308;ck, B.
+AU  - Huemer, D.
+AU  - A Min Tjoa
+Y1  - 20-23 April 2010
+PY  - 2010
+KW  - computer forensics
+KW  - virtual machines
+KW  - SVM
+KW  - TPM
+KW  - digital forensics
+KW  - reliable reconstruction
+KW  - secure virtual machine technology
+KW  - software based attacks
+KW  - towards more trustable log files
+KW  - trustable log data
+KW  - trusted computing
+KW  - trusted platform module
+KW  - Application software
+KW  - Authentication
+KW  - Computer networks
+KW  - Digital forensics
+KW  - Hardware
+KW  - Interactive systems
+KW  - Protection
+KW  - Public key cryptography
+KW  - Support vector machines
+KW  - Virtual machining
+KW  - authentication
+KW  - computing
+KW  - log
+KW  - logging
+KW  - svm
+KW  - tpm
+KW  - trust
+KW  - trusted
+KW  - validation
+VL  - 
+JA  - Advanced Information Networking and Applications (AINA), 2010 24th IEEE International Conference on
+DO  - 10.1109/AINA.2010.26
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2005. First International Workshop on
+TI  - SecSyslog: an approach to secure logging based on covert channels
+T2  - Systematic Approaches to Digital Forensic Engineering, 2005. First International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 248
+EP  - 263
+AU  - Forte, D.V.
+AU  - Maruti, C.
+AU  - Vetturi, M.R.
+AU  - Zambelli, M.
+Y1  - 7-9 Nov. 2005
+PY  - 2005
+KW  - Linux
+KW  - management information systems
+KW  - protocols
+KW  - security of data
+KW  - telecommunication channels
+KW  - LINUX
+KW  - SecSyslog
+KW  - corporate information systems
+KW  - covert channels
+KW  - digital forensic tool
+KW  - level 3 ISO/OSI traffic
+KW  - log traces
+KW  - pcap-compatible output
+KW  - secure logging
+KW  - Communication channels
+KW  - Computer hacking
+KW  - Conferences
+KW  - Digital forensics
+KW  - ISO standards
+KW  - Information security
+KW  - Linux
+KW  - Management information systems
+KW  - Open systems
+KW  - Protocols
+KW  - Covert Channel
+KW  - Forensic
+KW  - Log Correlation
+KW  - Log Integrity
+KW  - Log analysis
+KW  - Spyware.
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2005. First International Workshop on
+DO  - 10.1109/SADFE.2005.21
+ER  - 
+
+TY  - CONF
+JO  - System Safety Conference incorporating the Cyber Security Conference 2013, 8th IET International
+TI  - Incident analysis &amp; digital forensics in SCADA and industrial control systems
+T2  - System Safety Conference incorporating the Cyber Security Conference 2013, 8th IET International
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Spyridopoulos, T.
+AU  - Tryfonas, T.
+AU  - May, J.
+Y1  - 16-17 Oct. 2013
+PY  - 2013
+KW  - IP networks
+KW  - SCADA systems
+KW  - control engineering computing
+KW  - digital forensics
+KW  - industrial control
+KW  - production engineering computing
+KW  - wireless sensor networks
+KW  - IP networks
+KW  - SCADA architecture
+KW  - SCADA security
+KW  - critical infrastructures
+KW  - data capture
+KW  - data retention
+KW  - digital evidence
+KW  - digital forensics
+KW  - incident analysis
+KW  - incident response
+KW  - industrial control systems
+KW  - machine-to-machine communication
+KW  - situational awareness
+VL  - 
+JA  - System Safety Conference incorporating the Cyber Security Conference 2013, 8th IET International
+DO  - 10.1049/cp.2013.1720
+ER  - 
+
+TY  - CONF
+JO  - Advance Computing Conference (IACC), 2014 IEEE International
+TI  - &#x201C;Role of metadata in forensic analysis of database attacks&#x201C;
+T2  - Advance Computing Conference (IACC), 2014 IEEE International
+IS  - 
+SN  - 
+VO  - 
+SP  - 457
+EP  - 462
+AU  - Khanuja, H.
+AU  - Suratkar, S.S.
+Y1  - 21-22 Feb. 2014
+PY  - 2014
+KW  - data privacy
+KW  - digital forensics
+KW  - law
+KW  - meta data
+KW  - antiforensics attacks
+KW  - audit logs
+KW  - cache
+KW  - court of law
+KW  - database attacks
+KW  - database security breaches
+KW  - database server artifacts
+KW  - digital evidence
+KW  - e-transactions
+KW  - forensic analysis
+KW  - fraudulent transaction
+KW  - information analysis
+KW  - information retrieval
+KW  - metadata
+KW  - online activities
+KW  - open source database forensics tool
+KW  - privacy issue
+KW  - security issue
+KW  - table storage
+KW  - Conferences
+KW  - Handheld computers
+KW  - Database forensics
+KW  - SQL injection
+KW  - anti-forensics attacks
+KW  - digital notarization
+KW  - linked hash technique
+KW  - metadata
+KW  - reconnaissance attack
+KW  - trail obfuscation
+VL  - 
+JA  - Advance Computing Conference (IACC), 2014 IEEE International
+DO  - 10.1109/IAdCC.2014.6779367
+ER  - 
+
+TY  - CONF
+JO  - Cybernetic Intelligent Systems (CIS), 2011 IEEE 10th International Conference on
+TI  - Audit and research challenges in digital forensics
+T2  - Cybernetic Intelligent Systems (CIS), 2011 IEEE 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 86
+EP  - 91
+AU  - Nehinbe, J.O.
+AU  - Adebayo, F.
+Y1  - 1-2 Sept. 2011
+PY  - 2011
+KW  - business data processing
+KW  - computer forensics
+KW  - fraud
+KW  - computer misdemeanor
+KW  - computer related fraud
+KW  - computer usage
+KW  - corporate assets
+KW  - corporate culture deformation
+KW  - corporate liabilities
+KW  - corporate organization
+KW  - digital forensics
+KW  - digital log auditing
+KW  - electronic fraud
+KW  - fallacious electronic publicities
+KW  - information leakage
+KW  - masquerading
+KW  - security framework
+KW  - Computer crime
+KW  - Computer networks
+KW  - Computers
+KW  - Forensics
+KW  - Organizations
+KW  - Business impact analysis
+KW  - Information System Auditing
+KW  - computer forensics
+KW  - e-crimes
+KW  - forensic accounting
+KW  - security policy
+VL  - 
+JA  - Cybernetic Intelligent Systems (CIS), 2011 IEEE 10th International Conference on
+DO  - 10.1109/CIS.2011.6169140
+ER  - 
+
+TY  - CONF
+JO  - Computational Intelligence and Communication Networks (CICN), 2014 International Conference on
+TI  - Design and Implementation of FORE Toolkit: Cyber Forensic Tool for the Eucalyptus Software as a Service Cloud Model
+T2  - Computational Intelligence and Communication Networks (CICN), 2014 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 546
+EP  - 550
+AU  - Srivastava, A.
+AU  - Gupta, A.K.
+AU  - Goyal, T.K.
+AU  - Saxena, P.
+Y1  - 14-16 Nov. 2014
+PY  - 2014
+KW  - cloud computing
+KW  - digital forensics
+KW  - operating systems (computers)
+KW  - public domain software
+KW  - virtual machines
+KW  - Eucalyptus software as a service cloud model
+KW  - FORE toolkit design
+KW  - FORE toolkit implementation
+KW  - SaaS application logs
+KW  - Web application
+KW  - cloud deployment model
+KW  - cloud forensics
+KW  - cyber forensic tools
+KW  - data security
+KW  - open source software
+KW  - user activity logs
+KW  - virtual environment user
+KW  - virtual machine
+KW  - virtual operating system
+KW  - virtual volume logs
+KW  - virtually operated servers
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Forensics
+KW  - History
+KW  - Servers
+KW  - Software as a service
+KW  - Cloud Computing
+KW  - Cloud Forensics
+KW  - Cyber Forensics
+KW  - Eucalyptus
+KW  - Forensics Investigator
+VL  - 
+JA  - Computational Intelligence and Communication Networks (CICN), 2014 International Conference on
+DO  - 10.1109/CICN.2014.124
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2010 Fifth IEEE International Workshop on
+TI  - Explorative Visualization of Log Data to Support Forensic Analysis and Signature Development
+T2  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2010 Fifth IEEE International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 109
+EP  - 118
+AU  - Schmerl, S.
+AU  - Vogel, M.
+AU  - Rietz, R.
+AU  - Ko&#x0308;nig, H.
+Y1  - 20-20 May 2010
+PY  - 2010
+KW  - computer forensics
+KW  - data visualisation
+KW  - digital signatures
+KW  - computers security threats
+KW  - explorative log data visualization
+KW  - forensic analysis
+KW  - intrusion detection systems
+KW  - signature development
+KW  - Character generation
+KW  - Communication networks
+KW  - Communication system security
+KW  - Data security
+KW  - Data visualization
+KW  - Digital forensics
+KW  - Event detection
+KW  - Information analysis
+KW  - Information security
+KW  - Proposals
+KW  - Attack Signatures
+KW  - Audit Data Analysis
+KW  - Computer Forensic
+KW  - Computer Security
+KW  - Data Visualization
+KW  - Intrusion Detection
+KW  - Misuse Detection
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2010 Fifth IEEE International Workshop on
+DO  - 10.1109/SADFE.2010.10
+ER  - 
+
+TY  - CONF
+JO  - Defense Science Research Conference and Expo (DSR), 2011
+TI  - From system-centric to data-centric logging - Accountability, trust &amp; security in cloud computing
+T2  - Defense Science Research Conference and Expo (DSR), 2011
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 4
+AU  - Ko, R.K.L.
+AU  - Kirchberg, M.
+AU  - Bu Sung Lee
+Y1  - 3-5 Aug. 2011
+PY  - 2011
+KW  - cloud computing
+KW  - security of data
+KW  - system monitoring
+KW  - IT systems
+KW  - TrustCloud
+KW  - cloud computing security
+KW  - cloud computing trust
+KW  - cloud security
+KW  - computing services
+KW  - data access
+KW  - data accountability
+KW  - data ownership
+KW  - data retention
+KW  - data transfer
+KW  - data-centric logging-accountability
+KW  - data-centric thinking
+KW  - security of data
+KW  - system-centric logging-accountability
+KW  - Business
+KW  - Cloud computing
+KW  - Google
+KW  - History
+KW  - Security
+KW  - Servers
+KW  - Virtual machining
+KW  - TrustCloud framework
+KW  - accountability
+KW  - cloud computing
+KW  - cloud computing security
+KW  - data-centric logging
+KW  - trust
+VL  - 
+JA  - Defense Science Research Conference and Expo (DSR), 2011
+DO  - 10.1109/DSR.2011.6026885
+ER  - 
+
+TY  - CONF
+JO  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+TI  - An Automated User Transparent Approach to log Web URLs for Forensic Analysis
+T2  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 120
+EP  - 127
+AU  - Ahmed, M.K.
+AU  - Hussain, M.
+AU  - Raza, A.
+Y1  - 15-17 Sept. 2009
+PY  - 2009
+KW  - Internet
+KW  - computer crime
+KW  - online front-ends
+KW  - Internet forensic analysis
+KW  - Web URL logging
+KW  - Web URL monitoring
+KW  - Web activity recording
+KW  - Web browser forensics
+KW  - World Wide Web
+KW  - antiforensic tool
+KW  - automated user transparent approach
+KW  - computer crime
+KW  - corporate Web policy violation
+KW  - digital forensics investigator
+KW  - employee monitoring
+KW  - intentional log file corruption
+KW  - intentional log file deletion
+KW  - intentional process killing
+KW  - law enforcement agency
+KW  - potential evidential information
+KW  - svchost.exe service
+KW  - unintentional log file corruption
+KW  - unintentional log file deletion
+KW  - unintentional process killing
+KW  - File servers
+KW  - Forensics
+KW  - Internet
+KW  - Law enforcement
+KW  - Monitoring
+KW  - Network servers
+KW  - Robustness
+KW  - Uniform resource locators
+KW  - Web server
+KW  - Web sites
+VL  - 
+JA  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+DO  - 10.1109/IMF.2009.12
+ER  - 
+
+TY  - CONF
+JO  - Data Engineering Workshop, 2008. ICDEW 2008. IEEE 24th International Conference on
+TI  - Provenance-aware secure networks
+T2  - Data Engineering Workshop, 2008. ICDEW 2008. IEEE 24th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 188
+EP  - 193
+AU  - Wenchao Zhou
+AU  - Cronin, E.
+AU  - Boon Thau Loo
+Y1  - 7-12 April 2008
+PY  - 2008
+KW  - DATALOG
+KW  - Internet
+KW  - computer network management
+KW  - distributed databases
+KW  - message authentication
+KW  - query processing
+KW  - telecommunication security
+KW  - Internet
+KW  - P2 declarative networking system
+KW  - authenticated communication
+KW  - data provenance computation
+KW  - distributed data stream query
+KW  - forensic analysis
+KW  - malicious node identification
+KW  - network Datalog language
+KW  - network accountability
+KW  - network diagnostics
+KW  - provenance-aware secure network
+KW  - trust management policy
+KW  - Computer networks
+KW  - Data flow computing
+KW  - Data security
+KW  - Database languages
+KW  - Distributed computing
+KW  - Forensics
+KW  - IP networks
+KW  - Information security
+KW  - Performance analysis
+KW  - Taxonomy
+VL  - 
+JA  - Data Engineering Workshop, 2008. ICDEW 2008. IEEE 24th International Conference on
+DO  - 10.1109/ICDEW.2008.4498315
+ER  - 
+
+TY  - CONF
+JO  - Information Security for South Africa, 2013
+TI  - Digital forensic readiness in the cloud
+T2  - Information Security for South Africa, 2013
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 5
+AU  - Trenwith, P.M.
+AU  - Venter, H.S.
+Y1  - 14-16 Aug. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - digital forensics
+KW  - centralized logging
+KW  - cloud computing environments
+KW  - digital forensic investigation process
+KW  - digital forensic readiness
+KW  - evidential data acquisition
+KW  - Cloud computing
+KW  - Computers
+KW  - Cryptography
+KW  - Digital forensics
+KW  - Protocols
+KW  - Servers
+KW  - AES
+KW  - Cloud Computing
+KW  - Cryptographic Hash Functions
+KW  - Diffie-Hellman
+KW  - Digital Forensic Investigation Process
+KW  - Digital Forensic Readiness
+KW  - Digital Forensics
+KW  - Network Time Protocol
+KW  - RSA
+KW  - Remote and Centralized Logging
+KW  - Windows Event Logs
+VL  - 
+JA  - Information Security for South Africa, 2013
+DO  - 10.1109/ISSA.2013.6641055
+ER  - 
+
+TY  - CONF
+JO  - Future Information Technology (FutureTech), 2010 5th International Conference on
+TI  - Intrusion Investigations with Data-Hiding for Computer Log-File Forensics
+T2  - Future Information Technology (FutureTech), 2010 5th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Ya-Ting Fan
+AU  - Shiuh-Jeng Wang
+Y1  - 21-23 May 2010
+PY  - 2010
+KW  - computer forensics
+KW  - data privacy
+KW  - steganography
+KW  - system monitoring
+KW  - backup logs
+KW  - computer forensics operation
+KW  - computer log file forensics
+KW  - data hiding
+KW  - information security
+KW  - intrusion investigation
+KW  - logging mechanism
+KW  - steganography
+KW  - traditional log security strategy
+KW  - Computer network management
+KW  - Computer networks
+KW  - Computer security
+KW  - Data security
+KW  - Forensics
+KW  - Information security
+KW  - Internet
+KW  - Maintenance
+KW  - Management training
+KW  - Protection
+VL  - 
+JA  - Future Information Technology (FutureTech), 2010 5th International Conference on
+DO  - 10.1109/FUTURETECH.2010.5482741
+ER  - 
+
+TY  - CONF
+JO  - Availability, Reliability and Security (ARES), 2011 Sixth International Conference on
+TI  - A Discussion of Visualization Techniques for the Analysis of Digital Evidence
+T2  - Availability, Reliability and Security (ARES), 2011 Sixth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 758
+EP  - 763
+AU  - Schrenk, G.
+AU  - Poisel, R.
+Y1  - 22-26 Aug. 2011
+PY  - 2011
+KW  - computer crime
+KW  - computer forensics
+KW  - data visualisation
+KW  - electronic mail
+KW  - data classification
+KW  - data source
+KW  - digital crimes
+KW  - digital evidence
+KW  - digital forensics
+KW  - e-mail
+KW  - logging data
+KW  - storage capacity
+KW  - visualization
+KW  - Data visualization
+KW  - Digital forensics
+KW  - Electronic mail
+KW  - Media
+KW  - Security
+KW  - Three dimensional displays
+KW  - digital forensics
+KW  - timeline
+KW  - timestamp
+KW  - visualization
+VL  - 
+JA  - Availability, Reliability and Security (ARES), 2011 Sixth International Conference on
+DO  - 10.1109/ARES.2011.119
+ER  - 
+
+TY  - CONF
+JO  - Intelligence and Security Informatics Conference (EISIC), 2011 European
+TI  - Trees Cannot Lie: Using Data Structures for Forensics Purposes
+T2  - Intelligence and Security Informatics Conference (EISIC), 2011 European
+IS  - 
+SN  - 
+VO  - 
+SP  - 282
+EP  - 285
+AU  - Kieseberg, P.
+AU  - Schrittwieser, S.
+AU  - Mulazzani, M.
+AU  - Huber, M.
+AU  - Weippl, E.
+Y1  - 12-14 Sept. 2011
+PY  - 2011
+KW  - computer forensics
+KW  - database management systems
+KW  - tree data structures
+KW  - tree searching
+KW  - cache clock hands
+KW  - data storage
+KW  - data structures
+KW  - database management system
+KW  - digital forensic research community
+KW  - flushing transient artifact
+KW  - log files
+KW  - logging mechanism
+KW  - malicious administrator modification
+KW  - plan caches
+KW  - tree forensic technique
+KW  - Digital forensics
+KW  - Engines
+KW  - Indexes
+KW  - Vegetation
+KW  - InnoDB
+KW  - b+ tree
+KW  - database forensics
+VL  - 
+JA  - Intelligence and Security Informatics Conference (EISIC), 2011 European
+DO  - 10.1109/EISIC.2011.18
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+TI  - Finding the Evidence in Tamper-Evident Logs
+T2  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 69
+EP  - 75
+AU  - Sandler, D.
+AU  - Derr, K.
+AU  - Crosby, S.
+AU  - Wallach, D.S.
+Y1  - 22-22 May 2008
+PY  - 2008
+KW  - data recording
+KW  - query processing
+KW  - security of data
+KW  - Querifier
+KW  - flexible pattern-matching language
+KW  - forensic scrutiny
+KW  - hash chaining
+KW  - secure log
+KW  - suspicious activity
+KW  - tamper-evident chronological records
+KW  - tamper-evident logs
+KW  - Business
+KW  - Data structures
+KW  - Digital forensics
+KW  - Forgery
+KW  - Humans
+KW  - Law
+KW  - Legal factors
+KW  - Power engineering and energy
+KW  - Resists
+KW  - Runtime
+KW  - hash chaining
+KW  - predicate logic
+KW  - query processing
+KW  - secure logs
+KW  - tamper evidence
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+DO  - 10.1109/SADFE.2008.22
+ER  - 
+
+TY  - CONF
+JO  - Services (SERVICES), 2014 IEEE World Congress on
+TI  - Audit Log Management in MongoDB
+T2  - Services (SERVICES), 2014 IEEE World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 53
+EP  - 57
+AU  - Murugesan, P.
+AU  - Ray, I.
+Y1  - June 27 2014-July 2 2014
+PY  - 2014
+KW  - Internet
+KW  - database management systems
+KW  - MongoDB
+KW  - NIST standard
+KW  - NoSQL databases
+KW  - Web-based applications
+KW  - agile database
+KW  - audit log management
+KW  - complex multisite architectures
+KW  - data management
+KW  - log management techniques
+KW  - mongosniff
+KW  - single server environment
+KW  - Indexes
+KW  - Monitoring
+KW  - NIST
+KW  - Security
+KW  - Servers
+KW  - Audit Trail
+KW  - Log Management
+KW  - MongoDB
+KW  - NoSQL
+VL  - 
+JA  - Services (SERVICES), 2014 IEEE World Congress on
+DO  - 10.1109/SERVICES.2014.19
+ER  - 
+
+TY  - CONF
+JO  - Global Telecommunications Conference (GLOBECOM 2010), 2010 IEEE
+TI  - Notice of Retraction<BR>Building global view with log files in a distributed/network system
+T2  - Global Telecommunications Conference (GLOBECOM 2010), 2010 IEEE
+IS  - 
+SN  - 1930-529X
+VO  - 
+SP  - 1
+EP  - 5
+AU  - Songqing Yue
+AU  - Yang Xiao
+Y1  - 6-10 Dec. 2010
+PY  - 2010
+KW  - computer network security
+KW  - data recording
+KW  - accountable audit data
+KW  - distributed/network system
+KW  - flow-net methodology
+KW  - global view
+KW  - log files
+KW  - Buildings
+KW  - Clocks
+KW  - IEEE Communications Society
+KW  - Monitoring
+KW  - Peer to peer computing
+KW  - Security
+KW  - Synchronization
+VL  - 
+JA  - Global Telecommunications Conference (GLOBECOM 2010), 2010 IEEE
+DO  - 10.1109/GLOCOM.2010.5683553
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2007. SADFE 2007. Second International Workshop on
+TI  - A Log Correlation Model to Support the Evidence Search Process in a Forensic Investigation
+T2  - Systematic Approaches to Digital Forensic Engineering, 2007. SADFE 2007. Second International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 31
+EP  - 42
+AU  - Herrerias, J.
+AU  - Gomez, R.
+Y1  - 10-12 April 2007
+PY  - 2007
+KW  - computer crime
+KW  - computer forensics
+KW  - evidence search process
+KW  - forensic investigation
+KW  - log correlation model
+KW  - Application software
+KW  - Computer science
+KW  - Engines
+KW  - Filters
+KW  - Forensics
+KW  - Information security
+KW  - Internet
+KW  - Intrusion detection
+KW  - Operating systems
+KW  - Registers
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2007. SADFE 2007. Second International Workshop on
+DO  - 10.1109/SADFE.2007.1
+ER  - 
+
+TY  - JOUR
+JO  - Dependable and Secure Computing, IEEE Transactions on
+TI  - Ensuring Distributed Accountability for Data Sharing in the Cloud
+T2  - Dependable and Secure Computing, IEEE Transactions on
+IS  - 4
+SN  - 1545-5971
+VO  - 9
+SP  - 556
+EP  - 568
+AU  - Sundareswaran, S.
+AU  - Squicciarini, A.C.
+AU  - Lin, D.
+Y1  - July-Aug. 2012
+PY  - 2012
+KW  - authorisation
+KW  - cloud computing
+KW  - security of data
+KW  - system monitoring
+KW  - Internet
+KW  - JAR programmable capabilities
+KW  - cloud computing
+KW  - cloud services
+KW  - data sharing
+KW  - decentralized information accountability framework
+KW  - distributed accountability ensurance
+KW  - distributed auditing mechanisms
+KW  - logging mechanism
+KW  - object-centered approach
+KW  - Access control
+KW  - Authentication
+KW  - Cryptography
+KW  - Distributed databases
+KW  - Monitoring
+KW  - Privacy
+KW  - Cloud computing
+KW  - accountability
+KW  - data sharing.
+VL  - 9
+JA  - Dependable and Secure Computing, IEEE Transactions on
+DO  - 10.1109/TDSC.2012.26
+ER  - 
+
+TY  - CONF
+JO  - Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2015 IEEE International Conference on
+TI  - A provenance auditing framework for cloud computing systems
+T2  - Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2015 IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 5
+AU  - Meera, G.
+AU  - Geethakumari, G.
+Y1  - 19-21 Feb. 2015
+PY  - 2015
+KW  - auditing
+KW  - cloud computing
+KW  - cryptography
+KW  - data integrity
+KW  - fault diagnosis
+KW  - meta data
+KW  - resource allocation
+KW  - service-oriented architecture
+KW  - trusted computing
+KW  - accountability
+KW  - cloud computing systems
+KW  - cloud environments
+KW  - cloud security
+KW  - cloud service providers
+KW  - cryptographic techniques
+KW  - fault detection
+KW  - integrity preservation
+KW  - integrity verification
+KW  - lineage tracking
+KW  - metadata history
+KW  - operating systems
+KW  - provenance auditing framework
+KW  - resource sharing
+KW  - security risks
+KW  - service oriented paradigm
+KW  - sharing facility
+KW  - trust relations
+KW  - verifiability
+KW  - Cloud computing
+KW  - Cryptography
+KW  - Digital forensics
+KW  - Monitoring
+KW  - Virtual machining
+KW  - Auditing
+KW  - Cloud computing
+KW  - Provenance
+VL  - 
+JA  - Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2015 IEEE International Conference on
+DO  - 10.1109/SPICES.2015.7091427
+ER  - 
+
+TY  - JOUR
+JO  - Network, IEEE
+TI  - Flow-net methodology for accountability in wireless networks
+T2  - Network, IEEE
+IS  - 5
+SN  - 0890-8044
+VO  - 23
+SP  - 30
+EP  - 37
+AU  - Yang Xiao
+Y1  - September 2009
+PY  - 2009
+KW  - access protocols
+KW  - computer network management
+KW  - mobile computing
+KW  - security of data
+KW  - telecommunication network routing
+KW  - computing infrastructure
+KW  - flow net methodology
+KW  - forensic purposes
+KW  - intrusion detection purposes
+KW  - media access control
+KW  - network infrastructure
+KW  - routing layers
+KW  - traffic data collection
+KW  - wireless network accountability
+KW  - Communication system traffic control
+KW  - Computer crime
+KW  - Computer networks
+KW  - Forensics
+KW  - Information security
+KW  - Intrusion detection
+KW  - Media Access Protocol
+KW  - Reconnaissance
+KW  - Routing
+KW  - Wireless networks
+VL  - 23
+JA  - Network, IEEE
+DO  - 10.1109/MNET.2009.5274919
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing (CLOUD), 2011 IEEE International Conference on
+TI  - Promoting Distributed Accountability in the Cloud
+T2  - Cloud Computing (CLOUD), 2011 IEEE International Conference on
+IS  - 
+SN  - 2159-6182
+VO  - 
+SP  - 113
+EP  - 120
+AU  - Sundareswaran, S.
+AU  - Squicciarini, A.
+AU  - Lin, D.
+AU  - Shuo Huang
+Y1  - 4-9 July 2011
+PY  - 2011
+KW  - Java
+KW  - authorisation
+KW  - cloud computing
+KW  - system monitoring
+KW  - Internet
+KW  - Java JAR files
+KW  - authentication logging
+KW  - automated logging
+KW  - cloud computing
+KW  - cloud services
+KW  - decentralized information accountability framework
+KW  - distributed accountability
+KW  - Access control
+KW  - Authentication
+KW  - Cryptography
+KW  - Distributed databases
+KW  - Error correction
+KW  - Java
+KW  - Servers
+KW  - accountability
+KW  - cloud
+KW  - privacy
+VL  - 
+JA  - Cloud Computing (CLOUD), 2011 IEEE International Conference on
+DO  - 10.1109/CLOUD.2011.57
+ER  - 
+
+TY  - JOUR
+JO  - IBM Systems Journal
+TI  - Role of an auditing and reporting service in compliance management
+T2  - IBM Systems Journal
+IS  - 2
+SN  - 0018-8670
+VO  - 46
+SP  - 305
+EP  - 318
+AU  - Ramanathan, J.
+AU  - Cohen, R.J.
+AU  - Plassmann, E.
+AU  - Ramamoorthy, K.
+Y1  - 2007
+PY  - 2007
+VL  - 46
+JA  - IBM Systems Journal
+DO  - 10.1147/sj.462.0305
+ER  - 
+
+TY  - CONF
+JO  - Services (SERVICES), 2014 IEEE World Congress on
+TI  - Embedding a Distributed Auditing Mechanism in the Service Cloud
+T2  - Services (SERVICES), 2014 IEEE World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 69
+EP  - 76
+AU  - Alqahtani, S.
+AU  - Gamble, R.
+Y1  - June 27 2014-July 2 2014
+PY  - 2014
+KW  - cloud computing
+KW  - digital forensics
+KW  - CAPEC attack patterns
+KW  - attack evidence gathering
+KW  - cloud computing
+KW  - cloud security alliance
+KW  - distributed auditing mechanism
+KW  - forensic coverage
+KW  - local service level
+KW  - mitigation techniques
+KW  - notorious nine threats
+KW  - service cloud
+KW  - session level
+KW  - tenant services
+KW  - Cloud computing
+KW  - Clouds
+KW  - Forensics
+KW  - Monitoring
+KW  - Security
+KW  - Simple object access protocol
+KW  - Attack forensics
+KW  - Distributed auditing
+KW  - Security
+KW  - Service cloud
+VL  - 
+JA  - Services (SERVICES), 2014 IEEE World Congress on
+DO  - 10.1109/SERVICES.2014.22
+ER  - 
+
+TY  - JOUR
+JO  - IBM Journal of Research and Development
+TI  - Augmenting security and accountability within the eHealth Exchange
+T2  - IBM Journal of Research and Development
+IS  - 1
+SN  - 0018-8646
+VO  - 58
+SP  - 8:1
+EP  - 8:11
+AU  - Ahmed, M.
+AU  - Ahamad, M.
+AU  - Jaiswal, T.
+Y1  - Jan.-Feb. 2014
+PY  - 2014
+KW  - Computer security
+KW  - Electronic medical records
+KW  - Medical services
+KW  - Online services
+KW  - Privacy
+VL  - 58
+JA  - IBM Journal of Research and Development
+DO  - 10.1147/JRD.2013.2288068
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+TI  - Computer Forensics in Forensis
+T2  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 102
+EP  - 122
+AU  - Peisert, S.
+AU  - Bishop, M.
+AU  - Marzullo, K.
+Y1  - 22-22 May 2008
+PY  - 2008
+KW  - security of data
+KW  - computer forensic systems
+KW  - forensic data
+KW  - forensis
+KW  - valid forensic analysis
+KW  - Chemical analysis
+KW  - Computer errors
+KW  - Computer science
+KW  - DNA computing
+KW  - Digital forensics
+KW  - Educational institutions
+KW  - Law
+KW  - Legal factors
+KW  - Terrorism
+KW  - Testing
+KW  - Auditing
+KW  - Laocoon
+KW  - data measurement
+KW  - forensic analysis
+KW  - forensic systems
+KW  - law
+KW  - legal procedure
+KW  - logging
+KW  - models
+KW  - scientific method
+KW  - security
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+DO  - 10.1109/SADFE.2008.18
+ER  - 
+
+TY  - CONF
+JO  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+TI  - Flogger: A File-Centric Logger for Monitoring File Access and Transfers within Cloud Computing Environments
+T2  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 765
+EP  - 771
+AU  - Ko, R.K.L.
+AU  - Jagadpramana, P.
+AU  - Bu Sung Lee
+Y1  - 16-18 Nov. 2011
+PY  - 2011
+KW  - authorisation
+KW  - cloud computing
+KW  - system monitoring
+KW  - virtual machines
+KW  - Flogger
+KW  - cloud computing environments
+KW  - cloud providers
+KW  - data accountability
+KW  - file access monitoring
+KW  - file centric logger
+KW  - file-centric access
+KW  - kernel spaces
+KW  - log file access
+KW  - private cloud environments
+KW  - public cloud environments
+KW  - system tools
+KW  - virtual machines
+KW  - Cloud computing
+KW  - Communication channels
+KW  - Databases
+KW  - Kernel
+KW  - Linux
+KW  - Monitoring
+KW  - Servers
+KW  - Cloud computing
+KW  - Cloud computing security
+KW  - accountability
+KW  - auditability
+KW  - detective mechanisms
+KW  - file-centric logging mechanisms
+KW  - file-centric logs
+KW  - logging
+KW  - trust in Cloud computing
+KW  - trusted Cloud
+VL  - 
+JA  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+DO  - 10.1109/TrustCom.2011.100
+ER  - 
+
+TY  - CONF
+JO  - Technologies for Homeland Security (HST), 2013 IEEE International Conference on
+TI  - To change or not to change: That is the question
+T2  - Technologies for Homeland Security (HST), 2013 IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 212
+EP  - 216
+AU  - Dancer, F.C.T.
+AU  - Skelton, G.W.
+Y1  - 12-14 Nov. 2013
+PY  - 2013
+KW  - digital forensics
+KW  - file organisation
+KW  - smart phones
+KW  - Blackberry 7103
+KW  - Blackberry 8530
+KW  - DiffMerge
+KW  - RIM Blackberry 8703e
+KW  - Symbian HTC
+KW  - TouchPro 6850
+KW  - XRY file
+KW  - bit-for-bit image
+KW  - computer forensics students
+KW  - computer security
+KW  - contamination
+KW  - digital forensic process
+KW  - file size by category
+KW  - file size by test
+KW  - folder size
+KW  - forensic community
+KW  - forensic patterns
+KW  - smartphone devices
+KW  - Browsers
+KW  - Computers
+KW  - Digital forensics
+KW  - Performance evaluation
+KW  - Smart phones
+KW  - Small Scale Digital Forensics
+KW  - digital forensics
+KW  - mobile device
+KW  - process modelling
+VL  - 
+JA  - Technologies for Homeland Security (HST), 2013 IEEE International Conference on
+DO  - 10.1109/THS.2013.6699002
+ER  - 
+
+TY  - CONF
+JO  - Networking, Sensing and Control (ICNSC), 2015 IEEE 12th International Conference on
+TI  - Entropy clustering approach for improving forecasting in DDoS attacks
+T2  - Networking, Sensing and Control (ICNSC), 2015 IEEE 12th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 315
+EP  - 320
+AU  - Olabelurin, A.
+AU  - Veluru, S.
+AU  - Healing, A.
+AU  - Rajarajan, M.
+Y1  - 9-11 April 2015
+PY  - 2015
+KW  - computer network security
+KW  - digital forensics
+KW  - entropy
+KW  - forecasting theory
+KW  - pattern clustering
+KW  - DDoS attacks
+KW  - FPR
+KW  - IDS
+KW  - Shannon-entropy concept
+KW  - clustering algorithm
+KW  - cyber-range simulation dataset
+KW  - digital forensic analysis
+KW  - distributed denial-of-service
+KW  - entropy clustering approach
+KW  - false positive rate
+KW  - forecasting
+KW  - intrusion detection system
+KW  - network analysis
+KW  - proactive forecast
+KW  - project industrial partner
+KW  - volume anomaly
+KW  - Algorithm design and analysis
+KW  - Clustering algorithms
+KW  - Computer crime
+KW  - Entropy
+KW  - Feature extraction
+KW  - Ports (Computers)
+KW  - Shannon entropy
+KW  - alert management
+KW  - distributed denial-of-service (DDoS) detection
+KW  - k-means clustering analysis
+KW  - network security
+KW  - online anomaly detection
+VL  - 
+JA  - Networking, Sensing and Control (ICNSC), 2015 IEEE 12th International Conference on
+DO  - 10.1109/ICNSC.2015.7116055
+ER  - 
+
+TY  - CONF
+JO  - Communication Systems and Network Technologies (CSNT), 2014 Fourth International Conference on
+TI  - Data Generation and Analysis for Digital Forensic Application Using Data Mining
+T2  - Communication Systems and Network Technologies (CSNT), 2014 Fourth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 458
+EP  - 462
+AU  - Khobragade, P.K.
+AU  - Malik, L.G.
+Y1  - 7-9 April 2014
+PY  - 2014
+KW  - computer crime
+KW  - data analysis
+KW  - data mining
+KW  - digital forensics
+KW  - firewalls
+KW  - storage management
+KW  - FTK 4.0
+KW  - Web browser
+KW  - cyber crime huge log data
+KW  - cyber system
+KW  - data analysis
+KW  - data collection
+KW  - data generation
+KW  - data mining
+KW  - data storage
+KW  - digital forensic application
+KW  - firewall logs
+KW  - intrusion detection system
+KW  - memory forensic analysis
+KW  - network attack detection
+KW  - network forensic analysis
+KW  - network traces
+KW  - network traffic
+KW  - packet captures
+KW  - remote system forensic
+KW  - transactional data
+KW  - Computers
+KW  - Data mining
+KW  - Data visualization
+KW  - Databases
+KW  - Digital forensics
+KW  - Security
+KW  - Clustering
+KW  - Data Collection
+KW  - Digital forensic tool
+KW  - Log Data collection
+VL  - 
+JA  - Communication Systems and Network Technologies (CSNT), 2014 Fourth International Conference on
+DO  - 10.1109/CSNT.2014.97
+ER  - 
+
+TY  - CONF
+JO  - Circuit, Power and Computing Technologies (ICCPCT), 2014 International Conference on
+TI  - Anonymizing log management process for secure logging in the cloud
+T2  - Circuit, Power and Computing Technologies (ICCPCT), 2014 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1559
+EP  - 1564
+AU  - Rajalakshmi, J.R.
+AU  - Rathinraj, M.
+AU  - Braveen, M.
+Y1  - 20-21 March 2014
+PY  - 2014
+KW  - cloud computing
+KW  - criminal law
+KW  - cryptography
+KW  - digital forensics
+KW  - computer records
+KW  - criminal investigations
+KW  - cyber forensic process
+KW  - electronic evidence
+KW  - federal evidence rules
+KW  - forensic computing
+KW  - homomorphic encryption scheme
+KW  - log files
+KW  - log management process anonymization
+KW  - secure cloud-based log management service
+KW  - secure logging infrastructure
+KW  - Ciphers
+KW  - Cloud computing
+KW  - Computers
+KW  - Encryption
+KW  - Public key
+KW  - Fully Homomorphic Algorithm Tor Network
+KW  - Homomorphic Encryption
+KW  - Log Management
+KW  - Logging
+VL  - 
+JA  - Circuit, Power and Computing Technologies (ICCPCT), 2014 International Conference on
+DO  - 10.1109/ICCPCT.2014.7055014
+ER  - 
+
+TY  - CONF
+JO  - Information Security for South Africa (ISSA), 2014
+TI  - Towards a prototype for guidance and implementation of a standardized digital forensic investigation process
+T2  - Information Security for South Africa (ISSA), 2014
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 8
+AU  - Valjarevic, A.
+AU  - Venter, H.S.
+AU  - Ingles, M.
+Y1  - 13-14 Aug. 2014
+PY  - 2014
+KW  - authorisation
+KW  - digital forensics
+KW  - standardisation
+KW  - comprehensive harmonized digital forensic investigation process model
+KW  - digital evidence admissibility
+KW  - digital forensic investigations
+KW  - expert system
+KW  - international standard
+KW  - novice investigator guidance
+KW  - novice investigator training
+KW  - process validation
+KW  - reliable action logging
+KW  - software application
+KW  - standardized-formalized digital forensic investigation process
+KW  - Analytical models
+KW  - Cryptography
+KW  - Irrigation
+KW  - ISO/IEC 27043
+KW  - digital forensic investigation process model
+KW  - digital forensics
+KW  - harmonization
+KW  - implementation prototype
+KW  - standardization
+VL  - 
+JA  - Information Security for South Africa (ISSA), 2014
+DO  - 10.1109/ISSA.2014.6950488
+ER  - 
+
+TY  - CONF
+JO  - Security and Privacy Workshops (SPW), 2013 IEEE
+TI  - Log Design for Accountability
+T2  - Security and Privacy Workshops (SPW), 2013 IEEE
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 7
+AU  - Butin, D.
+AU  - Chicote, M.
+AU  - Le Metayer, D.
+Y1  - 23-24 May 2013
+PY  - 2013
+KW  - electronic data interchange
+KW  - PPL policy language
+KW  - accountability definition
+KW  - accountable log design
+KW  - compliance analysis
+KW  - data controller
+KW  - log architecture
+KW  - Companies
+KW  - Credit cards
+KW  - Data handling
+KW  - Delays
+KW  - Guidelines
+KW  - Privacy
+KW  - Security
+KW  - Accountability
+KW  - PPL
+KW  - Privacy
+KW  - Security Policy
+VL  - 
+JA  - Security and Privacy Workshops (SPW), 2013 IEEE
+DO  - 10.1109/SPW.2013.26
+ER  - 
+
+TY  - CONF
+JO  - Information Assurance Workshop, 2005. IAW '05. Proceedings from the Sixth Annual IEEE SMC
+TI  - Efficient log authentication for forensic computing
+T2  - Information Assurance Workshop, 2005. IAW '05. Proceedings from the Sixth Annual IEEE SMC
+IS  - 
+SN  - 
+VO  - 
+SP  - 215
+EP  - 223
+AU  - Kawaguchi, N.
+AU  - Obata, N.
+AU  - Ueda, S.
+AU  - Azuma, Y.
+AU  - Shigeno, H.
+AU  - Okada, K.
+Y1  - 15-17 June 2005
+PY  - 2005
+KW  - computer crime
+KW  - digital signatures
+KW  - law administration
+KW  - trees (mathematics)
+KW  - digital evidence
+KW  - digital signatures
+KW  - distributed Merkle tree algorithm
+KW  - forensic computing
+KW  - log authentication
+KW  - logging host
+KW  - server traffic
+KW  - Authentication
+KW  - Computer crime
+KW  - Computer hacking
+KW  - Computer networks
+KW  - Digital signatures
+KW  - Forensics
+KW  - Government
+KW  - Information security
+KW  - Network servers
+KW  - Personal communication networks
+VL  - 
+JA  - Information Assurance Workshop, 2005. IAW '05. Proceedings from the Sixth Annual IEEE SMC
+DO  - 10.1109/IAW.2005.1495955
+ER  - 
+
+TY  - JOUR
+JO  - Information Forensics and Security, IEEE Transactions on
+TI  - Securing First-Hop Data Provenance for Bodyworn Devices Using Wireless Link Fingerprints
+T2  - Information Forensics and Security, IEEE Transactions on
+IS  - 12
+SN  - 1556-6013
+VO  - 9
+SP  - 2193
+EP  - 2204
+AU  - Ali, S.T.
+AU  - Sivaraman, V.
+AU  - Ostry, D.
+AU  - Tsudik, G.
+AU  - Jha, S.
+Y1  - Dec. 2014
+PY  - 2014
+KW  - body area networks
+KW  - health care
+KW  - radio links
+KW  - telecommunication security
+KW  - wireless channels
+KW  - body area networks
+KW  - bodyworn sensors
+KW  - closely matching link fingerprints
+KW  - data session
+KW  - device deployment
+KW  - energy consumption
+KW  - first-hop data provenance
+KW  - fitness
+KW  - health infrastructure
+KW  - medical applications
+KW  - personalized healthcare applications
+KW  - security properties
+KW  - spatio-temporal characteristics
+KW  - sports training
+KW  - wireless bodyworn sensing devices
+KW  - wireless channel
+KW  - wireless link fingerprints
+KW  - Body area networks
+KW  - Communication system security
+KW  - Cryptography
+KW  - Physical layer
+KW  - Wearable sensors
+KW  - Wireless communication
+KW  - Wireless sensor networks
+KW  - Body area networks
+KW  - data provenance
+KW  - physical layer security
+VL  - 9
+JA  - Information Forensics and Security, IEEE Transactions on
+DO  - 10.1109/TIFS.2014.2357998
+ER  - 
+
+TY  - CONF
+JO  - Information and Telecommunication Technologies (APSITT), 2010 8th Asia-Pacific Symposium on
+TI  - A study on the requirements of accountable cloud services and log management
+T2  - Information and Telecommunication Technologies (APSITT), 2010 8th Asia-Pacific Symposium on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Nakahara, S.
+AU  - Ishimoto, H.
+Y1  - 15-18 June 2010
+PY  - 2010
+KW  - Web services
+KW  - cryptography
+KW  - network servers
+KW  - Web-based cloud services
+KW  - accountable cloud services
+KW  - cloud-based services tracing
+KW  - computer resources
+KW  - cryptography
+KW  - link log data accountability
+KW  - log management
+KW  - nonlocal servers
+KW  - Application software
+KW  - Cloud computing
+KW  - Cryptography
+KW  - Laboratories
+KW  - Network servers
+KW  - Outsourcing
+KW  - Resource virtualization
+KW  - Robustness
+KW  - Service oriented architecture
+KW  - Web server
+KW  - Accountability
+KW  - Accountability Framework
+KW  - Cloud Service
+KW  - Data Security
+KW  - Log Management
+VL  - 
+JA  - Information and Telecommunication Technologies (APSITT), 2010 8th Asia-Pacific Symposium on
+DO  - 
+ER  - 
+
+TY  - CONF
+JO  - Policies for Distributed Systems and Networks (POLICY), 2011 IEEE International Symposium on
+TI  - Addressing Data Reuse Issues at the Protocol Level
+T2  - Policies for Distributed Systems and Networks (POLICY), 2011 IEEE International Symposium on
+IS  - 
+SN  - 
+VO  - 
+SP  - 141
+EP  - 144
+AU  - Senevitane, O.
+AU  - Kagal, L.
+Y1  - 6-8 June 2011
+PY  - 2011
+KW  - Internet
+KW  - data privacy
+KW  - hypermedia
+KW  - transport protocols
+KW  - HTTP transaction
+KW  - HTTPA
+KW  - accountable hyper text transfer protocol
+KW  - data consumer
+KW  - data producer
+KW  - data reuse issues
+KW  - data transfer
+KW  - Access control
+KW  - Data privacy
+KW  - Facebook
+KW  - Media
+KW  - Privacy
+KW  - Protocols
+KW  - accountability
+KW  - authentication
+KW  - authorization
+KW  - data privacy
+KW  - security
+VL  - 
+JA  - Policies for Distributed Systems and Networks (POLICY), 2011 IEEE International Symposium on
+DO  - 10.1109/POLICY.2011.48
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing Technology and Science (CloudCom), 2013 IEEE 5th International Conference on
+TI  - Supporting Cloud Accountability by Collecting Evidence Using Audit Agents
+T2  - Cloud Computing Technology and Science (CloudCom), 2013 IEEE 5th International Conference on
+IS  - 
+SN  - 
+VO  - 1
+SP  - 185
+EP  - 190
+AU  - Ruebsamen, T.
+AU  - Reich, C.
+Y1  - 2-5 Dec. 2013
+PY  - 2013
+KW  - auditing
+KW  - cloud computing
+KW  - data privacy
+KW  - agent based architecture
+KW  - audit processing
+KW  - audit tasks
+KW  - cloud computing
+KW  - cloud services process data
+KW  - cloud-adopted evidence collection process
+KW  - complexity reduction
+KW  - log data analysis
+KW  - multi-provider scenario
+KW  - privacy issues
+KW  - Cloud computing
+KW  - Customer relationship management
+KW  - Data privacy
+KW  - Monitoring
+KW  - Security
+KW  - Virtual machine monitors
+KW  - Virtual machining
+KW  - Accountability
+KW  - Audit
+KW  - Cloud Computing
+KW  - Evidence
+VL  - 1
+JA  - Cloud Computing Technology and Science (CloudCom), 2013 IEEE 5th International Conference on
+DO  - 10.1109/CloudCom.2013.32
+ER  - 
+
+TY  - CONF
+JO  - Intelligent System Design and Engineering Applications (ISDEA), 2013 Third International Conference on
+TI  - A Log Based Approach to Make Digital Forensics Easier on Cloud Computing
+T2  - Intelligent System Design and Engineering Applications (ISDEA), 2013 Third International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 91
+EP  - 94
+AU  - Ting Sang
+Y1  - 16-18 Jan. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - digital forensics
+KW  - Internet environment
+KW  - cloud computing
+KW  - digital forensics
+KW  - forensic purpose
+KW  - information and communication technology
+KW  - log based approach
+KW  - security issue
+KW  - Cloud computing
+KW  - Companies
+KW  - Computational modeling
+KW  - Digital forensics
+KW  - Security
+KW  - Software as a service
+KW  - cloud computing
+KW  - digital forensic
+KW  - log
+KW  - security
+VL  - 
+JA  - Intelligent System Design and Engineering Applications (ISDEA), 2013 Third International Conference on
+DO  - 10.1109/ISDEA.2012.29
+ER  - 
+
+TY  - CONF
+JO  - Advanced Information Networking and Applications Workshops (WAINA), 2013 27th International Conference on
+TI  - A Generic Logging Template for Infrastructure as a Service Cloud
+T2  - Advanced Information Networking and Applications Workshops (WAINA), 2013 27th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1153
+EP  - 1160
+AU  - Wongthai, W.
+AU  - Rocha, F.L.
+AU  - Van Moorsel, A.
+Y1  - 25-28 March 2013
+PY  - 2013
+KW  - cloud computing
+KW  - computerised monitoring
+KW  - resource allocation
+KW  - risk analysis
+KW  - security of data
+KW  - service-oriented architecture
+KW  - CSA threat number
+KW  - IaaS cloud
+KW  - cloud security alliance
+KW  - cloud-based infrastructure
+KW  - generic architecture template
+KW  - generic logging template
+KW  - infrastructure as a service cloud
+KW  - logging systems
+KW  - pay-per-use cost model
+KW  - production systems
+KW  - raw computation resources
+KW  - risk association
+KW  - threat identification
+KW  - threat mitigation
+KW  - Cloud computing
+KW  - Computer architecture
+KW  - Electronic mail
+KW  - Kernel
+KW  - Monitoring
+KW  - Security
+KW  - Virtual machine monitors
+KW  - IaaS
+KW  - cloud monitoring
+KW  - logging system
+VL  - 
+JA  - Advanced Information Networking and Applications Workshops (WAINA), 2013 27th International Conference on
+DO  - 10.1109/WAINA.2013.108
+ER  - 
+
+TY  - CONF
+JO  - System Sciences (HICSS), 2011 44th Hawaii International Conference on
+TI  - Log-Based Distributed Security Event Detection Using Simple Event Correlator
+T2  - System Sciences (HICSS), 2011 44th Hawaii International Conference on
+IS  - 
+SN  - 1530-1605
+VO  - 
+SP  - 1
+EP  - 7
+AU  - Myers, J.
+AU  - Grimaila, M.R.
+AU  - Mills, R.F.
+Y1  - 4-7 Jan. 2011
+PY  - 2011
+KW  - bandwidth allocation
+KW  - distributed processing
+KW  - fault diagnosis
+KW  - security of data
+KW  - database query efficiency
+KW  - log event correlation
+KW  - log-based distributed security event detection
+KW  - network bandwidth utilization
+KW  - network syslog traffic
+KW  - security breaches
+KW  - simple event correlator
+KW  - system fault detection
+KW  - Correlation
+KW  - Databases
+KW  - Measurement
+KW  - Monitoring
+KW  - Security
+KW  - Web server
+VL  - 
+JA  - System Sciences (HICSS), 2011 44th Hawaii International Conference on
+DO  - 10.1109/HICSS.2011.288
+ER  - 
+
+TY  - CONF
+JO  - MILITARY COMMUNICATIONS CONFERENCE, 2010 - MILCOM 2010
+TI  - Implementation and evaluation of accountability using flow-net in wireless networks
+T2  - MILITARY COMMUNICATIONS CONFERENCE, 2010 - MILCOM 2010
+IS  - 
+SN  - 2155-7578
+VO  - 
+SP  - 7
+EP  - 12
+AU  - Yang Xiao
+AU  - Ke Meng
+AU  - Takahashi, D.
+Y1  - Oct. 31 2010-Nov. 3 2010
+PY  - 2010
+KW  - authorisation
+KW  - performance evaluation
+KW  - radio networks
+KW  - telecommunication security
+KW  - accountability
+KW  - audit log files
+KW  - flow-net methodology
+KW  - logging mechanism
+KW  - logging system
+KW  - performance evaluation
+KW  - wireless networks
+KW  - Complexity theory
+KW  - Computers
+KW  - IEEE 802.11 Standards
+KW  - Security
+KW  - Wireless LAN
+KW  - Wireless networks
+KW  - Accountability
+KW  - Logging
+KW  - Media Access Control (MAC)
+KW  - Trace
+KW  - routing
+KW  - wireless networks
+VL  - 
+JA  - MILITARY COMMUNICATIONS CONFERENCE, 2010 - MILCOM 2010
+DO  - 10.1109/MILCOM.2010.5680278
+ER  - 
+
+TY  - CONF
+JO  - Informatics, Electronics & Vision (ICIEV), 2014 International Conference on
+TI  - Watchword-oriented and time-stamped algorithms for tamper-proof cloud provenance cognition
+T2  - Informatics, Electronics & Vision (ICIEV), 2014 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Imran, A.
+AU  - Nahar, N.
+AU  - Sakib, K.
+Y1  - 23-24 May 2014
+PY  - 2014
+KW  - cloud computing
+KW  - digital forensics
+KW  - formal verification
+KW  - software performance evaluation
+KW  - cloud digital forensic investigation activities
+KW  - cloud security
+KW  - derivative journal information
+KW  - detection rate
+KW  - miss rate
+KW  - performance analysis
+KW  - system data
+KW  - system processes
+KW  - tamper-proof cloud provenance cognition
+KW  - time-stamp based buffer verifying algorithm
+KW  - watchword oriented provenance cognition algorithm
+KW  - Cloud computing
+KW  - Cognition
+KW  - Encryption
+KW  - Informatics
+KW  - Software as a service
+KW  - Cloud computing
+KW  - cloud security
+KW  - empirical evaluation
+KW  - provenance detection
+VL  - 
+JA  - Informatics, Electronics & Vision (ICIEV), 2014 International Conference on
+DO  - 10.1109/ICIEV.2014.6850747
+ER  - 
+
+TY  - CONF
+JO  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+TI  - Analysis of Download Accelerator Plus (DAP) for Forensic Artefacts
+T2  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 142
+EP  - 152
+AU  - Yasin, M.
+AU  - Wahla, M.A.
+AU  - Kausar, Firdous
+Y1  - 15-17 Sept. 2009
+PY  - 2009
+KW  - file organisation
+KW  - security of data
+KW  - DAP forensic artefact collector
+KW  - download accelerator plus
+KW  - download path
+KW  - downloaded files
+KW  - forensic artefacts
+KW  - install location
+KW  - log files
+KW  - menu extensions
+KW  - software records
+KW  - windows registry entries
+KW  - Conference management
+KW  - Digital audio players
+KW  - File servers
+KW  - Forensics
+KW  - History
+KW  - Information analysis
+KW  - Information security
+KW  - Performance analysis
+KW  - Technology management
+KW  - Web server
+VL  - 
+JA  - IT Security Incident Management and IT Forensics, 2009. IMF '09. Fifth International Conference on
+DO  - 10.1109/IMF.2009.11
+ER  - 
+
+TY  - CONF
+JO  - Information Assurance Workshop, 2004. Proceedings from the Fifth Annual IEEE SMC
+TI  - A secure logging scheme for Forensic Computing
+T2  - Information Assurance Workshop, 2004. Proceedings from the Fifth Annual IEEE SMC
+IS  - 
+SN  - 
+VO  - 
+SP  - 386
+EP  - 393
+AU  - Kawaguchi, N.
+AU  - Ueda, S.
+AU  - Obata, N.
+AU  - Miyaji, R.
+AU  - Kaneko, S.
+AU  - Shigeno, H.
+AU  - Okada, K.
+Y1  - 10-11 June 2004
+PY  - 2004
+KW  - authorisation
+KW  - data integrity
+KW  - digital signatures
+KW  - Forensic Computing
+KW  - Forward Integrity
+KW  - access control
+KW  - confidential information
+KW  - secure logging scheme
+KW  - signature tree
+KW  - Access control
+KW  - Authentication
+KW  - Computer crime
+KW  - Computer hacking
+KW  - Computer networks
+KW  - Forensics
+KW  - Government
+KW  - Law
+KW  - Legal factors
+KW  - Paper technology
+VL  - 
+JA  - Information Assurance Workshop, 2004. Proceedings from the Fifth Annual IEEE SMC
+DO  - 10.1109/IAW.2004.1437843
+ER  - 
+
+TY  - CONF
+JO  - Availability, Reliability and Security (ARES), 2012 Seventh International Conference on
+TI  - InnoDB Database Forensics: Reconstructing Data Manipulation Queries from Redo Logs
+T2  - Availability, Reliability and Security (ARES), 2012 Seventh International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 625
+EP  - 633
+AU  - Fruhwirt, P.
+AU  - Kieseberg, P.
+AU  - Schrittwieser, S.
+AU  - Huber, M.
+AU  - Weippl, E.
+Y1  - 20-24 Aug. 2012
+PY  - 2012
+KW  - SQL
+KW  - computer forensics
+KW  - fraud
+KW  - query processing
+KW  - storage management
+KW  - InnoDB database forensics
+KW  - MySQL
+KW  - admin privileges
+KW  - crash recovery
+KW  - data manipulation query reconstruction
+KW  - delete statement recovery
+KW  - forensic analysis
+KW  - forensic investigations
+KW  - fraud detection
+KW  - insert statement recovery
+KW  - log file manipulation
+KW  - open-source storage engine
+KW  - prototype implementation
+KW  - redo logs
+KW  - update statement recovery
+KW  - Computer crashes
+KW  - Digital forensics
+KW  - Engines
+KW  - Indexes
+KW  - Navigation
+KW  - InnoDB
+KW  - databases
+KW  - digital forensics
+KW  - log files
+VL  - 
+JA  - Availability, Reliability and Security (ARES), 2012 Seventh International Conference on
+DO  - 10.1109/ARES.2012.50
+ER  - 
+
+TY  - JOUR
+JO  - Security & Privacy, IEEE
+TI  - Logging in the Age of Web Services
+T2  - Security & Privacy, IEEE
+IS  - 3
+SN  - 1540-7993
+VO  - 7
+SP  - 82
+EP  - 85
+AU  - Chuvakin, A.
+AU  - Peterson, Gunnar
+Y1  - May-June 2009
+PY  - 2009
+KW  - Web services
+KW  - authorisation
+KW  - message authentication
+KW  - Web authorization
+KW  - Web service
+KW  - accountability
+KW  - audit logging
+KW  - authentication
+KW  - Access control
+KW  - Authentication
+KW  - Authorization
+KW  - Communication system security
+KW  - Cryptography
+KW  - Data security
+KW  - Power system security
+KW  - Service oriented architecture
+KW  - Web services
+KW  - XML
+KW  - BSI
+KW  - Web services
+KW  - building security in
+KW  - logging
+KW  - logs
+KW  - privacy
+KW  - security
+VL  - 7
+JA  - Security & Privacy, IEEE
+DO  - 10.1109/MSP.2009.70
+ER  - 
+
+TY  - CONF
+JO  - Homeland Security (HST), 2012 IEEE Conference on Technologies for
+TI  - On developing a conceptual modeling report management tool for digital forensic investigations
+T2  - Homeland Security (HST), 2012 IEEE Conference on Technologies for
+IS  - 
+SN  - 
+VO  - 
+SP  - 445
+EP  - 450
+AU  - Tanner, A.
+AU  - Dampier, D.
+AU  - Thompson, J.
+Y1  - 13-15 Nov. 2012
+PY  - 2012
+KW  - digital forensics
+KW  - document handling
+KW  - law administration
+KW  - case facts organization
+KW  - conceptual modeling report management tool
+KW  - conceptual report management tool
+KW  - digital evidence examination
+KW  - digital forensic investigation
+KW  - evidential findings
+KW  - forensic software
+KW  - typed report submission
+KW  - Computational modeling
+KW  - Computers
+KW  - Digital forensics
+KW  - HTML
+KW  - Semantics
+KW  - Software
+KW  - conceptual modeling
+KW  - digital forensics
+KW  - knowledge management
+VL  - 
+JA  - Homeland Security (HST), 2012 IEEE Conference on Technologies for
+DO  - 10.1109/THS.2012.6459890
+ER  - 
+
+TY  - CONF
+JO  - Information Forensics and Security (WIFS), 2013 IEEE International Workshop on
+TI  - Separate MAP adaptation of GMM parameters for forensic voice comparison on limited data
+T2  - Information Forensics and Security (WIFS), 2013 IEEE International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Chee Cheun Huang
+AU  - Epps, J.
+AU  - Enzinger, E.
+Y1  - 18-21 Nov. 2013
+PY  - 2013
+KW  - Gaussian processes
+KW  - digital forensics
+KW  - speaker recognition
+KW  - FVC
+KW  - GMM parameters
+KW  - GMM-UBM
+KW  - Gaussian mixture model-universal background model
+KW  - MAP adapted configuration fusion
+KW  - SMAP
+KW  - forensic voice comparison
+KW  - full MAP adaptation
+KW  - limited data
+KW  - limited data conditions
+KW  - log-likelihood ratio cost
+KW  - separate MAP adaptation
+KW  - speaker-specific training data
+KW  - variance-only adaptations
+KW  - weight-only adaptations
+KW  - Estimation
+KW  - Speech
+KW  - Training
+VL  - 
+JA  - Information Forensics and Security (WIFS), 2013 IEEE International Workshop on
+DO  - 10.1109/WIFS.2013.6707785
+ER  - 
+
+TY  - CONF
+JO  - Biometrics and Forensics (IWBF), 2015 International Workshop on
+TI  - Data forensic techniques using Benford's law and Zipf's law for keystroke dynamics
+T2  - Biometrics and Forensics (IWBF), 2015 International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Iorliam, A.
+AU  - Ho, A.T.S.
+AU  - Poh, N.
+AU  - Tirunagari, S.
+AU  - Bours, P.
+Y1  - 3-4 March 2015
+PY  - 2015
+KW  - biometrics (access control)
+KW  - digital forensics
+KW  - fraud
+KW  - statistical distributions
+KW  - Benford's law
+KW  - Zipf's law
+KW  - anomaly detection
+KW  - auditing application
+KW  - biometrics traits
+KW  - data forensic techniques
+KW  - discrete power law probability distributions
+KW  - fraud detection
+KW  - keydown-keydown
+KW  - keystroke biometric systems
+KW  - keystroke dynamics
+KW  - keyup-keydown
+KW  - Companies
+KW  - Data models
+KW  - Databases
+KW  - Mathematical model
+KW  - Monitoring
+KW  - Polynomials
+KW  - Standards
+KW  - Benford???s law
+KW  - Keystroke Dynamics
+KW  - Zipf???s law
+VL  - 
+JA  - Biometrics and Forensics (IWBF), 2015 International Workshop on
+DO  - 10.1109/IWBF.2015.7110238
+ER  - 
+
+TY  - CONF
+JO  - Communications, 2008. ICC '08. IEEE International Conference on
+TI  - Complexity Analysis of Retrieving Knowledge from Auditing Log Files for Computer and Network Forensics and Accountability
+T2  - Communications, 2008. ICC '08. IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1474
+EP  - 1478
+AU  - Takahashi, D.
+AU  - Yang Xiao
+Y1  - 19-23 May 2008
+PY  - 2008
+KW  - computational complexity
+KW  - computer networks
+KW  - security of data
+KW  - FIFO
+KW  - complexity analysis
+KW  - computer network accountability
+KW  - computer network forensics
+KW  - knowledge retrieval
+KW  - message-queue
+KW  - network auditing log database
+KW  - Analytical models
+KW  - Computational modeling
+KW  - Computer crime
+KW  - Computer hacking
+KW  - Computer networks
+KW  - Databases
+KW  - Forensics
+KW  - Information retrieval
+KW  - Layout
+KW  - Personal digital assistants
+VL  - 
+JA  - Communications, 2008. ICC '08. IEEE International Conference on
+DO  - 10.1109/ICC.2008.285
+ER  - 
+
+TY  - CONF
+JO  - Computational Intelligence and Security Workshops, 2007. CISW 2007. International Conference on
+TI  - Time Bounding Event Reasoning in Computer Forensic
+T2  - Computational Intelligence and Security Workshops, 2007. CISW 2007. International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 946
+EP  - 952
+AU  - Liu Zhi Jun
+AU  - Zhang Huan guo
+Y1  - 15-19 Dec. 2007
+PY  - 2007
+KW  - file organisation
+KW  - police data processing
+KW  - computer forensic
+KW  - digital investigations
+KW  - logging mechanism
+KW  - multilevel overwriting data
+KW  - time bounding event reasoning
+KW  - time offset mechanism
+KW  - timestamps
+KW  - Algorithm design and analysis
+KW  - Clocks
+KW  - Computational intelligence
+KW  - Computer security
+KW  - Forensics
+KW  - Hard disks
+KW  - Information security
+KW  - Information technology
+KW  - Web pages
+KW  - Web server
+VL  - 
+JA  - Computational Intelligence and Security Workshops, 2007. CISW 2007. International Conference on
+DO  - 10.1109/CISW.2007.4425652
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2013 Eighth International Workshop on
+TI  - AssocGEN: Engine for analyzing metadata based associations in digital evidence
+T2  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2013 Eighth International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 8
+AU  - Raghavan, S.
+AU  - Raghavan, S.V.
+Y1  - 21-22 Nov. 2013
+PY  - 2013
+KW  - image forensics
+KW  - message authentication
+KW  - meta data
+KW  - ubiquitous computing
+KW  - AssocGEN analysis engine
+KW  - artifact metadata
+KW  - authenticity
+KW  - digital evidence
+KW  - forensic images
+KW  - forensic tools
+KW  - human intervention
+KW  - metadata associations
+KW  - metadata based associations
+KW  - network packet dumps
+KW  - ubiquitous nature
+KW  - Browsers
+KW  - Correlation
+KW  - Internet
+KW  - Libraries
+KW  - Linux
+KW  - Performance evaluation
+KW  - Metadata association
+KW  - association group
+KW  - similarity group
+KW  - similarity pocket
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering (SADFE), 2013 Eighth International Workshop on
+DO  - 10.1109/SADFE.2013.6911541
+ER  - 
+
+TY  - CONF
+JO  - Computational Intelligence and Computing Research (ICCIC), 2013 IEEE International Conference on
+TI  - Ensuring accountability for application sharing in the cloud
+T2  - Computational Intelligence and Computing Research (ICCIC), 2013 IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 5
+AU  - Bhole, A.T.
+AU  - Rajput, S.D.
+Y1  - 26-28 Dec. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - cryptography
+KW  - Internet service
+KW  - access control applications
+KW  - cloud application sharing
+KW  - cloud service provider
+KW  - downloading application
+KW  - encryption process
+KW  - network service
+KW  - push pull key matching algorithm
+KW  - uploading applications
+KW  - Access control
+KW  - Cloud computing
+KW  - Conferences
+KW  - Encryption
+KW  - Servers
+KW  - Cloud service provider
+KW  - accountability
+KW  - audit
+KW  - cloud subscriber
+KW  - key matching
+KW  - push-pull
+VL  - 
+JA  - Computational Intelligence and Computing Research (ICCIC), 2013 IEEE International Conference on
+DO  - 10.1109/ICCIC.2013.6724146
+ER  - 
+
+TY  - CONF
+JO  - Computer and Communications Technologies (ICCCT), 2014 International Conference on
+TI  - Securing information by performing forensic and network analysis on hosted virtualization
+T2  - Computer and Communications Technologies (ICCCT), 2014 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 7
+AU  - Naik, N.S.
+AU  - Kumar, K.P.
+AU  - Vasumathi, D.
+Y1  - 11-13 Dec. 2014
+PY  - 2014
+KW  - digital forensics
+KW  - operating systems (computers)
+KW  - virtual machines
+KW  - virtualisation
+KW  - Encase forensic tool
+KW  - formatted file information
+KW  - guest operating systems
+KW  - host operating systems
+KW  - hypervisor snapshots
+KW  - information security
+KW  - log analysis
+KW  - network analysis
+KW  - network connectivity
+KW  - open source virtualization technologies
+KW  - qemu
+KW  - virtual box
+KW  - virtual systems
+KW  - virtualization systems
+KW  - Forensics
+KW  - Hardware
+KW  - Kernel
+KW  - Virtual machine monitors
+KW  - Virtual machining
+KW  - Virtualization
+KW  - Encase
+KW  - Forensic
+KW  - Hypervisor
+KW  - Security
+KW  - VMware workstation
+KW  - Virtual box
+KW  - Virtual networking
+KW  - Virtualization
+VL  - 
+JA  - Computer and Communications Technologies (ICCCT), 2014 International Conference on
+DO  - 10.1109/ICCCT2.2014.7066717
+ER  - 
+
+TY  - CONF
+JO  - SOUTHEASTCON 2014, IEEE
+TI  - Cloud computing log forensics-the new frontier
+T2  - SOUTHEASTCON 2014, IEEE
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 4
+AU  - Thorpe, S.
+AU  - Grandison, T.
+AU  - Blake, M.B.
+Y1  - 13-16 March 2014
+PY  - 2014
+KW  - cloud computing
+KW  - digital forensics
+KW  - cloud computing log forensics
+KW  - court cases
+KW  - evidence analysis
+KW  - evidence collection
+KW  - evidence production
+KW  - Cloud computing
+KW  - Computers
+KW  - Digital forensics
+KW  - Security
+KW  - Virtual machine monitors
+KW  - Virtual machining
+KW  - Cloud Computing
+KW  - Forensics
+VL  - 
+JA  - SOUTHEASTCON 2014, IEEE
+DO  - 10.1109/SECON.2014.6950698
+ER  - 
+
+TY  - CONF
+JO  - Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine), 2014 10th International Conference on
+TI  - Savant: A framework for supporting content accountability in information centric networks
+T2  - Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine), 2014 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 188
+EP  - 190
+AU  - Coileain, D.O.
+AU  - O'Mahony, D.
+Y1  - 18-20 Aug. 2014
+PY  - 2014
+KW  - Internet
+KW  - ICN architectures
+KW  - Internet architecture
+KW  - Savant architecture
+KW  - content accountability
+KW  - content distribution process
+KW  - feedback interchangeably
+KW  - information centric networking paradigm
+KW  - information centric networks
+KW  - logging information
+KW  - scalable accountability framework
+KW  - Computer architecture
+KW  - Educational institutions
+KW  - Engines
+KW  - Instruments
+KW  - Measurement
+KW  - Streaming media
+KW  - Video recording
+VL  - 
+JA  - Heterogeneous Networking for Quality, Reliability, Security and Robustness (QShine), 2014 10th International Conference on
+DO  - 10.1109/QSHINE.2014.6928686
+ER  - 
+
+TY  - CONF
+JO  - Big Data and Cloud Computing (BdCloud), 2014 IEEE Fourth International Conference on
+TI  - Event Pattern Discovery on IDS Traces of Cloud Services
+T2  - Big Data and Cloud Computing (BdCloud), 2014 IEEE Fourth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 25
+EP  - 32
+AU  - Shin-Ying Huang
+AU  - Yennun Huang
+AU  - Suri, N.
+Y1  - 3-5 Dec. 2014
+PY  - 2014
+KW  - cloud computing
+KW  - data analysis
+KW  - digital signatures
+KW  - pattern classification
+KW  - pattern clustering
+KW  - self-organising feature maps
+KW  - unsupervised learning
+KW  - GHSOM
+KW  - IDS traces
+KW  - Internet security administrators
+KW  - Internet security analysts
+KW  - analytical approach
+KW  - attack signatures
+KW  - cloud services
+KW  - cluster geometric distances
+KW  - complex data pattern parsing
+KW  - critical attack patterns
+KW  - data classification
+KW  - data clustering
+KW  - event data analysis
+KW  - event pattern discovery
+KW  - growing hierarchical self-organizing maps
+KW  - heterogeneous data analysis problem
+KW  - intrusion detection rule sets
+KW  - intrusion detection system
+KW  - network forensics analysis
+KW  - recovery process
+KW  - suspicious attack source discovery
+KW  - topological space
+KW  - unsupervised learning methods
+KW  - Correlation
+KW  - Data mining
+KW  - IP networks
+KW  - Intrusion detection
+KW  - Ports (Computers)
+KW  - Telecommunication traffic
+KW  - cloud services
+KW  - forensic analysis
+KW  - growing hierarchical self-organizing map
+KW  - internet security
+KW  - intrusion detection system
+VL  - 
+JA  - Big Data and Cloud Computing (BdCloud), 2014 IEEE Fourth International Conference on
+DO  - 10.1109/BDCloud.2014.92
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+TI  - Exemplifying Attack Identification and Analysis in a Novel Forensically Viable Syslog Model
+T2  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 57
+EP  - 68
+AU  - Monteiro, S.D.S.
+AU  - Erbacher, R.F.
+Y1  - 22-22 May 2008
+PY  - 2008
+KW  - computer crime
+KW  - message authentication
+KW  - Syslog model
+KW  - authentication log
+KW  - computer forensic
+KW  - Authentication
+KW  - Computer networks
+KW  - Computer science
+KW  - Digital forensics
+KW  - Drives
+KW  - Fingerprint recognition
+KW  - Frequency
+KW  - Guns
+KW  - Protocols
+KW  - Security
+KW  - Digital Forensics
+KW  - Forensic Validity
+KW  - Syslog Authentication
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+DO  - 10.1109/SADFE.2008.14
+ER  - 
+
+TY  - CONF
+JO  - Source Code Analysis and Manipulation (SCAM), 2014 IEEE 14th International Working Conference on
+TI  - Total ADS: Automated Software Anomaly Detection System
+T2  - Source Code Analysis and Manipulation (SCAM), 2014 IEEE 14th International Working Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 83
+EP  - 88
+AU  - Murtaza, S.S.
+AU  - Hamou-Lhadj, A.
+AU  - Khreich, W.
+AU  - Couture, M.
+Y1  - 28-29 Sept. 2014
+PY  - 2014
+KW  - digital forensics
+KW  - public domain software
+KW  - software fault tolerance
+KW  - software maintenance
+KW  - TotalADS
+KW  - automated anomaly detection framework
+KW  - automated software anomaly detection system
+KW  - daily emergence
+KW  - execution traces
+KW  - extensible Eclipse-based open source framework
+KW  - forensic insights
+KW  - host-based anomaly detection
+KW  - modern Linux server
+KW  - normal trace stream
+KW  - software system
+KW  - software threats
+KW  - system administrators resort
+KW  - system scanners
+KW  - Engines
+KW  - Hidden Markov models
+KW  - Kernel
+KW  - Linux
+KW  - Servers
+KW  - Testing
+KW  - Training
+KW  - Anomaly Detection
+KW  - Software Security
+KW  - Trace Analysis
+VL  - 
+JA  - Source Code Analysis and Manipulation (SCAM), 2014 IEEE 14th International Working Conference on
+DO  - 10.1109/SCAM.2014.37
+ER  - 
+
+TY  - CONF
+JO  - Ubiquitous Intelligence & Computing and 9th International Conference on Autonomic & Trusted Computing (UIC/ATC), 2012 9th International Conference on
+TI  - Insuring Sensitive Processes through Process Mining
+T2  - Ubiquitous Intelligence & Computing and 9th International Conference on Autonomic & Trusted Computing (UIC/ATC), 2012 9th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 447
+EP  - 454
+AU  - Munoz-Gama, J.
+AU  - Echizen, I.
+Y1  - 4-7 Sept. 2012
+PY  - 2012
+KW  - data mining
+KW  - formal specification
+KW  - formal models
+KW  - process mining
+KW  - sensitive data
+KW  - sensitive processes
+KW  - Analytical models
+KW  - Companies
+KW  - Data mining
+KW  - Insurance
+KW  - Licenses
+KW  - Process control
+KW  - Videos
+KW  - accountability
+KW  - insurance schema
+KW  - process mining
+KW  - risk
+KW  - trust model
+VL  - 
+JA  - Ubiquitous Intelligence & Computing and 9th International Conference on Autonomic & Trusted Computing (UIC/ATC), 2012 9th International Conference on
+DO  - 10.1109/UIC-ATC.2012.83
+ER  - 
+
+TY  - CONF
+JO  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+TI  - [Front cover]
+T2  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - C1
+EP  - C1
+Y1  - 22-22 May 2008
+PY  - 2008
+KW  - security of data
+KW  - digital forensics
+KW  - legal views
+KW  - residual data
+KW  - workstation logs
+VL  - 
+JA  - Systematic Approaches to Digital Forensic Engineering, 2008. SADFE '08. Third International Workshop on
+DO  - 10.1109/SADFE.2008.26
+ER  - 
+
+TY  - CONF
+JO  - MILITARY COMMUNICATIONS CONFERENCE, 2012 - MILCOM 2012
+TI  - Identity-Based Internet Protocol Networking
+T2  - MILITARY COMMUNICATIONS CONFERENCE, 2012 - MILCOM 2012
+IS  - 
+SN  - 2155-7578
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Nakamoto, G.
+AU  - Durst, R.
+AU  - Growney, C.
+AU  - Andresen, J.
+AU  - Ma, J.
+AU  - Trivedi, N.
+AU  - Quang, R.
+AU  - Pisano, D.
+Y1  - Oct. 29 2012-Nov. 1 2012
+PY  - 2012
+KW  - Internet
+KW  - authorisation
+KW  - computer network security
+KW  - transport protocols
+KW  - IBIP policy enforcement point
+KW  - IP packet
+KW  - PEP
+KW  - access control
+KW  - antispoofing technology
+KW  - edge security device
+KW  - enterprise oriented network architecture
+KW  - identity information
+KW  - identity-based Internet protocol networking
+KW  - network admission control
+KW  - network operations
+KW  - security posture
+KW  - Authentication
+KW  - IP networks
+KW  - Measurement
+KW  - Ports (Computers)
+KW  - Protocols
+KW  - Servers
+KW  - Attribution
+KW  - IPv6
+KW  - identity
+KW  - insider threat
+KW  - next generation networking
+KW  - policy-based networking
+VL  - 
+JA  - MILITARY COMMUNICATIONS CONFERENCE, 2012 - MILCOM 2012
+DO  - 10.1109/MILCOM.2012.6415566
+ER  - 
+
+TY  - CONF
+JO  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+TI  - How to Track Your Data: Rule-Based Data Provenance Tracing Algorithms
+T2  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1429
+EP  - 1437
+AU  - Zhang, O.Q.
+AU  - Ko, R.K.L.
+AU  - Kirchberg, M.
+AU  - Chun Hui Suen
+AU  - Jagadpramana, P.
+AU  - Bu Sung Lee
+Y1  - 25-27 June 2012
+PY  - 2012
+KW  - business data processing
+KW  - cloud computing
+KW  - consumer protection
+KW  - meta data
+KW  - security of data
+KW  - trusted computing
+KW  - virtualisation
+KW  - cloud computing
+KW  - communication networks
+KW  - complex computer systems
+KW  - customer data leakage threat
+KW  - customer data security
+KW  - data leakage threat detection
+KW  - end-to-end data provenance tracing
+KW  - meta data
+KW  - rule correlation engine
+KW  - rule-based data provenance tracing algorithms
+KW  - security enhancement
+KW  - trust enhancement
+KW  - virtualization
+KW  - Algorithm design and analysis
+KW  - Atomic layer deposition
+KW  - Electronic mail
+KW  - IP networks
+KW  - Linux
+KW  - Security
+KW  - Sensors
+KW  - Cloud data provenance
+KW  - Flogger
+KW  - TrustCloud
+KW  - accountability
+KW  - cloud computing security
+KW  - cloud data leakage
+KW  - data provenance
+KW  - data tracing algorithm
+KW  - transparency
+KW  - trust
+VL  - 
+JA  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+DO  - 10.1109/TrustCom.2012.175
+ER  - 
+
+TY  - CONF
+JO  - Information Security for South Africa (ISSA), 2014
+TI  - A digital forensic model for providing better data provenance in the cloud
+T2  - Information Security for South Africa (ISSA), 2014
+IS  - 
+SN  - 
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Trenwith, P.M.
+AU  - Venter, H.S.
+Y1  - 13-14 Aug. 2014
+PY  - 2014
+KW  - cloud computing
+KW  - digital forensics
+KW  - cloud computing
+KW  - data provenance
+KW  - digital forensic model
+KW  - email header
+KW  - search and seizure approach
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Computers
+KW  - Digital forensics
+KW  - Open systems
+KW  - Protocols
+KW  - Servers
+KW  - Cloud Computing
+KW  - Digital Forensic Investigation
+KW  - Digital Forensics
+KW  - annotations
+KW  - bilinear pairing technique
+KW  - chain of custody
+KW  - data provenance
+VL  - 
+JA  - Information Security for South Africa (ISSA), 2014
+DO  - 10.1109/ISSA.2014.6950489
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing Technology and Science (CloudCom), 2011 IEEE Third International Conference on
+TI  - How to Track Your Data: The Case for Cloud Computing Provenance
+T2  - Cloud Computing Technology and Science (CloudCom), 2011 IEEE Third International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 446
+EP  - 453
+AU  - Zhang, O.Q.
+AU  - Kirchberg, M.
+AU  - Ko, R.K.L.
+AU  - Bu Sung Lee
+Y1  - Nov. 29 2011-Dec. 1 2011
+PY  - 2011
+KW  - cloud computing
+KW  - data encapsulation
+KW  - meta data
+KW  - DataPROVE
+KW  - cloud computing provenance
+KW  - data tracking
+KW  - digital object confidentiality
+KW  - meta data
+KW  - provenance data encapsulation
+KW  - Cloud computing
+KW  - Hardware
+KW  - Law
+KW  - Operating systems
+KW  - Protocols
+KW  - Security
+KW  - Cloud Computing
+KW  - Data Provenance
+KW  - Trust
+VL  - 
+JA  - Cloud Computing Technology and Science (CloudCom), 2011 IEEE Third International Conference on
+DO  - 10.1109/CloudCom.2011.66
+ER  - 
+
+TY  - CONF
+JO  - High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on
+TI  - Security and Data Accountability in Distributed Systems: A Provenance Survey
+T2  - High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 1571
+EP  - 1578
+AU  - Yu Shyang Tan
+AU  - Ko, R.K.L.
+AU  - Holmes, G.
+Y1  - 13-15 Nov. 2013
+PY  - 2013
+KW  - distributed processing
+KW  - security of data
+KW  - data accountability
+KW  - data security
+KW  - distributed systems
+KW  - provenance system
+KW  - Context
+KW  - Distributed databases
+KW  - Kernel
+KW  - Monitoring
+KW  - Reliability
+KW  - Security
+KW  - Cloud Computing
+KW  - Data Accountability
+KW  - Distributed Systems
+KW  - Provenance
+KW  - Security
+VL  - 
+JA  - High Performance Computing and Communications & 2013 IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC), 2013 IEEE 10th International Conference on
+DO  - 10.1109/HPCC.and.EUC.2013.221
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+TI  - Logging Solutions to Mitigate Risks Associated with Threats in Infrastructure as a Service Cloud
+T2  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 163
+EP  - 170
+AU  - Winai Wongthai
+AU  - Rocha, F.
+AU  - Van Moorsel, A.
+Y1  - 16-19 Dec. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - operating systems (computers)
+KW  - risk analysis
+KW  - security of data
+KW  - virtual machines
+KW  - CSA
+KW  - IaaS
+KW  - cloud computing
+KW  - cloud consumers
+KW  - cloud providers
+KW  - cloud security alliance
+KW  - computational resources
+KW  - consumers virtual machines-VM
+KW  - infrastructure as a service cloud
+KW  - logging solutions
+KW  - malicious activities
+KW  - risks associated
+KW  - security concerns
+KW  - Business
+KW  - Cloud computing
+KW  - Electronic mail
+KW  - History
+KW  - Postal services
+KW  - Prototypes
+KW  - Security
+KW  - accountability
+KW  - cloud monitoring
+KW  - logging system
+VL  - 
+JA  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+DO  - 10.1109/CLOUDCOM-ASIA.2013.70
+ER  - 
+
+TY  - CONF
+JO  - Services (SERVICES), 2011 IEEE World Congress on
+TI  - TrustCloud: A Framework for Accountability and Trust in Cloud Computing
+T2  - Services (SERVICES), 2011 IEEE World Congress on
+IS  - 
+SN  - 
+VO  - 
+SP  - 584
+EP  - 588
+AU  - Ko, R.K.L.
+AU  - Jagadpramana, P.
+AU  - Mowbray, M.
+AU  - Pearson, S.
+AU  - Kirchberg, M.
+AU  - Qianhui Liang
+AU  - Bu Sung Lee
+Y1  - 4-9 July 2011
+PY  - 2011
+KW  - cloud computing
+KW  - security of data
+KW  - TrustCloud
+KW  - cloud computing accountability
+KW  - data distribution
+KW  - data security
+KW  - large-scale virtualization
+KW  - policy-based approach
+KW  - preventive controls
+KW  - Cloud computing
+KW  - Law
+KW  - Monitoring
+KW  - Operating systems
+KW  - Privacy
+KW  - Security
+KW  - Servers
+KW  - accountability
+KW  - auditability
+KW  - continuous auditing
+KW  - data provenance
+KW  - governance
+KW  - logging
+KW  - monitoring
+KW  - trust in cloud computing
+VL  - 
+JA  - Services (SERVICES), 2011 IEEE World Congress on
+DO  - 10.1109/SERVICES.2011.91
+ER  - 
+
+TY  - CONF
+JO  - e-Education, e-Business, e-Management, and e-Learning, 2010. IC4E '10. International Conference on
+TI  - Methods for Efficient Digital Evidences Collecting of Business Proceses and Users Activity in eLearning Enviroments
+T2  - e-Education, e-Business, e-Management, and e-Learning, 2010. IC4E '10. International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 126
+EP  - 130
+AU  - Azemovic, J.
+AU  - Music, D.
+Y1  - 22-24 Jan. 2010
+PY  - 2010
+KW  - computer aided instruction
+KW  - computer crime
+KW  - computer forensics
+KW  - database management systems
+KW  - forensic science
+KW  - business proceses
+KW  - computer crime act
+KW  - database systems
+KW  - digital evidences collecting
+KW  - elearning enviroments
+KW  - forensic analysis
+KW  - users activity
+KW  - Computer crime
+KW  - Data security
+KW  - Databases
+KW  - Digital forensics
+KW  - Educational institutions
+KW  - Electronic learning
+KW  - Force measurement
+KW  - Information systems
+KW  - Information technology
+KW  - Medical diagnostic imaging
+KW  - audit logging
+KW  - database
+KW  - digital evidence
+KW  - digital forensics
+VL  - 
+JA  - e-Education, e-Business, e-Management, and e-Learning, 2010. IC4E '10. International Conference on
+DO  - 10.1109/IC4E.2010.92
+ER  - 
+
+TY  - CONF
+JO  - Cloud and Green Computing (CGC), 2013 Third International Conference on
+TI  - A Provenance-Aware Policy Language (cProvl) and a Data Traceability Model (cProv) for the Cloud
+T2  - Cloud and Green Computing (CGC), 2013 Third International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 479
+EP  - 486
+AU  - Ali, M.
+AU  - Moreau, L.
+Y1  - Sept. 30 2013-Oct. 2 2013
+PY  - 2013
+KW  - XML
+KW  - authorisation
+KW  - cloud computing
+KW  - formal languages
+KW  - XACML3.0 architecture
+KW  - cProv
+KW  - cProvl policy
+KW  - cloud infrastructure
+KW  - data traceability model
+KW  - provenance-aware policy language
+KW  - provenance-based traceability
+KW  - translator
+KW  - Access control
+KW  - Cloud computing
+KW  - Computational modeling
+KW  - Data models
+KW  - Engines
+KW  - Standards
+KW  - Syntactics
+KW  - Prov
+KW  - XACML
+KW  - cProv
+KW  - cProvl
+KW  - cloud
+KW  - data traceability
+KW  - policy language
+KW  - provenance
+VL  - 
+JA  - Cloud and Green Computing (CGC), 2013 Third International Conference on
+DO  - 10.1109/CGC.2013.81
+ER  - 
+
+TY  - CONF
+JO  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+TI  - Tracking of Data Leaving the Cloud
+T2  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 137
+EP  - 144
+AU  - Yu Shyang Tan
+AU  - Ko, R.K.L.
+AU  - Jagadpramana, P.
+AU  - Chun Hui Suen
+AU  - Kirchberg, M.
+AU  - Teck Hooi Lim
+AU  - Bu Sung Lee
+AU  - Singla, A.
+AU  - Mermoud, K.
+AU  - Keller, D.
+AU  - Ha Duc
+Y1  - 25-27 June 2012
+PY  - 2012
+KW  - cloud computing
+KW  - security of data
+KW  - cloud computing
+KW  - cloud service providers
+KW  - data leakages
+KW  - fundamental cloud security
+KW  - Cloud computing
+KW  - Companies
+KW  - Containers
+KW  - Monitoring
+KW  - Servers
+KW  - Watermarking
+KW  - Cloud Data Provenance
+KW  - Cloud Security
+KW  - Data Accountability
+VL  - 
+JA  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on
+DO  - 10.1109/TrustCom.2012.282
+ER  - 
+
+TY  - CONF
+JO  - Digital Forensics and Incident Analysis, 2008. WDFIA '08. Third International Annual Workshop on
+TI  - An Investigation into the Development of an Anti-forensic Tool to Obscure USB Flash Drive Device Information on a Windows XP Platform
+T2  - Digital Forensics and Incident Analysis, 2008. WDFIA '08. Third International Annual Workshop on
+IS  - 
+SN  - 
+VO  - 
+SP  - 60
+EP  - 66
+AU  - Thomas, P.
+AU  - Morris, A.
+Y1  - 9-9 Oct. 2008
+PY  - 2008
+KW  - computer crime
+KW  - device drivers
+KW  - system buses
+KW  - USB flash drive device information
+KW  - Windows XP computer
+KW  - antiforensic tool
+KW  - criminal proceeding
+KW  - log files
+KW  - registry setting
+KW  - Computer architecture
+KW  - Computer crime
+KW  - Data security
+KW  - Digital forensics
+KW  - Drives
+KW  - Information analysis
+KW  - Information security
+KW  - Multimedia systems
+KW  - Operating systems
+KW  - Universal Serial Bus
+KW  - Anti-forensic
+KW  - USB Device
+VL  - 
+JA  - Digital Forensics and Incident Analysis, 2008. WDFIA '08. Third International Annual Workshop on
+DO  - 10.1109/WDFIA.2008.13
+ER  - 
+
+TY  - CONF
+JO  - Service Oriented System Engineering (SOSE), 2014 IEEE 8th International Symposium on
+TI  - Provenance of Feedback in Cloud Services
+T2  - Service Oriented System Engineering (SOSE), 2014 IEEE 8th International Symposium on
+IS  - 
+SN  - 
+VO  - 
+SP  - 23
+EP  - 34
+AU  - Hamadache, K.
+AU  - Zerva, P.
+Y1  - 7-11 April 2014
+PY  - 2014
+KW  - cloud computing
+KW  - trusted computing
+KW  - QoS
+KW  - cloud services
+KW  - credibility models
+KW  - feedback authenticity
+KW  - feedback credibility
+KW  - feedback provenance
+KW  - innovative design
+KW  - malicious feedback
+KW  - quality of service
+KW  - reputation information
+KW  - security
+KW  - service-based systems/services
+KW  - services computing
+KW  - trust
+KW  - Context
+KW  - Hospitals
+KW  - Monitoring
+KW  - Ontologies
+KW  - Quality of service
+KW  - Reliability
+KW  - Schedules
+KW  - cloud computing
+KW  - credibility
+KW  - feedback
+KW  - provenance
+KW  - reputation
+VL  - 
+JA  - Service Oriented System Engineering (SOSE), 2014 IEEE 8th International Symposium on
+DO  - 10.1109/SOSE.2014.10
+ER  - 
+
+TY  - CONF
+JO  - Computer Security Foundations Symposium (CSF), 2014 IEEE 27th
+TI  - Balancing Societal Security and Individual Privacy: Accountable Escrow System
+T2  - Computer Security Foundations Symposium (CSF), 2014 IEEE 27th
+IS  - 
+SN  - 
+VO  - 
+SP  - 427
+EP  - 440
+AU  - Jia Liu
+AU  - Ryan, M.D.
+AU  - Liqun Chen
+Y1  - 19-22 July 2014
+PY  - 2014
+KW  - data privacy
+KW  - public key cryptography
+KW  - accountable escrow system
+KW  - asynchronous communication
+KW  - balanced crypto system
+KW  - election campaigns
+KW  - individual privacy
+KW  - public-key cryptography
+KW  - requirement balancing
+KW  - societal security
+KW  - surveillance power
+KW  - Electronic mail
+KW  - Encryption
+KW  - Government
+KW  - Public key
+KW  - Surveillance
+KW  - accountability
+KW  - capability escrow
+KW  - email
+KW  - end-to-end encryption
+VL  - 
+JA  - Computer Security Foundations Symposium (CSF), 2014 IEEE 27th
+DO  - 10.1109/CSF.2014.37
+ER  - 
+
+TY  - JOUR
+JO  - IT Professional
+TI  - Forensic Web Services Framework
+T2  - IT Professional
+IS  - 3
+SN  - 1520-9202
+VO  - 13
+SP  - 31
+EP  - 37
+AU  - Gunestas, M.
+AU  - Mehmet, M.
+AU  - Wijesekera, D.
+AU  - Singhal, A.
+Y1  - May-June 2011
+PY  - 2011
+KW  - Web services
+KW  - computer forensics
+KW  - records management
+KW  - forensic Web service framework
+KW  - logs
+KW  - transactional record maintenance
+KW  - transactional record security
+KW  - Computer security
+KW  - Digital forensics
+KW  - Forensics
+KW  - Internet
+KW  - Web design
+KW  - Web services
+KW  - Keywords: Web services
+KW  - business misuse
+KW  - information technology
+KW  - security
+KW  - service-oriented architecture
+KW  - transaction forensics
+VL  - 13
+JA  - IT Professional
+DO  - 10.1109/MITP.2011.41
+ER  - 
+
+TY  - CONF
+JO  - Information Assurance and Security, 2008. ISIAS '08. Fourth International Conference on
+TI  - COTraSE: Connection Oriented Traceback in Switched Ethernet
+T2  - Information Assurance and Security, 2008. ISIAS '08. Fourth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 198
+EP  - 204
+AU  - Andreou, M.S.
+AU  - Van Moorsel, A.
+Y1  - 8-10 Sept. 2008
+PY  - 2008
+KW  - access protocols
+KW  - local area networks
+KW  - COTraSE
+KW  - IP traceback
+KW  - MAC address table
+KW  - WAN traces
+KW  - connection oriented traceback
+KW  - end-to-end packet traceback
+KW  - error detection
+KW  - layer 2 traceback
+KW  - local network
+KW  - media access control
+KW  - packet data
+KW  - switched ethernet
+KW  - switchport resolution algorithm
+KW  - wide area networks
+KW  - Ethernet networks
+KW  - Information security
+KW  - Internet
+KW  - Local area networks
+KW  - Network address translation
+KW  - Packet switching
+KW  - Proposals
+KW  - Protocols
+KW  - Switches
+KW  - Wide area networks
+KW  - IP traceback
+KW  - Layer 2 traceback
+KW  - Network accountability
+KW  - Switched Ethernet traceback
+VL  - 
+JA  - Information Assurance and Security, 2008. ISIAS '08. Fourth International Conference on
+DO  - 10.1109/IAS.2008.25
+ER  - 
+
+TY  - CONF
+JO  - Fuzzy Systems Conference, 2007. FUZZ-IEEE 2007. IEEE International
+TI  - Detecting Abnormal Changes in E-mail Traffic Using Hierarchical Fuzzy Systems
+T2  - Fuzzy Systems Conference, 2007. FUZZ-IEEE 2007. IEEE International
+IS  - 
+SN  - 1098-7584
+VO  - 
+SP  - 1
+EP  - 6
+AU  - Lim, M.J.-H.
+AU  - Negnevitsky, M.
+AU  - Hartnett, J.
+Y1  - 23-26 July 2007
+PY  - 2007
+KW  - electronic mail
+KW  - information retrieval
+KW  - law administration
+KW  - security of data
+KW  - terrorism
+KW  - Enron e-mail corpus
+KW  - e-mail traffic abnormal change detection
+KW  - forensic tool
+KW  - hierarchical fuzzy system architecture
+KW  - information extraction
+KW  - law enforcement
+KW  - terrorist attack
+KW  - Australia
+KW  - Data analysis
+KW  - Data mining
+KW  - Digital forensics
+KW  - Electronic mail
+KW  - Fuzzy systems
+KW  - Information analysis
+KW  - Law enforcement
+KW  - Mobile communication
+KW  - Terrorism
+VL  - 
+JA  - Fuzzy Systems Conference, 2007. FUZZ-IEEE 2007. IEEE International
+DO  - 10.1109/FUZZY.2007.4295556
+ER  - 
+
+TY  - CONF
+JO  - Computational Science and Engineering, 2009. CSE '09. International Conference on
+TI  - Worm Path Identification Using Visualization System
+T2  - Computational Science and Engineering, 2009. CSE '09. International Conference on
+IS  - 
+SN  - 
+VO  - 3
+SP  - 498
+EP  - 503
+AU  - Shibaguchi, S.
+AU  - Nakayama, Y.
+AU  - Okada, K.
+Y1  - 29-31 Aug. 2009
+PY  - 2009
+KW  - data visualisation
+KW  - invasive software
+KW  - automated algorithm
+KW  - digital forensics
+KW  - visualization system
+KW  - worm path identification
+KW  - Computational modeling
+KW  - Computer crime
+KW  - Computer hacking
+KW  - Computer security
+KW  - Information security
+KW  - Law
+KW  - Legal factors
+KW  - Network servers
+KW  - Telecommunication traffic
+KW  - Visualization
+KW  - Visualization
+KW  - Worm
+VL  - 3
+JA  - Computational Science and Engineering, 2009. CSE '09. International Conference on
+DO  - 10.1109/CSE.2009.340
+ER  - 
+
+TY  - CONF
+JO  - Semantics, Knowledge and Grids (SKG), 2014 10th International Conference on
+TI  - An Industrial Case Study on Provenance Awareness of Composite Services
+T2  - Semantics, Knowledge and Grids (SKG), 2014 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 92
+EP  - 99
+AU  - Zerva, P.
+AU  - Hamadache, K.
+AU  - Angouras, G.
+AU  - Zschaler, S.
+AU  - Miles, S.
+Y1  - 27-29 Aug. 2014
+PY  - 2014
+KW  - ontologies (artificial intelligence)
+KW  - query processing
+KW  - question answering (information retrieval)
+KW  - ORB provenance data instances
+KW  - ORBI
+KW  - SPARQL expressions
+KW  - ServiceProv ontology
+KW  - composite services
+KW  - provenance awareness
+KW  - provenance data instance querying
+KW  - provenance data recording
+KW  - question answering
+KW  - service-based system engineering
+KW  - system execution
+KW  - Analytical models
+KW  - Cognition
+KW  - Context
+KW  - Data models
+KW  - History
+KW  - Ontologies
+KW  - Servers
+KW  - industrial case study
+KW  - provenance awareness
+KW  - provenance data
+KW  - service based systems
+KW  - service composition
+VL  - 
+JA  - Semantics, Knowledge and Grids (SKG), 2014 10th International Conference on
+DO  - 10.1109/SKG.2014.24
+ER  - 
+
+TY  - CONF
+JO  - Security and Privacy Workshops (SPW), 2013 IEEE
+TI  - How Usage Control and Provenance Tracking Get Together - A Data Protection Perspective
+T2  - Security and Privacy Workshops (SPW), 2013 IEEE
+IS  - 
+SN  - 
+VO  - 
+SP  - 13
+EP  - 17
+AU  - Bier, C.
+Y1  - 23-24 May 2013
+PY  - 2013
+KW  - security of data
+KW  - data protection perspective
+KW  - data protection requirements
+KW  - data usage control
+KW  - information accountability
+KW  - information exchange
+KW  - linkability drawbacks
+KW  - personal information
+KW  - provenance tracking
+KW  - sensitive information
+KW  - Access control
+KW  - Conferences
+KW  - Containers
+KW  - Data privacy
+KW  - Europe
+KW  - Privacy
+KW  - data protection
+KW  - privacy
+KW  - provenance
+KW  - usage control
+VL  - 
+JA  - Security and Privacy Workshops (SPW), 2013 IEEE
+DO  - 10.1109/SPW.2013.24
+ER  - 
+
+TY  - CONF
+JO  - Service-Oriented System Engineering (SOSE), 2015 IEEE Symposium on
+TI  - Modelling and Analysing Provenance Awareness Infrastructure for SOC systems
+T2  - Service-Oriented System Engineering (SOSE), 2015 IEEE Symposium on
+IS  - 
+SN  - 
+VO  - 
+SP  - 40
+EP  - 49
+AU  - Zerva, Paraskevi
+AU  - Zschaler, Steffen
+AU  - Miles, Simon
+Y1  - March 30 2015-April 3 2015
+PY  - 2015
+KW  - Analytical models
+KW  - Data models
+KW  - History
+KW  - Quality of service
+KW  - System analysis and design
+KW  - System-on-chip
+KW  - Unified modeling language
+KW  - analysis
+KW  - infrastructure model
+KW  - provenance awareness
+KW  - service composition
+KW  - service-oriented computing (SOC)
+VL  - 
+JA  - Service-Oriented System Engineering (SOSE), 2015 IEEE Symposium on
+DO  - 10.1109/SOSE.2015.31
+ER  - 
+
+TY  - CONF
+JO  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+TI  - A Survey on Cloud Accountability
+T2  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 627
+EP  - 632
+AU  - Xianghan Zheng
+AU  - Hui Ye
+AU  - Chunming Tang
+AU  - Chunming Rong
+AU  - Guolong Chen
+Y1  - 16-19 Dec. 2013
+PY  - 2013
+KW  - cloud computing
+KW  - security of data
+KW  - cloud accountability
+KW  - cloud accountability framework
+KW  - cloud computing technology
+KW  - cloud data
+KW  - cloud service company
+KW  - cloud service providers
+KW  - data confidentiality
+KW  - remote machines
+KW  - user privacy
+KW  - Access control
+KW  - Authentication
+KW  - Cloud computing
+KW  - Cryptography
+KW  - Educational institutions
+KW  - Monitoring
+KW  - accountability
+KW  - cloud computing
+KW  - data sharing
+KW  - logging
+VL  - 
+JA  - Cloud Computing and Big Data (CloudCom-Asia), 2013 International Conference on
+DO  - 10.1109/CLOUDCOM-ASIA.2013.29
+ER  - 
+
+TY  - CONF
+JO  - Advance Computing Conference (IACC), 2013 IEEE 3rd International
+TI  - Automated digital forensic technique with intrusion detection systems
+T2  - Advance Computing Conference (IACC), 2013 IEEE 3rd International
+IS  - 
+SN  - 
+VO  - 
+SP  - 185
+EP  - 189
+AU  - Barhate, K.
+AU  - Jaidhar, C.
+Y1  - 22-23 Feb. 2013
+PY  - 2013
+KW  - digital forensics
+KW  - IDS function
+KW  - automated digital forensic technique
+KW  - intrusion detection systems
+KW  - security strategy
+KW  - Digital forensics
+KW  - Intrusion detection
+KW  - Monitoring
+KW  - Random access memory
+KW  - Servers
+KW  - Cryptography
+KW  - Digital Forensic
+KW  - Intrusion Detection Systems
+KW  - Logs
+VL  - 
+JA  - Advance Computing Conference (IACC), 2013 IEEE 3rd International
+DO  - 10.1109/IAdCC.2013.6514218
+ER  - 
+
+TY  - CONF
+JO  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+TI  - Case-Based Trust Evaluation from Provenance Information
+T2  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 336
+EP  - 343
+AU  - Quan Bai
+AU  - Xing Su
+AU  - Qing Liu
+AU  - Terhorst, A.
+AU  - Minjie Zhang
+AU  - Yi Mu
+Y1  - 16-18 Nov. 2011
+PY  - 2011
+KW  - case-based reasoning
+KW  - open systems
+KW  - security of data
+KW  - accountability enhancement
+KW  - case-based trust evaluation
+KW  - open distributed systems
+KW  - provenance information
+KW  - service generation
+KW  - service trustworthiness
+KW  - transparency enhancement
+KW  - trust estimation
+KW  - Data models
+KW  - Estimation
+KW  - Forecasting
+KW  - Knowledge based systems
+KW  - Temperature measurement
+KW  - Weather forecasting
+VL  - 
+JA  - Trust, Security and Privacy in Computing and Communications (TrustCom), 2011 IEEE 10th International Conference on
+DO  - 10.1109/TrustCom.2011.44
+ER  - 
+
+TY  - CONF
+JO  - Sustainable Energy and Intelligent Systems (SEISCON 2013), IET Chennai Fourth International Conference on
+TI  - Framework for trustworthy user grouping in social networks using semantic provenance
+T2  - Sustainable Energy and Intelligent Systems (SEISCON 2013), IET Chennai Fourth International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 285
+EP  - 291
+AU  - Teekaraman, D.
+AU  - Selvaraju, S.
+Y1  - 12-14 Dec. 2013
+PY  - 2013
+KW  - semantic Web
+KW  - social networking (online)
+KW  - trusted computing
+KW  - Facebook
+KW  - Semantic Web environment
+KW  - Twitter
+KW  - Web resources
+KW  - World Wide Web
+KW  - adaptivity metrics
+KW  - semantic provenance
+KW  - social applications
+KW  - social networks
+KW  - trust score
+KW  - trustworthy framework
+KW  - unbounded growth
+KW  - Provenance
+KW  - Recommendation system and Trust
+KW  - Semantic Web
+KW  - Social Network
+VL  - 
+JA  - Sustainable Energy and Intelligent Systems (SEISCON 2013), IET Chennai Fourth International Conference on
+DO  - 10.1049/ic.2013.0327
+ER  - 
+
+TY  - CONF
+JO  - Communications (ICC), 2014 IEEE International Conference on
+TI  - A multi-resolution flow-net methodology for accountable logging and its application in TCP/IP networks
+T2  - Communications (ICC), 2014 IEEE International Conference on
+IS  - 
+SN  - 
+VO  - 
+SP  - 683
+EP  - 687
+AU  - Bo Fu
+AU  - Yang Xiao
+Y1  - 10-14 June 2014
+PY  - 2014
+KW  - computer networks
+KW  - transport protocols
+KW  - TCP/IP networks
+KW  - computer systems
+KW  - information assurance systems
+KW  - multiresolution flow-net methodology
+KW  - network systems
+KW  - system accountable logging
+KW  - Computers
+KW  - IP networks
+KW  - Information systems
+KW  - Internet
+KW  - Protocols
+KW  - Security
+KW  - Simulation
+KW  - Flow-net
+KW  - accountability
+KW  - multi-resolution
+VL  - 
+JA  - Communications (ICC), 2014 IEEE International Conference on
+DO  - 10.1109/ICC.2014.6883398
+ER  - 
+
+TY  - CONF
+JO  - Cluster, Cloud and Grid Computing (CCGrid), 2011 11th IEEE/ACM International Symposium on
+TI  - Detection and Protection against Distributed Denial of Service Attacks in Accountable Grid Computing Systems
+T2  - Cluster, Cloud and Grid Computing (CCGrid), 2011 11th IEEE/ACM International Symposium on
+IS  - 
+SN  - 
+VO  - 
+SP  - 534
+EP  - 543
+AU  - Wonjun Lee
+AU  - Squicciarini, A.C.
+AU  - Bertino, E.
+Y1  - 23-26 May 2011
+PY  - 2011
+KW  - grid computing
+KW  - security of data
+KW  - software agents
+KW  - accountable grid computing systems
+KW  - distributed denial of service attack protection
+KW  - mission-critical websites
+KW  - provenance usage data
+KW  - resource usage data
+KW  - special-purpose software agents
+KW  - Computer crime
+KW  - Grid computing
+KW  - Logic gates
+KW  - Monitoring
+KW  - Portals
+KW  - Real time systems
+KW  - Servers
+KW  - accountability
+KW  - agent
+KW  - distributed denial of service
+KW  - grid computing
+VL  - 
+JA  - Cluster, Cloud and Grid Computing (CCGrid), 2011 11th IEEE/ACM International Symposium on
+DO  - 10.1109/CCGrid.2011.28
+ER  - 
+
+

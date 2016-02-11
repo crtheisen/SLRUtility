@@ -1,0 +1,3095 @@
+TY  - JOUR
+T1  - A multi-resolution accountable logging and its applications
+JO  - Computer Networks
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 
+T2  - 
+AU  - Fu, Bo
+AU  - Xiao, Yang
+SN  - 1389-1286
+DO  - http://dx.doi.org/10.1016/j.comnet.2015.06.011
+UR  - http://www.sciencedirect.com/science/article/pii/S1389128615002042
+KW  - Flow-net
+KW  - Accountability
+KW  - Multi-resolution
+KW  - Computer networks
+AB  - Abstract
+Today's computer and network systems were not originally designed for accountability which plays a crucial role in information assurance systems. To assure accountability, each entity in the system should be held responsible for its own behaviors so that the entity is part of larger chains of the system's accountability. To achieve accountable logging, a flow-net methodology was proposed in our previous work. Moreover, the multi-layer feature of computer and network systems brings us the chance to achieve multiple degrees of accountability, which means that we are able to acknowledge the system's behaviors at different levels of accountability. To achieve multiple degrees of accountability, we propose designs of a multi-resolution flow-net scheme in this paper and find out the optimal design under different assumptions. Furthermore, we apply the multi-resolution flow-net on TCP/IP networks that are designed and organized with multiple layers. Finally, evaluation results are presented to verify the better performance provided by multi-resolution flow-net than other schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Modular design, application architecture, and usage of a self-service model for enterprise data delivery: The Duke Enterprise Data Unified Content Explorer (DEDUCE)
+JO  - Journal of Biomedical Informatics
+VL  - 52
+IS  - 
+SP  - 231
+EP  - 242
+PY  - 2014/12//
+T2  - Special Section: Methods in Clinical Research Informatics
+AU  - Horvath, Monica M.
+AU  - Rusincovitch, Shelley A.
+AU  - Brinson, Stephanie
+AU  - Shang, Howard C.
+AU  - Evans, Steve
+AU  - Ferranti, Jeffrey M.
+SN  - 1532-0464
+DO  - http://dx.doi.org/10.1016/j.jbi.2014.07.006
+UR  - http://www.sciencedirect.com/science/article/pii/S1532046414001531
+KW  - Cohort definition
+KW  - Research query tool
+KW  - Medical informatics applications
+KW  - Information systems
+KW  - Application development
+KW  - System design and architecture
+AB  - AbstractPurpose
+Data generated in the care of patients are widely used to support clinical research and quality improvement, which has hastened the development of self-service query tools. User interface design for such tools, execution of query activity, and underlying application architecture have not been widely reported, and existing tools reflect a wide heterogeneity of methods and technical frameworks. We describe the design, application architecture, and use of a self-service model for enterprise data delivery within Duke Medicine.
+Methods
+Our query platform, the Duke Enterprise Data Unified Content Explorer (DEDUCE), supports enhanced data exploration, cohort identification, and data extraction from our enterprise data warehouse (EDW) using a series of modular environments that interact with a central keystone module, Cohort Manager (CM). A data-driven application architecture is implemented through three components: an application data dictionary, the concept of “smart dimensions”, and dynamically-generated user interfaces.
+Results
+DEDUCE CM allows flexible hierarchies of EDW queries within a grid-like workspace. A cohort “join” functionality allows switching between filters based on criteria occurring within or across patient encounters. To date, 674 users have been trained and activated in DEDUCE, and logon activity shows a steady increase, with variability between months. A comparison of filter conditions and export criteria shows that these activities have different patterns of usage across subject areas.
+Conclusions
+Organizations with sophisticated EDWs may find that users benefit from development of advanced query functionality, complimentary to the user interfaces and infrastructure used in other well-published models. Driven by its EDW context, the DEDUCE application architecture was also designed to be responsive to source data and to allow modification through alterations in metadata rather than programming, allowing an agile response to source system changes.
+ER  - 
+
+TY  - JOUR
+T1  - Audit-Based Access Control for Electronic Health Records
+JO  - Electronic Notes in Theoretical Computer Science
+VL  - 168
+IS  - 
+SP  - 221
+EP  - 236
+PY  - 2007/2/8/
+T2  - Proceedings of the Second International Workshop on Views on Designing Complex Architectures (VODCA 2006)
+AU  - Dekker, M.A.C.
+AU  - Etalle, S.
+SN  - 1571-0661
+DO  - http://dx.doi.org/10.1016/j.entcs.2006.08.028
+UR  - http://www.sciencedirect.com/science/article/pii/S1571066107000382
+KW  - distributed access control
+KW  - audit
+KW  - accountability
+KW  - Electronic Health Record (EHR) systems
+AB  - Traditional access control mechanisms aim to prevent illegal actions a-priori occurrence, i.e. before granting a request for a document. There are scenarios however where the security decision can not be made on the fly. For these settings we developed a language and a framework for a-posteriori access control. I this paper we show how the framework can be used in a practical scenario. In particular, we work out the example of an Electronic Health Record (EHR) system, we outline the full architecture needed for audit-based access control and we discuss the requirements and limitations of this approach concerning the underlying infrastructure and its users.
+ER  - 
+
+TY  - JOUR
+T1  - End-to-end policy based encryption techniques for multi-party data management
+JO  - Computer Standards & Interfaces
+VL  - 36
+IS  - 4
+SP  - 689
+EP  - 703
+PY  - 2014/6//
+T2  - Security in Information Systems: Advances and new Challenges.
+AU  - Beiter, Michael
+AU  - Casassa Mont, Marco
+AU  - Chen, Liqun
+AU  - Pearson, Siani
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2013.12.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548913001785
+KW  - Cloud
+KW  - Sticky policy
+KW  - Policy enforcement
+KW  - Privacy
+KW  - Secret sharing
+AB  - Abstract
+We describe a data management solution and associated key management approaches to provide accountability within service provision networks, in particular addressing privacy issues in cloud computing applications. Our solution involves machine readable policies that stick to data to define allowed usage and obligations as data travels across multiple parties. Service providers have fine-grained access to specific data based on agreed policies, enforced by interactions with independent third parties that check for policy compliance before releasing decryption keys required for data access. We describe alternative solutions based upon Public Key Infrastructure (PKI), Identity Based Encryption (IBE) and advanced secret sharing schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Securing medical networks
+JO  - Network Security
+VL  - 2007
+IS  - 6
+SP  - 13
+EP  - 16
+PY  - 2007/6//
+T2  - 
+AU  - Dantu, Ram
+AU  - Oosterwijk, Herman
+AU  - Kolan, Prakash
+AU  - Husna, Husain
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(07)70055-7
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485807700557
+AB  - The Health Information Portability and Accountability Act of 1996 (HIPAA) imposes strict regulations on healthcare institutions and commercial vendors to indemnify clinical data against unscrupulous users. Security vulnerabilities concerning hospital information systems not only negatively impact patient healthcare, but may also represent a potential federal violation. For a comprehensive understanding of the security of a radiology communication network, a detailed survey of the Picture Archiving and Communication Systems (PACS) was compiled. In this paper, we present survey results and a set of recommendations for implementing PACS security.
+ER  - 
+
+TY  - JOUR
+T1  - HIPAA compliant auditing system for medical images
+JO  - Computerized Medical Imaging and Graphics
+VL  - 29
+IS  - 2–3
+SP  - 235
+EP  - 241
+PY  - 2005/3//
+Y2  - 2005/4//
+T2  - Imaging Informatics
+AU  - Zhou, Zheng
+AU  - Liu, Brent J.
+SN  - 0895-6111
+DO  - http://dx.doi.org/10.1016/j.compmedimag.2004.09.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0895611104001223
+KW  - HIPAA
+KW  - Security
+KW  - HIPAA compliant auditing system
+KW  - Auditing
+KW  - monitoring
+AB  - As an official regulation for healthcare privacy and security, Health Insurance Portability and Accountability Act (HIPAA) mandates health institutions to protect health information against unauthorized use or disclosure. One such method proposed by HIPAA Security Standards is audit trail, which records and examines health information access activities. HIPAA mandates healthcare providers to have the ability to generate audit trails on data access activities for any specific patient. Although current medical imaging systems generate activity logs, there is a lack of formal methodology to interpret these large volumes of log data and generate HIPAA compliant auditing trails.
+
+This paper outlines the design of a HIPAA compliant auditing system (HCAS) for medical images in imaging systems such as PACS and discusses the development of a security monitoring (SM) toolkit based on some of the partial components in HCAS.
+ER  - 
+
+TY  - JOUR
+T1  - Security and privacy in electronic health records: A systematic literature review
+JO  - Journal of Biomedical Informatics
+VL  - 46
+IS  - 3
+SP  - 541
+EP  - 562
+PY  - 2013/6//
+T2  - 
+AU  - Fernández-Alemán, José Luis
+AU  - Señor, Inmaculada Carrión
+AU  - Lozoya, Pedro Ángel Oliver
+AU  - Toval, Ambrosio
+SN  - 1532-0464
+DO  - http://dx.doi.org/10.1016/j.jbi.2012.12.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1532046412001864
+KW  - Electronic health records
+KW  - Systematic review
+KW  - Privacy
+KW  - Confidentiality
+KW  - Security
+KW  - Standards
+AB  - Objective
+To report the results of a systematic literature review concerning the security and privacy of electronic health record (EHR) systems.
+Data sources
+Original articles written in English found in MEDLINE, ACM Digital Library, Wiley InterScience, IEEE Digital Library, Science@Direct, MetaPress, ERIC, CINAHL and Trip Database.
+Study selection
+Only those articles dealing with the security and privacy of EHR systems.
+Data extraction
+The extraction of 775 articles using a predefined search string, the outcome of which was reviewed by three authors and checked by a fourth.
+Results
+A total of 49 articles were selected, of which 26 used standards or regulations related to the privacy and security of EHR data. The most widely used regulations are the Health Insurance Portability and Accountability Act (HIPAA) and the European Data Protection Directive 95/46/EC. We found 23 articles that used symmetric key and/or asymmetric key schemes and 13 articles that employed the pseudo anonymity technique in EHR systems. A total of 11 articles propose the use of a digital signature scheme based on PKI (Public Key Infrastructure) and 13 articles propose a login/password (seven of them combined with a digital certificate or PIN) for authentication. The preferred access control model appears to be Role-Based Access Control (RBAC), since it is used in 27 studies. Ten of these studies discuss who should define the EHR systems’ roles. Eleven studies discuss who should provide access to EHR data: patients or health entities. Sixteen of the articles reviewed indicate that it is necessary to override defined access policies in the case of an emergency. In 25 articles an audit-log of the system is produced. Only four studies mention that system users and/or health staff should be trained in security and privacy.
+Conclusions
+Recent years have witnessed the design of standards and the promulgation of directives concerning security and privacy in EHR systems. However, more work should be done to adopt these regulations and to deploy secure EHR systems.
+ER  - 
+
+TY  - JOUR
+T1  - Secure Audit Log Management
+JO  - Procedia Computer Science
+VL  - 22
+IS  - 
+SP  - 1249
+EP  - 1258
+PY  - 2013///
+T2  - 17th International Conference in Knowledge Based and Intelligent Information and Engineering Systems - KES2013
+AU  - Söderström, Olof
+AU  - Moradian, Esmiralda
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2013.09.212
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050913010053
+KW  - Secure Log Management
+KW  - Log Analysis
+KW  - Log Server
+KW  - Audit Log Event
+AB  - Abstract
+Log management and analysis is a vital part of organization's network management and system administration. Logs indicate current status of the system and contain information that refers to different security events, which occur within the system. Logs are used for different purposes, such as recording user activities, track authentication attempts, and other security events. Due to increasing number of threats against networks and systems, the number of security logs increases. However, many organizations that work in a distributed environment face following problems: log generation and storage, log protection, and log analysis. Moreover, ensuring that security, system and network administrators analyze log data in an effective way is another issue. In this research, we propose an approach for receiving, storing and administrating audit log events. Furthermore, we present a solution design that in a secure way allows organizations in distributed environments to send audit log transactions from different local networks to one centralized server.
+ER  - 
+
+TY  - JOUR
+T1  - Logs may be found boring, but they are good: NIST
+JO  - Computer Fraud & Security
+VL  - 2006
+IS  - 5
+SP  - 2
+EP  - 3
+PY  - 2006/5//
+T2  - 
+
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(06)70351-7
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372306703517
+AB  - A US standards body has said that the benefits of logs are being thrown away because system administrators find it “boring.” It said that the analysis of logs is often “treated as a low-priority task” by administrators because more urgent tasks like fixing vulnerabilities come first.
+ER  - 
+
+TY  - JOUR
+T1  - German police issue new badges
+JO  - Card Technology Today
+VL  - 17
+IS  - 10
+SP  - 16
+EP  - 
+PY  - 2005/10//
+T2  - 
+
+SN  - 0965-2590
+DO  - http://dx.doi.org/10.1016/S0965-2590(05)70391-1
+UR  - http://www.sciencedirect.com/science/article/pii/S0965259005703911
+AB  - Berlin Police Department has taken delivery of an advanced badge solution from French smart card manufacturer Axalto to secure physical and logical access to its computers and facilities. Delivered in collaboration with local provider PPC Card Systems, the smart ID cards will replace the conventional printed, plastic, photo ID pages currently used by the department.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy Threat Modeling for Emerging BiobankClouds
+JO  - Procedia Computer Science
+VL  - 37
+IS  - 
+SP  - 489
+EP  - 496
+PY  - 2014///
+T2  - The 5th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN-2014)/ The 4th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH 2014)/ Affiliated Workshops
+AU  - Gholami, Ali
+AU  - Lind, Anna-Sara
+AU  - Reichel, Jane
+AU  - Litton, Jan-Eric
+AU  - Edlund, Ake
+AU  - Laure, Erwin
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2014.08.073
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050914010382
+KW  - privacy-preservation
+KW  - data security
+KW  - cloud computing
+KW  - threat modeling
+KW  - requirement analysis
+AB  - Abstract
+There is an increased amount of data produced by next generation sequencing (NGS) machines which demand scalable storage and analysis of genomic data. In order to cope with this huge amount of information, many biobanks are interested in cloud computing capabilities such as on-demand elasticity of computing power and storage capacity. There are several security and privacy requirements mandated by personal data protection legislation which hinder biobanks from migrating big data generated by the NGS machines. This paper describes the privacy requirements of platform-as-service BiobankClouds according to the European Data Protection Directive (DPD). It identifies several key privacy threats which leave BiobankClouds vulnerable to an attack. This study benefits health-care application designers in the requirement elicitation cycle when building privacy-preserving BiobankCloud platforms.
+ER  - 
+
+TY  - JOUR
+T1  - Cloud forensics: Technical challenges, solutions and comparative analysis
+JO  - Digital Investigation
+VL  - 13
+IS  - 
+SP  - 38
+EP  - 57
+PY  - 2015/6//
+T2  - 
+AU  - Pichan, Ameer
+AU  - Lazarescu, Mihai
+AU  - Soh, Sie Teng
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2015.03.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287615000407
+KW  - Cloud computing
+KW  - Cloud forensics
+KW  - Cloud service provider
+KW  - Cloud customer
+KW  - Digital forensics
+KW  - Digital evidence
+KW  - Service level agreement
+KW  - Amazon EC2
+AB  - Abstract
+Cloud computing is arguably one of the most significant advances in information technology (IT) services today. Several cloud service providers (CSPs) have offered services that have produced various transformative changes in computing activities and presented numerous promising technological and economic opportunities. However, many cloud customers remain reluctant to move their IT needs to the cloud, mainly due to their concerns on cloud security and the threat of the unknown. The CSPs indirectly escalate their concerns by not letting customers see what is behind virtual wall of their clouds that, among others, hinders digital investigations. In addition, jurisdiction, data duplication and multi-tenancy in cloud platform add to the challenge of locating, identifying and separating the suspected or compromised targets for digital forensics. Unfortunately, the existing approaches to evidence collection and recovery in a non-cloud (traditional) system are not practical as they rely on unrestricted access to the relevant system and user data; something that is not available in the cloud due its decentralized data processing. In this paper we systematically survey the forensic challenges in cloud computing and analyze their most recent solutions and developments. In particular, unlike the existing surveys on the topic, we describe the issues in cloud computing using the phases of traditional digital forensics as the base. For each phase of the digital forensic process, we have included a list of challenges and analysis of their possible solutions. Our description helps identifying the differences between the problems and solutions for non-cloud and cloud digital forensics. Further, the presentation is expected to help the investigators better understand the problems in cloud environment. More importantly, the paper also includes most recent development in cloud forensics produced by researchers, National Institute of Standards and Technology and Amazon.
+ER  - 
+
+TY  - JOUR
+T1  - Who's in control: a six-step strategy for secure IT
+JO  - Network Security
+VL  - 2011
+IS  - 11
+SP  - 18
+EP  - 20
+PY  - 2011/11//
+T2  - 
+AU  - Facey, Stuart
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(11)70121-0
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485811701210
+AB  - As more and more organisations encourage flexible and remote working policies that allow employees to work outside the office, the complexity surrounding remote access and support mechanisms for the IT helpdesk has also increased. There is a growing and unregulated market for solutions that can ‘fix’ IT issues quickly and efficiently no matter where workers are located: however, as with many solutions, remote support and access products have their own inherent security risks that should not be underestimated.
+ER  - 
+
+TY  - JOUR
+T1  - Secure log management for privacy assurance in electronic communications
+JO  - Computers & Security
+VL  - 27
+IS  - 7–8
+SP  - 298
+EP  - 308
+PY  - 2008/12//
+T2  - 
+AU  - Stathopoulos, Vassilios
+AU  - Kotzanikolaou, Panayiotis
+AU  - Magkos, Emmanouil
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2008.07.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404808000400
+KW  - System logging
+KW  - Network providers
+KW  - Internal attacks
+KW  - Integrity
+KW  - Digital signatures
+AB  - In this paper we examine logging security in the environment of electronic communication providers. We review existing security threat models for system logging and we extend these to a new security model especially suited for communication network providers, which also considers internal modification attacks. We also propose a framework for secure log management in public communication networks as well as an implementation design, in order to provide traceability under the extended security model. A key role to the proposed framework is given to an independent Regulatory Authority, which is responsible to maintain log integrity proofs in a remote environment and verify the integrity of the provider's log files during security audits.
+ER  - 
+
+TY  - JOUR
+T1  - An integrated conceptual digital forensic framework for cloud computing
+JO  - Digital Investigation
+VL  - 9
+IS  - 2
+SP  - 71
+EP  - 80
+PY  - 2012/11//
+T2  - 
+AU  - Martini, Ben
+AU  - Choo, Kim-Kwang Raymond
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2012.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S174228761200059X
+KW  - Cloud computing
+KW  - Cloud forensics
+KW  - Digital forensics
+KW  - Forensic computing
+KW  - Digital evidence
+KW  - Computer forensics
+AB  - Increasing interest in and use of cloud computing services presents both opportunities for criminal exploitation and challenges for law enforcement agencies (LEAs). For example, it is becoming easier for criminals to store incriminating files in the cloud computing environment but it may be extremely difficult for LEAs to seize these files as the latter could potentially be stored overseas. Two of the most widely used and accepted forensic frameworks – McKemmish (1999) and NIST (Kent et al., 2006) – are then reviewed to identify the required changes to current forensic practices needed to successfully conduct cloud computing investigations. We propose an integrated (iterative) conceptual digital forensic framework (based on McKemmish and NIST), which emphasises the differences in the preservation of forensic data and the collection of cloud computing data for forensic purposes. Cloud computing digital forensic issues are discussed within the context of this framework. Finally suggestions for future research are made to further examine this field and provide a library of digital forensic methodologies for the various cloud platforms and deployment models.
+ER  - 
+
+TY  - JOUR
+T1  - Making sense of log management for security purposes – an approach to best practice log collection, analysis and management
+JO  - Computer Fraud & Security
+VL  - 2007
+IS  - 5
+SP  - 5
+EP  - 10
+PY  - 2007/5//
+T2  - 
+AU  - Gorge, Mathieu
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(07)70047-7
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372307700477
+AB  - Every computer action registers a log somewhere – giving a rich source of data that can help businesses identify any trace of corruption within their networks. Log collection is also a strong component of keeping in line with legislation such as Sarbanes-Oxley, HIPAA, GLBA in the US, and the European Data Protection Directive in the EU. Mathieu Gorge looks at what logs organizations need to keep and what standards require their storage.
+
+He recommends proactive monitoring of firewalls, anti-virus, VPNs and IDS logs among other security systems. The main goal is to link a transaction back to an individual user in order to perform a forensic investigation. But it is important to be wary, as some countries do not allow companies to monitor staff usage of IT systems. See page 3 on how the European court ruled that a British college's monitoring of one employee was a breach of human rights. Therefore, linking a log with a person's actions may not stand up in court.
+
+Gorge says logs can give as good an insight into external attacks as well as internally driven ones.
+
+Logs should be analyzed for the following:
+				•
+User account activity: creation, elevation of privilege, changes, inactivity.
+•
+Client requests and server response.
+•
+Operational status: shutdown (planned or unplanned), system failure and automatic restart.
+•
+Usage information and trends – basic user behaviour analysis.
+
+
+It is best practice to collect, store and analyze logs with a view to being able to get complete, accurate and verifiable information. This will improve the organization's ability to comply with key standards and legislation as regards e-evidence. It could save an organization from potential liability and repair costs and will give visibility over mission critical and security systems, performance and usage. The main advice is to remain proactive so as to be able to respond to a security incident and comply with legal requests should anything happen.
+
+Mathieu Gorge looks at what logs can do for your business and how governance demands them.
+ER  - 
+
+TY  - JOUR
+T1  - A survey on Advanced Metering Infrastructure
+JO  - International Journal of Electrical Power & Energy Systems
+VL  - 63
+IS  - 
+SP  - 473
+EP  - 484
+PY  - 2014/12//
+T2  - 
+AU  - Rashed Mohassel, Ramyar
+AU  - Fung, Alan
+AU  - Mohammadi, Farah
+AU  - Raahemifar, Kaamran
+SN  - 0142-0615
+DO  - http://dx.doi.org/10.1016/j.ijepes.2014.06.025
+UR  - http://www.sciencedirect.com/science/article/pii/S0142061514003743
+KW  - Advanced Metering Infrastructure
+KW  - Smart metering
+KW  - Smart Grid
+AB  - Abstract
+This survey paper is an excerpt of a more comprehensive study on Smart Grid (SG) and the role of Advanced Metering Infrastructure (AMI) in SG. The survey was carried out as part of a feasibility study for creation of a Net-Zero community in a city in Ontario, Canada. SG is not a single technology; rather it is a combination of different areas of engineering, communication and management. This paper introduces AMI technology and its current status, as the foundation of SG, which is responsible for collecting all the data and information from loads and consumers. AMI is also responsible for implementing control signals and commands to perform necessary control actions as well as Demand Side Management (DSM). In this paper we introduce SG and its features, establish the relation between SG and AMI, explain the three main subsystems of AMI and discuss related security issues.
+ER  - 
+
+TY  - JOUR
+T1  - Leveraging CybOX™ to standardize representation and exchange of digital forensic information
+JO  - Digital Investigation
+VL  - 12, Supplement 1
+IS  - 
+SP  - S102
+EP  - S110
+PY  - 2015/3//
+T2  - DFRWS 2015 EuropeProceedings of the Second Annual DFRWS Europe
+AU  - Casey, Eoghan
+AU  - Back, Greg
+AU  - Barnum, Sean
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2015.01.014
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287615000158
+KW  - Digital forensics
+KW  - Standard representation
+KW  - Digital forensic ontology
+KW  - Digital forensic XML
+KW  - CybOX
+KW  - DFXML
+KW  - DFAX
+AB  - Abstract
+With the growing number of digital forensic tools and the increasing use of digital forensics in various contexts, including incident response and cyber threat intelligence, there is a pressing need for a widely accepted standard for representing and exchanging digital forensic information. Such a standard representation can support correlation between different data sources, enabling more effective and efficient querying and analysis of digital evidence. This work summarizes the strengths and weaknesses of existing schemas, and proposes the open-source CybOX schema as a foundation for storing and sharing digital forensic information. The suitability of CybOX for representing objects and relationships that are common in forensic investigations is demonstrated with examples involving digital evidence. The capability to represent provenance by leveraging CybOX is also demonstrated, including specifics of the tool used to process digital evidence and the resulting output. An example is provided of an ongoing project that uses CybOX to record the state of a system before and after an event in order to capture cause and effect information that can be useful for digital forensics. An additional open-source schema and associated ontology called Digital Forensic Analysis eXpression (DFAX) is proposed that provides a layer of domain specific information overlaid on CybOX. DFAX extends the capability of CybOX to represent more abstract forensic-relevant actions, including actions performed by subjects and by forensic examiners, which can be useful for sharing knowledge and supporting more advanced forensic analysis. DFAX can be used in combination with other existing schemas for representing identity information (CIQ), and location information (KML). This work also introduces and leverages initial steps of a Unified Cyber Ontology (UCO) effort to abstract and express concepts/constructs that are common across the cyber domain.
+ER  - 
+
+TY  - JOUR
+T1  - Forensic discovery auditing of digital evidence containers
+JO  - Digital Investigation
+VL  - 4
+IS  - 2
+SP  - 88
+EP  - 97
+PY  - 2007/6//
+T2  - 
+AU  - Richard III, Golden G.
+AU  - Roussev, Vassil
+AU  - Marziale, Lodovico
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2007.04.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287607000291
+KW  - Digital forensics
+KW  - Operating systems internals
+KW  - Filesystems
+KW  - Digital evidence containers Auditing
+AB  - Current digital forensics methods capture, preserve, and analyze digital evidence in general-purpose electronic containers (typically, plain files) with no dedicated support to help establish that the evidence has been properly handled. Auditing of a digital investigation, from identification and seizure of evidence through duplication and investigation is, essentially, ad hoc, recorded in separate log files or in an investigator's case notebook. Auditing performed in this fashion is bound to be incomplete, because different tools provide widely disparate amounts of auditing information – including none at all – and there is ample room for human error. The latter is a particularly pressing concern given the fast growth of the size of forensic targets.
+
+Recently, there has been a serious community effort to develop an open standard for specialized digital evidence containers (DECs). A DEC differs from a general purpose container in that, in addition to the actual evidence, it bundles arbitrary metadata associated with it, such as logs and notes, and provides the basic means to detect evidence-tampering through digital signatures. Current approaches consist of defining a container format and providing a specialized library that can be used to manipulate it. While a big step in the right direction, this approach has some non-trivial shortcomings – it requires the retooling of existing forensic software and, thereby, limits the number of tools available to the investigator. More importantly, however, it does not provide a complete solution since it only records snapshots of the state of the DEC without being able to provide a trusted log of all data operations actually performed on the evidence. Without a trusted log the question of whether a tool worked exactly as advertised cannot be answered with certainty, which opens the door to challenges (both legitimate and frivolous) of the results.
+
+In this paper, we propose a complementary mechanism, called the Forensic Discovery Auditing Module (FDAM), aimed at closing this loophole in the discovery process. FDAM can be thought of as a ‘clean-room’ environment for the manipulation of digital evidence, where evidence from containers is placed for controlled manipulation. It functions as an operating system component, which monitors and logs all access to the evidence and enforces policy restrictions. This allows the immediate, safe, and verifiable use of any tool deemed necessary by the examiner. In addition, the module can provide transparent support for multiple DEC formats, thereby greatly simplifying the adoption of open standards.
+ER  - 
+
+TY  - JOUR
+T1  - Secured Temporal Log Management Techniques for Cloud
+JO  - Procedia Computer Science
+VL  - 46
+IS  - 
+SP  - 589
+EP  - 595
+PY  - 2015///
+T2  - Proceedings of the International Conference on Information and Communication Technologies, ICICT 2014, 3-5 December 2014 at Bolgatty Palace &amp; Island Resort, Kochi, India
+AU  - Muthurajkumar, S.
+AU  - Ganapathy, S.
+AU  - Vijayalakshmi, M.
+AU  - Kannan, A.
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2015.02.098
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050915001623
+KW  - Cloud computing
+KW  - Log management
+KW  - Cloud Storage
+KW  - Cloud Security;
+AB  - Abstract
+Log Management has been an important service in Cloud Computing. In any business, maintaining the log records securely over a particular period of time is absolutely necessary for various reasons such as auditing, forensic analysis, evidence etc. In this work, Integrity and confidentiality of the log records are maintained at every stage of Log Management namely the Log Generation phase, Transmission phase and Storage phase. In addition to this, Log records may often contain sensitive information about the organization which should not be leaked to the outside world. In this paper, Temporal Secured Cloud Log Management Algorithm techniques are implemented to provide security to maintain transaction history in cloud within time period. In this work, security to temporal log management is provided by encrypting the log data before they are stored in the cloud storage. They are also stored in batches for easy retrieval. This work was implemented in Java programming language in the Google drive environment.
+ER  - 
+
+TY  - JOUR
+T1  - Making the internet safe for e-commerce
+JO  - Computers & Security
+VL  - 15
+IS  - 7
+SP  - 587
+EP  - 
+PY  - 1996///
+T2  - 
+AU  - Meyer, Helen
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(97)88121-7
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404897881217
+ER  - 
+
+TY  - JOUR
+T1  - Making internet access safe
+JO  - Computers & Security
+VL  - 15
+IS  - 7
+SP  - 587
+EP  - 
+PY  - 1996///
+T2  - 
+AU  - Meyer, Helen
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(97)88120-5
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404897881205
+ER  - 
+
+TY  - JOUR
+T1  - Learning to love SIEM
+JO  - Network Security
+VL  - 2011
+IS  - 4
+SP  - 18
+EP  - 19
+PY  - 2011/4//
+T2  - 
+AU  - Jenkins, Steve
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(11)70041-1
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485811700411
+AB  - In the 1964 motion picture, Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb, a paranoid general played by Sterling Hayden is able to hack into a system and initiate a nuclear attack on the Soviet Union without the knowledge of his superiors.
+ER  - 
+
+TY  - JOUR
+T1  - Towards a forensic-aware database solution: Using a secured database replication protocol and transaction management for digital investigations
+JO  - Digital Investigation
+VL  - 11
+IS  - 4
+SP  - 336
+EP  - 348
+PY  - 2014/12//
+T2  - 
+AU  - Frühwirt, Peter
+AU  - Kieseberg, Peter
+AU  - Krombholz, Katharina
+AU  - Weippl, Edgar
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2014.09.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287614001078
+KW  - MySQL
+KW  - InnoDB
+KW  - Digital forensics
+KW  - Databases
+KW  - Data tempering
+KW  - Replication
+KW  - Transaction management
+AB  - Abstract
+Databases contain an enormous amount of structured data. While the use of forensic analysis on the file system level for creating (partial) timelines, recovering deleted data and revealing concealed activities is very popular and multiple forensic toolsets exist, the systematic analysis of database management systems has only recently begun. Databases contain a large amount of temporary data files and metadata which are used by internal mechanisms. These data structures are maintained in order to ensure transaction authenticity, to perform rollbacks, or to set back the database to a predefined earlier state in case of e.g. an inconsistent state or a hardware failure. However, these data structures are intended to be used by the internal system methods only and are in general not human-readable.
+
+In this work we present a novel approach for a forensic-aware database management system using transaction- and replication sources. We use these internal data structures as a vital baseline to reconstruct evidence during a forensic investigation. The overall benefit of our method is that no additional logs (such as administrator logs) are needed. Furthermore, our approach is invariant to retroactive malicious modifications by an attacker. This assures the authenticity of the evidence and strengthens the chain of custody. To evaluate our approach, we present a formal description, a prototype implementation in MySQL alongside and a comprehensive security evaluation with respect to the most relevant attack scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - Avoiding the five pitfalls of privileged accounts
+JO  - Network Security
+VL  - 2013
+IS  - 5
+SP  - 12
+EP  - 14
+PY  - 2013/5//
+T2  - 
+AU  - Grafton, Jane
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(13)70060-6
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485813700606
+AB  - It is a rather human truth that when we hand out privileges they often get abused. Whether you are operating in the high reaches of government or the most basic market the sad fact is – where we find privilege we also find the abuse of privilege. In the world of IT, privileged accounts are identities that have elevated permission to access potentially sensitive data, run programs or change configuration settings. To put it simply, privileged accounts are the keys to the kingdom of IT.
+
+When we hand out privileges they often get abused. In the world of IT, privileged accounts – identities that have elevated permission to access sensitive data, run programs or change settings – are found on every server, workstation and appliance.
+
+In recent years we have witnessed more and more organisations fail to adequately secure such accounts, with catastrophic results. There are common practices that have lead to a number of security breaches and failed IT compliance audits, some of them very high-profile. Jane Grafton of Lieberman Software looks at the five most common errors with privileged accounts – and how to avoid them.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of information security incident handling in the cloud
+JO  - Computers & Security
+VL  - 49
+IS  - 
+SP  - 45
+EP  - 69
+PY  - 2015/3//
+T2  - 
+AU  - Ab Rahman, Nurul Hidayah
+AU  - Choo, Kim-Kwang Raymond
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2014.11.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404814001680
+KW  - Capability Maturity Model For Services (CMMI-SVC)
+KW  - Cloud computing
+KW  - Cloud response
+KW  - Incident handling
+KW  - Incident management
+KW  - Incident response
+AB  - Abstract
+Incident handling strategy is one key strategy to mitigate risks to the confidentiality, integrity and availability (CIA) of organisation assets, as well as minimising loss (e.g. financial, reputational and legal) particularly as organisations move to the cloud. In this paper, we surveyed existing incident handling and digital forensic literature with the aims of contributing to the knowledge gap(s) in handling incidents in the cloud environment. 139 English language publications between January 2009 and May 2014 were located by searching various sources including the websites of standard bodies (e.g. National Institute of Standards and Technology) and academic databases (e.g. Google Scholar, IEEEXplore, ACM Digital Library, Springer and ScienceDirect). We then propose a conceptual cloud incident handling model that brings together incident handling, digital forensic and the Capability Maturity Model for Services to more effectively handle incidents for organisations using the cloud. A discussion of open research issues concludes this survey.
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of FROST: Digital forensic tools for the OpenStack cloud computing platform
+JO  - Digital Investigation
+VL  - 10, Supplement
+IS  - 
+SP  - S87
+EP  - S95
+PY  - 2013/8//
+T2  - 13th Annual Digital Forensics Research Conference
+AU  - Dykstra, Josiah
+AU  - Sherman, Alan T.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2013.06.010
+UR  - http://www.sciencedirect.com/science/article/pii/S174228761300056X
+KW  - OpenStack
+KW  - Cloud computing
+KW  - Digital forensics
+KW  - Cloud forensics
+KW  - FROST
+AB  - Abstract
+We describe the design, implementation, and evaluation of FROST—three new forensic tools for the OpenStack cloud platform. Our implementation for the OpenStack cloud platform supports an Infrastructure-as-a-Service (IaaS) cloud and provides trustworthy forensic acquisition of virtual disks, API logs, and guest firewall logs. Unlike traditional acquisition tools, FROST works at the cloud management plane rather than interacting with the operating system inside the guest virtual machines, thereby requiring no trust in the guest machine. We assume trust in the cloud provider, but FROST overcomes non-trivial challenges of remote evidence integrity by storing log data in hash trees and returning evidence with cryptographic hashes. Our tools are user-driven, allowing customers, forensic examiners, and law enforcement to conduct investigations without necessitating interaction with the cloud provider. We demonstrate how FROST's new features enable forensic investigators to obtain forensically-sound data from OpenStack clouds independent of provider interaction. Our preliminary evaluation indicates the ability of our approach to scale in a dynamic cloud environment. The design supports an extensible set of forensic objectives, including the future addition of other data preservation, discovery, real-time monitoring, metrics, auditing, and acquisition capabilities.
+ER  - 
+
+TY  - JOUR
+T1  - Crossing Borders: The Right Side of Wrong?
+JO  - Infosecurity
+VL  - 8
+IS  - 5
+SP  - 22
+EP  - 25
+PY  - 2011/9//
+Y2  - 2011/10//
+T2  - 
+AU  - Grossman, Wendy M.
+SN  - 1754-4548
+DO  - http://dx.doi.org/10.1016/S1754-4548(11)70065-1
+UR  - http://www.sciencedirect.com/science/article/pii/S1754454811700651
+AB  - Most nations consider travel data to be crucial to protecting national security. How that data is collected, stored, and secured however seems to be a closely guarded secret. Wendy M. Grossman investigates
+ER  - 
+
+TY  - JOUR
+T1  - Turning log files into a security asset
+JO  - Network Security
+VL  - 2008
+IS  - 2
+SP  - 4
+EP  - 7
+PY  - 2008/2//
+T2  - 
+AU  - Casey, Donal
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(08)70016-3
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485808700163
+AB  - Despite most businesses having a range of devices which create log files of user and system activity, few actually analyse the logs for information.
+
+As the internet becomes an integral part of the way we live and work, the number of logs generated and their importance has continued to increase. More homes now have broadband connections. Most businesses at least have email and many have an interactive web presence, or at the very least a static web ‘brochure’. All of the internet traffic these generate has the capacity to create useful information for marketers, and more importantly for security engineers, in the form of log entries.
+ER  - 
+
+TY  - JOUR
+T1  - Security in cloud computing: Opportunities and challenges
+JO  - Information Sciences
+VL  - 305
+IS  - 
+SP  - 357
+EP  - 383
+PY  - 2015/6/1/
+T2  - 
+AU  - Ali, Mazhar
+AU  - Khan, Samee U.
+AU  - Vasilakos, Athanasios V.
+SN  - 0020-0255
+DO  - http://dx.doi.org/10.1016/j.ins.2015.01.025
+UR  - http://www.sciencedirect.com/science/article/pii/S0020025515000638
+KW  - Cloud computing
+KW  - Multi-tenancy
+KW  - Security
+KW  - Virtualization
+KW  - Web services
+AB  - Abstract
+The cloud computing exhibits, remarkable potential to provide cost effective, easy to manage, elastic, and powerful resources on the fly, over the Internet. The cloud computing, upsurges the capabilities of the hardware resources by optimal and shared utilization. The above mentioned features encourage the organizations and individual users to shift their applications and services to the cloud. Even the critical infrastructure, for example, power generation and distribution plants are being migrated to the cloud computing paradigm. However, the services provided by third-party cloud service providers entail additional security threats. The migration of user’s assets (data, applications, etc.) outside the administrative control in a shared environment where numerous users are collocated escalates the security concerns. This survey details the security issues that arise due to the very nature of cloud computing. Moreover, the survey presents the recent solutions presented in the literature to counter the security issues. Furthermore, a brief view of security vulnerabilities in the mobile cloud computing are also highlighted. In the end, the discussion on the open issues and future research directions is also presented.
+ER  - 
+
+TY  - JOUR
+T1  - A triage framework for digital forensics
+JO  - Computer Fraud & Security
+VL  - 2015
+IS  - 3
+SP  - 8
+EP  - 18
+PY  - 2015/3//
+T2  - 
+AU  - Bashir, Muhammad Shamraiz
+AU  - Khan, Muhammad Naeem Ahmed
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(15)30018-X
+UR  - http://www.sciencedirect.com/science/article/pii/S136137231530018X
+AB  - A sharp increase in malware and cyber-attacks has been observed in recent years. Analysing cyber-attacks on the affected digital devices falls under the purview of digital forensics. The Internet is the main source of cyber and malware attacks, which sometimes result in serious damage to the digital assets. The motive behind digital crimes varies – such as online banking fraud, information stealing, denial of services, security breaches, deceptive output of running programs and data distortion.
+
+Digital forensics analysts use a variety of tools for data acquisition, evidence analysis and presentation of malicious activities. This leads to device diversity posing serious challenges for investigators.
+
+For this reason, some attack scenarios have to be examined repeatedly, which entails tremendous effort on the part of the examiners when analysing the evidence. To counter this problem, Muhammad Shamraiz Bashir and Muhammad Naeem Ahmed Khan at the Shaheed Zulfikar Ali Bhutto Institute of Science and Technology, Islamabad, Pakistan propose a novel triage framework for digital forensics.
+ER  - 
+
+TY  - JOUR
+T1  - Cheyenne, McAfee cure software viruses
+JO  - Computers & Security
+VL  - 15
+IS  - 7
+SP  - 587
+EP  - 588
+PY  - 1996///
+T2  - 
+AU  - Meyer, Helen
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(97)88122-9
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404897881229
+ER  - 
+
+TY  - JOUR
+T1  - How to protect your data
+JO  - Computers & Security
+VL  - 15
+IS  - 7
+SP  - 586
+EP  - 587
+PY  - 1996///
+T2  - 
+AU  - Meyer, Helen
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(97)88119-9
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404897881199
+ER  - 
+
+TY  - JOUR
+T1  - The increasing need for automation and validation in digital forensics
+JO  - Digital Investigation
+VL  - 7
+IS  - 3–4
+SP  - 103
+EP  - 104
+PY  - 2011/4//
+T2  - 
+AU  - Casey, Eoghan
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2011.02.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287611000053
+ER  - 
+
+TY  - JOUR
+T1  - Trust in digital records: An increasingly cloudy legal area
+JO  - Computer Law & Security Review
+VL  - 28
+IS  - 5
+SP  - 522
+EP  - 531
+PY  - 2012/10//
+T2  - 
+AU  - Duranti, Luciana
+AU  - Rogers, Corinne
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/j.clsr.2012.07.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364912001458
+KW  - Digital records
+KW  - Digital forensics
+KW  - Cloud computing
+KW  - Law of evidence
+KW  - Digital documentary evidence
+AB  - Trust has been defined in many ways, but at its core it involves acting without the knowledge needed to act. Trust in records depends on four types of knowledge about the creator or custodian of the records: reputation, past performance, competence, and the assurance of confidence in future performance. For over half a century society has been developing and adopting new computer technologies for business and communications in both the public and private realm. Frameworks for establishing trust have developed as technology has progressed. Today, individuals and organizations are increasingly saving and accessing records in cloud computing infrastructures, where we cannot assess our trust in records solely on the four types of knowledge used in the past. Drawing on research conducted at the University of British Columbia into the nature of digital records and their trustworthiness, this article presents the conceptual archival and digital forensic frameworks of trust in records and data, and explores the common law legal framework within which questions of trust in documentary evidence are being tested. Issues and challenges specific to cloud computing are introduced.
+ER  - 
+
+TY  - JOUR
+T1  - Profiling software applications for forensic analysis
+JO  - Computer Fraud & Security
+VL  - 2015
+IS  - 6
+SP  - 13
+EP  - 18
+PY  - 2015/6//
+T2  - 
+AU  - Rafique, Mamoona
+AU  - Khan, Muhammad Naeem Ahmed
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(15)30058-0
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372315300580
+AB  - Computers are now a fundamental part of our professional lives. Although advanced technologies are being used to contain digital crimes, alongside these are other technologies that have expanded a criminal community that is constantly searching for new means to commit crimes in more sophisticated ways. Due to the availability of corporate data on the web, coupled with the open access nature of the web, digital miscreants can commit cybercrimes either as legitimate or illegitimate users.
+
+Traditional digital forensics involves static analysis of the data available on permanent storage media, while live analysis allows running systems to be examined to analyse volatile data.
+
+However, live analysis is not without its challenges, not least because each application has different effects on the system. Mamoona Rafique and Muhammad Naeem Ahmed Khan present a model for profiling the behaviour of application programs. This allows investigators to build a behavioural profile of each application in order to understand its effects on the system.
+ER  - 
+
+TY  - JOUR
+T1  - Delegation and digital mandates: Legal requirements and security objectives
+JO  - Computer Law & Security Review
+VL  - 25
+IS  - 5
+SP  - 415
+EP  - 431
+PY  - 2009/9//
+T2  - 
+AU  - Van Alsenoy, Brendan
+AU  - De Cock, Danny
+AU  - Simoens, Koen
+AU  - Dumortier, Jos
+AU  - Preneel, Bart
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/j.clsr.2009.07.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364909001265
+KW  - Delegation
+KW  - Agency
+KW  - Mandate
+KW  - Identity management
+KW  - Delegated user and access management
+AB  - Now that more and more legal transactions are being performed online, it is increasingly necessary to enable integration of legal mandates within identity and information management systems. The purpose of this article is to outline the legal framework surrounding delegation and to identify basic requirements for any technical application which seeks to provide recognition to legal mandates and delegation processes. Special consideration is also given to the legal implications in situations where a (presumed) mandate holder acts without or outside his authority. Based on these considerations, this article attempts to outline an approach which can significantly reduce the potential risks for both mandate issuers and relying service providers.
+ER  - 
+
+TY  - JOUR
+T1  - On a taxonomy of delegation
+JO  - Computers & Security
+VL  - 29
+IS  - 5
+SP  - 565
+EP  - 579
+PY  - 2010/7//
+T2  - Challenges for Security, Privacy and Trust
+AU  - Pham, Quan
+AU  - Reid, Jason
+AU  - McCullagh, Adrian
+AU  - Dawson, Edward
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2009.12.009
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404809001473
+KW  - Delegation
+KW  - Authorisation
+KW  - Taxonomy
+KW  - Classification
+KW  - Access control
+AB  - Delegation, from a technical point of view, is widely considered as a potential approach in addressing the problem of providing dynamic access control decisions in activities with a high level of collaboration, either within a single security domain or across multiple security domains. Although delegation continues to attract significant attention from the research community, presently, there is no published work that presents a taxonomy of delegation concepts and models. This article intends to address this gap by presenting a set of taxonomic criteria relevant to the concept of delegation. This article also applies the taxonomy to a selection of significant delegation models published in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - On Incident Handling and Response: A state-of-the-art approach
+JO  - Computers & Security
+VL  - 25
+IS  - 5
+SP  - 351
+EP  - 370
+PY  - 2006/7//
+T2  - 
+AU  - Mitropoulos, Sarandis
+AU  - Patsos, Dimitrios
+AU  - Douligeris, Christos
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2005.09.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404805001574
+KW  - Incident Handling
+KW  - Incident Response
+KW  - Computer forensics
+KW  - Internet forensics
+KW  - Software forensics
+KW  - Trace-back mechanisms
+AB  - Incident Response has always been an important aspect of Information Security but it is often overlooked by security administrators. Responding to an incident is not solely a technical issue but has many management, legal, technical and social aspects that are presented in this paper. We propose a detailed management framework along with a complete structured methodology that contains best practices and recommendations for appropriately handling a security incident. We also present the state-of-the art technology in computer, network and software forensics as well as automated trace-back artifacts, schemas and protocols. Finally, we propose a generic Incident Response process within a corporate environment.
+ER  - 
+
+TY  - JOUR
+T1  - Security for eBusiness
+JO  - Information Security Technical Report
+VL  - 6
+IS  - 2
+SP  - 80
+EP  - 94
+PY  - 2001/6/1/
+T2  - 
+AU  - Davidson, Mary Ann
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/S1363-4127(01)00209-6
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412701002096
+ER  - 
+
+TY  - JOUR
+T1  - Auditing and security
+JO  - Computer Audit Update
+VL  - 1989
+IS  - 5
+SP  - 2
+EP  - 7
+PY  - 1989/3//
+Y2  - 1989/4//
+T2  - 
+AU  - Blatchford, Clive
+SN  - 0960-2593
+DO  - http://dx.doi.org/10.1016/S0960-2593(89)80027-8
+UR  - http://www.sciencedirect.com/science/article/pii/S0960259389800278
+AB  - Summary
+The purpose of this short paper is to create a generic administrative framework in which the operational management of information systems may be supported by effective auditing process.
+
+Emphasis is placed on agreeing a set of overall control principles which may be mapped from the human world to that of the technologically based information systems. Five intial principles have been recognised. This list may be extended as the practical problems of managing and auditing security information systems, especially in the non-Defence sector, are explored.
+
+The objectives of functionally rich, IT ‘open systems’ solutions are used to illustrate the requirements. Where relevant, specific ‘open’ standards activities (especially ISO, CCITT, ect) are referenced as the basis of future development.
+ER  - 
+
+TY  - JOUR
+T1  - Subject index to volume 2
+JO  - Computers & Security
+VL  - 2
+IS  - 3
+SP  - 305
+EP  - 308
+PY  - 1983/11//
+T2  - 
+
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(83)90023-8
+UR  - http://www.sciencedirect.com/science/article/pii/0167404883900238
+ER  - 
+
+TY  - JOUR
+T1  - Sarbanes-Oxley: maybe a blessing, maybe a curse
+JO  - Computer Fraud & Security
+VL  - 2005
+IS  - 9
+SP  - 4
+EP  - 7
+PY  - 2005/9//
+T2  - 
+AU  - Power, Richard
+AU  - Forte, Dario
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(05)70250-5
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372305702505
+AB  - Sarbanes-Oxley can bring benefits and heartache to IT security managers. This article demonstrates the advantages and the headaches that the legislation can cause.
+ER  - 
+
+TY  - JOUR
+T1  - A quantitative study of Public Key Infrastructures
+JO  - Computers & Security
+VL  - 22
+IS  - 1
+SP  - 56
+EP  - 67
+PY  - 2003/1//
+T2  - 
+AU  - Bruschi, D
+AU  - Curti, A
+AU  - Rosti, E
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(03)00113-5
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404803001135
+AB  - Public Key Infrastructures have not reached the widespread diffusion expected of them, although they are well understood from a security point of view, because, like many say, the killer application has not been found yet. The lack of a clear understanding of the performance of these systems also contributes significantly to their limited diffusion. Studies have appeared of specific aspects of the operations of PKIs, but no complete studies of the overall system are known.
+
+In this paper we present an evaluation study of X.509-compliant Public Key Infrastructures using queuing network models. We focus our analysis on the performance of the subsystem in charge of generating and managing digital certificates, under a variety of load conditions, both in terms of the type of requests and their number. We also investigate the impact on the performance of the system of some implementation choices such as revocation mechanisms and auditing activities. The main result of our analysis is that the system we consider, given the current state of technology, can guarantee acceptable response time in steady state even in the presence of PKI with a consistent number of users. However, in order to guarantee such a performance level, throughput must not exceed 3.5 requests per second, where a request can be a certificate generation or revocation request. Such a limitation hinders the deployment of PKIs with large numbers of users, since recovering after a system compromise may require an unacceptable amount of time.
+ER  - 
+
+TY  - JOUR
+T1  - Preventing software piracy
+JO  - Network Security
+VL  - 1994
+IS  - 9
+SP  - 17
+EP  - 19
+PY  - 1994/9//
+T2  - 
+AU  - Schifreen, Robert
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/1353-4858(94)90179-1
+UR  - http://www.sciencedirect.com/science/article/pii/1353485894901791
+AB  - It's up to you, as the person in charge of network security, to ensure that users are not storing pirated software on the server or workstations. Regular audits can help you achieve this.
+ER  - 
+
+TY  - JOUR
+T1  - Implementing enterprise security: a case study3
+JO  - Computers & Security
+VL  - 22
+IS  - 2
+SP  - 99
+EP  - 114
+PY  - 2003/2//
+T2  - 
+AU  - Doughty, Ken
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(03)00205-0
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404803002050
+AB  - Introduction
+
+Information is an essential asset for organizations, because it supports the day-today operations, and facilitates decision-making by the organization’s key stakeholders. The challenge facing organizations is how to provide access to this asset without compromising its integrity. This asset is received and distributed by the organization through various distribution channels, which is connected together by the telecommunications network. These channels include:
+
+•
+Email
+•
+Internet
+•
+Applications (e.g. Financial, Logistics, Retail, Property and Construction, Energy etc.)
+•
+DBMS (MS SQL Server, Oracle, DB2, Sybase, etc.)
+•
+Operating systems (e.g. Unix, NT/Windows 2000, etc.)
+ER  - 
+
+TY  - JOUR
+T1  - Gearing up for grid computing
+JO  - Infosecurity Today
+VL  - 2
+IS  - 5
+SP  - 22
+EP  - 25
+PY  - 2005/9//
+Y2  - 2005/10//
+T2  - 
+AU  - Myerson, Judith M.
+SN  - 1742-6847
+DO  - http://dx.doi.org/10.1016/S1742-6847(05)70321-9
+UR  - http://www.sciencedirect.com/science/article/pii/S1742684705703219
+AB  - As an enterprise's infrastructure breaches the borders of both nations and its own direct control, application security becomes a hot issue, particularly in the new Europe.
+ER  - 
+
+TY  - JOUR
+T1  - FORZA – Digital forensics investigation framework that incorporate legal issues
+JO  - Digital Investigation
+VL  - 3, Supplement
+IS  - 
+SP  - 29
+EP  - 36
+PY  - 2006/9//
+T2  - The Proceedings of the 6th Annual Digital Forensic Research Workshop (DFRWS '06)
+AU  - Ieong, Ricci S.C.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2006.06.004
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287606000661
+KW  - Digital forensics investigation framework
+KW  - Digital forensics
+KW  - FORZA framework
+KW  - Forensics principles
+KW  - Zachman framework
+KW  - Legal aspects
+AB  - What is Digital Forensics? Mark Pollitt highlighted in DFRWS 2004 [Politt MM. Six blind men from Indostan. Digital forensics research workshop (DFRWS); 2004] that digital forensics is not an elephant, it is a process and not just one process, but a group of tasks and processes in investigation. In fact, many digital forensics investigation processes and tasks were defined on technical implementation details Investigation procedures developed by traditional forensics scientist focused on the procedures in handling the evidence, while those developed by the technologist focused on the technical details in capturing evidence. As a result, many digital forensics practitioners simply followed technical procedures and forget about the actual purpose and core concept of digital forensics investigation.
+
+With all these technical details and complicated procedures, legal practitioners may have difficulties in applying or even understanding their processes and tasks in digital forensics investigations.
+
+In order to break the technical barrier between information technologists, legal practitioners and investigators, and their corresponding tasks together, a technical-independent framework would be required.
+
+In this paper, we first highlighted the fundamental principle of digital forensics investigations (Reconnaissance, Reliability and Relevancy). Based on this principle, we re-visit the investigation tasks and outlined eight different roles and their responsibilities in a digital forensics investigation.
+
+For each role, we defined the sets of six key questions. They are the What (the data attributes), Why (the motivation), How (the procedures), Who (the people), Where (the location) and When (the time) questions. In fact, among all the investigation processes, there are six main questions that each practitioner would always ask.
+
+By incorporating these sets of six questions into the Zachman's framework, a digital forensics investigation framework – FORZA is composed. We will further explain how this new framework can incorporate legal advisors and prosecutors into a bigger picture of digital forensics investigation framework.
+
+Usability of this framework will be illustrated in a web hacking example.
+
+Finally, the road map that interconnects the framework to automatically zero-knowledge data acquisition tools will be briefly described.
+ER  - 
+
+TY  - JOUR
+T1  - ASE: A comprehensive pattern-driven security methodology for distributed systems
+JO  - Computer Standards & Interfaces
+VL  - 41
+IS  - 
+SP  - 112
+EP  - 137
+PY  - 2015/9//
+T2  - 
+AU  - Uzunov, Anton V.
+AU  - Fernandez, Eduardo B.
+AU  - Falkner, Katrina
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2015.02.011
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548915000276
+KW  - Secure software engineering
+KW  - Security methodologies
+KW  - Distributed systems security
+KW  - Security patterns
+KW  - Security solution frames
+AB  - Abstract
+Incorporating security features is one of the most important and challenging tasks in designing distributed systems. Over the last decade, researchers and practitioners have come to recognize that the incorporation of security features should proceed by means of a structured, systematic approach, combining principles from both software and security engineering. Such systematic approaches, particularly those implying some sort of process aligned with the development life-cycle, are termed security methodologies. There are a number of security methodologies in the literature, of which the most flexible and, according to a recent survey, most satisfactory from an industry-adoption viewpoint are methodologies that encapsulate their security solutions in some fashion, especially via the use of security patterns. While the literature does present several mature pattern-driven security methodologies with either a general or a highly specific system applicability, there are currently no (pattern-driven) security methodologies specifically designed for general distributed systems. Going further, there are also currently no methodologies with mixed specific applicability, e.g. for both general and peer-to-peer distributed systems. In this paper we aim to fill these gaps by presenting a comprehensive pattern-driven security methodology – arrived at by applying a previously devised approach to engineering security methodologies – specifically designed for general distributed systems, which is also capable of taking into account the specifics of peer-to-peer systems as needed. Our methodology takes the principle of encapsulation several steps further, by employing patterns not only for the incorporation of security features (via security solution frames), but also for the modeling of threats, and even as part of its process. We illustrate and evaluate the presented methodology in detail via a realistic example – the development of a distributed system for file sharing and collaborative editing. In both the presentation of the methodology and example our focus is on the early life-cycle phases (analysis and design).
+ER  - 
+
+TY  - JOUR
+T1  - Distributed component architectures security issues
+JO  - Computer Standards & Interfaces
+VL  - 27
+IS  - 3
+SP  - 269
+EP  - 284
+PY  - 2005/3//
+T2  - 
+AU  - Gousios, Giorgos
+AU  - Aivaloglou, Efthimia
+AU  - Gritzalis, Stefanos
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2004.08.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548904000984
+KW  - Components
+KW  - Component architectures security
+KW  - CORBA
+KW  - J2EE
+KW  - .NET
+AB  - Enterprise information systems and e-commerce applications are tightly integrated in today's modern enterprises. Component architectures are the base for building such multitier distributed applications. This paper examines the security threats those systems must confront and the solutions proposed by major existing component architectures. A comparative evaluation of both security features and implementation issues is carried out to determine each architecture's strong points and drawbacks.
+ER  - 
+
+TY  - JOUR
+T1  - Information Security – The Fourth Wave
+JO  - Computers & Security
+VL  - 25
+IS  - 3
+SP  - 165
+EP  - 168
+PY  - 2006/5//
+T2  - 
+AU  - von Solms, Basie
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2006.03.004
+UR  - http://www.sciencedirect.com/science/article/pii/S016740480600054X
+KW  - Corporate Governance
+KW  - Information Security
+KW  - Information Security Management
+KW  - Information Security Governance
+KW  - Risk management
+KW  - Sarbanes–Oxley
+KW  - Social engineering
+AB  - In a previous article [von Solms, 2000], the development of Information Security up to the year 2000 was characterized as consisting of three waves:•
+the technical wave,
+•
+the management wave, and
+•
+the institutional wave.
+
+
+This paper continues this development of Information Security by characterizing the Fourth Wave – that of Information Security Governance.
+ER  - 
+
+TY  - JOUR
+T1  - A survey of security in multi-agent systems
+JO  - Expert Systems with Applications
+VL  - 39
+IS  - 5
+SP  - 4835
+EP  - 4846
+PY  - 2012/4//
+T2  - 
+AU  - Cavalcante, Rodolfo Carneiro
+AU  - Bittencourt, Ig Ibert
+AU  - da Silva, Alan Pedro
+AU  - Silva, Marlos
+AU  - Costa, Evandro
+AU  - Santos, Robério
+SN  - 0957-4174
+DO  - http://dx.doi.org/10.1016/j.eswa.2011.09.130
+UR  - http://www.sciencedirect.com/science/article/pii/S0957417411014539
+KW  - Agents
+KW  - Multi-agent systems
+KW  - Security
+KW  - Security in MAS
+KW  - Multi-agents
+AB  - Multi-agent systems (MAS) are a relatively new software paradigm that is being widely accepted in several application domains to address large and complex tasks. However, with the use of MAS in open, distributed and heterogeneous applications, the security issues may endanger the success of the application. The goal of this research is to identify the security issues faced by MAS and to survey the current state of the art of this field of knowledge. In order to do it, this paper examines the basic concepts of security in computing, and some characteristics of agents and multi-agent systems that introduce new threats and ways to attack. After this, some models and architectures proposed in the literature are presented and analyzed.
+ER  - 
+
+TY  - JOUR
+T1  - Elliptic Curves for Data Provenance
+JO  - Procedia Computer Science
+VL  - 45
+IS  - 
+SP  - 470
+EP  - 476
+PY  - 2015///
+T2  - International Conference on Advanced Computing Technologies and Applications (ICACTA)
+AU  - Srivastava, Kriti
+AU  - Nand, Gaurav
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2015.03.082
+UR  - http://www.sciencedirect.com/science/article/pii/S187705091500318X
+KW  - Data Provenance
+KW  - Elliptic curve cryptography
+KW  - Secure Provenance
+AB  - Abstract
+Securing provenance data in distributed environment is a challenge and with the rapid increase in its size, volume and variety it becomes more challenging. Provenance data are more sensitive than actual data as they include the workflow or the chain kind of structure. A little change can be disastrous. There are various existing security algorithms and frameworks but distributed nature of infrastructure and large volume of data makes the implementation of existing security models very complex. This paper discusses the security challenges of provenance data and proposes a secure way to store provenance data in highly distributed infrastructure.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical study of automatic event reconstruction systems
+JO  - Digital Investigation
+VL  - 3, Supplement
+IS  - 
+SP  - 108
+EP  - 115
+PY  - 2006/9//
+T2  - The Proceedings of the 6th Annual Digital Forensic Research Workshop (DFRWS '06)
+AU  - Jeyaraman, Sundararaman
+AU  - Atallah, Mikhail J.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2006.06.013
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287606000752
+KW  - Intrusion analysis
+KW  - Digital forensics
+KW  - Event reconstruction
+KW  - Incident response
+AB  - Reconstructing the sequence of computer events that led to a particular event is an essential part of the digital investigation process. The ability to quantify the accuracy of automatic event reconstruction systems is an essential step in standardizing the digital investigation process thereby making it resilient to tactics such as the Trojan horse defense. In this paper, we present findings from an empirical study to measure and compare the accuracy and effectiveness of a suite of such event reconstruction techniques. We quantify (as applicable) the rates of false positives and false negatives, and scalability in terms of both computational burden and memory-usage. Some of our findings are quite surprising in the sense of not matching a priori expectations, and whereas other findings qualitatively match the a priori expectations they were never before quantitatively put to the test to determine the boundaries of their applicability. For example, our results show that automatic event reconstruction systems proposed in literature have very high false-positive rates (up to 96%).
+ER  - 
+
+TY  - JOUR
+T1  - Inter-organizational future proof EHR systems: A review of the security and privacy related issues
+JO  - International Journal of Medical Informatics
+VL  - 78
+IS  - 3
+SP  - 141
+EP  - 160
+PY  - 2009/3//
+T2  - 
+AU  - van der Linden, Helma
+AU  - Kalra, Dipak
+AU  - Hasman, Arie
+AU  - Talmon, Jan
+SN  - 1386-5056
+DO  - http://dx.doi.org/10.1016/j.ijmedinf.2008.06.013
+UR  - http://www.sciencedirect.com/science/article/pii/S1386505608001081
+KW  - Computerized Medical Records Systems
+KW  - Data security
+KW  - Access policy
+KW  - Standards
+KW  - Networked care
+AB  - Objectives
+Identification and analysis of privacy and security related issues that occur when health information is exchanged between health care organizations.
+Methods
+Based on a generic scenario questions were formulated to reveal the occurring issues. Possible answers were verified in literature.
+Results
+Ensuring secure health information exchange across organizations requires a standardization of security measures that goes beyond organizational boundaries, such as global definitions of professional roles, global standards for patient consent and semantic interoperable audit logs.
+Conclusion
+As to be able to fully address the privacy and security issues in interoperable EHRs and the long-life virtual EHR it is necessary to realize a paradigm shift from storing all incoming information in a local system to retrieving information from external systems whenever that information is deemed necessary for the care of the patient.
+ER  - 
+
+TY  - JOUR
+T1  - Vulnerabilities and mitigation techniques toning in the cloud: A cost and vulnerabilities coverage optimization approach using Cuckoo search algorithm with Lévy flights
+JO  - Computers & Security
+VL  - 48
+IS  - 
+SP  - 1
+EP  - 18
+PY  - 2015/2//
+T2  - 
+AU  - Zineddine, Mhamed
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2014.09.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404814001333
+KW  - Cloud computing
+KW  - ICT security
+KW  - Vulnerabilities mapping
+KW  - Cuckoo search algorithm
+KW  - Lévy flights algorithm
+KW  - Optimization
+AB  - Abstract
+Information and Communication Technology (ICT) security issues have been a major concern for decades. Today's ICT infrastructure faces sophisticated attacks using combinations of multiple vulnerabilities to penetrate networks with devastating impact. With the recent rise of cloud computing as a new utility computing paradigm, organizations have been considering it as a viable option to outsource major IT services in order to cut costs. Some organizations have opted for a private or hybrid cloud to take advantage of the emerging technologies and services. However, ICT security issues have to be appropriately mitigated. This research proposes a cloud security framework and an approach for vulnerabilities coverage and cost optimization using Cuckoo search algorithm with Lévy flights as random walks. The objective is to mitigate an identified set of vulnerabilities using a selected set of techniques when minimizing cost and maximizing coverage. The results show that Cloud Computing providers and organizations implementing cloud technology within their premises can effectively balance IT security coverage and cost using the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy and consent in pervasive networks
+JO  - Information Security Technical Report
+VL  - 14
+IS  - 3
+SP  - 138
+EP  - 142
+PY  - 2009/8//
+T2  - The Changing Shape of Privacy and Consent
+AU  - Malik, Nazir A.
+AU  - Tomlinson, Allan
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/j.istr.2009.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412709000375
+AB  - Pervasive networks and location based systems have the potential to provide many new services. However the user of these services often has to provide personal information to allow the service to operate effectively. This article considers the problem of protecting personal information in this environment, and reports on the legislative and technical efforts being made to protect user privacy.
+ER  - 
+
+TY  - JOUR
+T1  - Performance analysis of Bayesian networks and neural networks in classification of file system activities
+JO  - Computers & Security
+VL  - 31
+IS  - 4
+SP  - 391
+EP  - 401
+PY  - 2012/6//
+T2  - 
+AU  - Khan, Muhammad Naeem Ahmed
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2012.03.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404812000533
+KW  - Digital forensics
+KW  - Computer forensic analysis
+KW  - Digital evidence
+KW  - Neural networks
+KW  - Bayesian learning
+KW  - Bayesian decision theory
+AB  - Precise comprehension of a file system state at any given time is vital for performing digital forensic analyses. To uncover evidence of the digital crime, the logical representation of file system activities helps reconstruct post-event timeline of the unauthorized or malicious accesses made on a system. This paper describes a comparative performance analysis of the Bayesian networks and neural networks techniques to classify the state of file system activities in terms of execution of applications based on the pattern of manipulation of specific files during certain period of time. In particular, this paper discusses the construction of a Bayesian networks and neural networks from the predetermined knowledge of the manipulation of file system artifacts and their corresponding metadata information by a set of software applications. The variability amongst the execution patterns of various applications indicate that the Bayesian network-based model is a more appropriate tool as compared to neural networks because of its ability to learn and detect patterns even from an incomplete dataset. The focus of this paper is to highlight intrinsic significance of the learning approach of Bayesian network methodology in comparison to the techniques used for supervised learning in ordinary neural networks. The paper also highlights the efficacy of Bayesian network technique to proficiently handle large volumes of datasets.
+ER  - 
+
+TY  - JOUR
+T1  - Security in grid computing: A review and synthesis
+JO  - Decision Support Systems
+VL  - 44
+IS  - 4
+SP  - 749
+EP  - 764
+PY  - 2008/3//
+T2  - 
+AU  - Cody, Erin
+AU  - Sharman, Raj
+AU  - Rao, Raghav H.
+AU  - Upadhyaya, Shambhu
+SN  - 0167-9236
+DO  - http://dx.doi.org/10.1016/j.dss.2007.09.007
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923607001728
+KW  - Grid computing
+KW  - Information assurance
+KW  - Survey and synthesis
+KW  - Security
+AB  - This paper provides an extensive survey of the different methods of addressing security issues in the grid computing environment, and specifically contributes to the research environment by developing a comprehensive framework for classification of these research endeavors. The framework presented classifies security literature into System Solutions, Behavioral Solutions, Hybrid Solutions and Related Technologies. Each one of these categories is explained in detail in the paper to provide insight as to their unique methods of accomplishing grid security, the types of grid and security situations they apply best to, and the pros and cons for each type of solution. Further, several areas of research were identified in the course of the literature survey where more study is warranted. These avenues for future research are also discussed in this paper. Several types of grid systems exist currently, and the security needs and solutions to address those needs for each type vary as much as the types of systems themselves. This research framework will aid in future research efforts to define, analyze, and address grid security problems for the many varied types of grid setups, as well as the many security situations that each grid may face.
+ER  - 
+
+TY  - JOUR
+T1  - Cyber Wars and other threats
+JO  - Computers & Security
+VL  - 17
+IS  - 2
+SP  - 115
+EP  - 118
+PY  - 1998///
+T2  - 
+AU  - Hinde, Stephen
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(97)81979-7
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404897819797
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of recommended cloud security controls to validate OpenPMF “policy as a service”
+JO  - Information Security Technical Report
+VL  - 16
+IS  - 3–4
+SP  - 131
+EP  - 141
+PY  - 2011/8//
+Y2  - 2011/11//
+T2  - Cloud Security
+AU  - Lang, Ulrich
+AU  - Schreiner, Rudolf
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/j.istr.2011.08.001
+UR  - http://www.sciencedirect.com/science/article/pii/S136341271100046X
+KW  - Cloud
+KW  - Security
+KW  - Policy
+KW  - Authorization management
+KW  - Access policy
+KW  - Compliance
+KW  - Model-driven security
+KW  - Accreditation
+KW  - Audit policy
+KW  - Application security
+KW  - XACML
+KW  - OpenPMF
+KW  - NIST 800-53
+KW  - NIST 800-147
+KW  - NIST IR 7628
+KW  - PCI-DSS
+KW  - HIPAA
+AB  - This paper describes some of the findings of a cloud research project the authors carried out in Q2/2011. As part of the project, the authors first identified security concerns related to cloud computing, and gaps in cloud-related standards/regulations. The authors then identified several hard-to-implement, but highly cloud-relevant, security requirements in numerous cloud (and non-cloud) regulations and guidance documents, especially related to “least privilege”, “information flow control”, and “incident monitoring/auditing/analysis”. Further study revealed that there are significant cloud technology gaps in cloud (and non-cloud) platforms, which make it difficult to effectively implement those security policy requirements. The project concluded that model-driven security policy automation offered as a cloud service and tied into the protected cloud platform is ideally suited to achieve correct, consistent, low-effort/cost policy implementation for cloud applications.
+ER  - 
+
+TY  - JOUR
+T1  - Random bits &amp; bytes
+JO  - Computers & Security
+VL  - 13
+IS  - 8
+SP  - 622
+EP  - 627
+PY  - 1994///
+T2  - 
+AU  - Highland, HaroldJoseph
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(94)90041-8
+UR  - http://www.sciencedirect.com/science/article/pii/0167404894900418
+ER  - 
+
+TY  - JOUR
+T1  - Legal admissibility of evidence held in digital form
+JO  - Computer Law & Security Review
+VL  - 15
+IS  - 3
+SP  - 185
+EP  - 187
+PY  - 1999/5//
+Y2  - 1999/6//
+T2  - 
+AU  - Kearsley, Amanda J.
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/S0267-3649(99)80037-5
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364999800375
+AB  - Organizations faced with voluminous paper documents are increasingly turning to technology, scanning the paper documents and then destroying the originals, placing increased reliance on electronic document management systems for subsequent retrieval. One key difficulty these organizations face is the uncertain legal status of the electronic record, and whether, if necessary, the digital copy of the original paper document can be used in evidence in legal proceedings. This first part of a two part article considers the effects of the Civil Evidence Act 1995 and also examines current and recommended practices for ensuring the admissibility of digital evidence.
+ER  - 
+
+TY  - JOUR
+T1  - Data protection: why are organisations still missing the point?
+JO  - Computer Fraud & Security
+VL  - 2008
+IS  - 6
+SP  - 5
+EP  - 8
+PY  - 2008/6//
+T2  - 
+AU  - Gorge, Mathieu
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(08)70095-2
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372308700952
+AB  - Mathieu Gorge argues that data protection should be second nature for companies.
+ER  - 
+
+TY  - JOUR
+T1  - Information security in workstation environments
+JO  - Computers & Security
+VL  - 12
+IS  - 2
+SP  - 117
+EP  - 122
+PY  - 1993/3//
+T2  - 
+AU  - Stahl, Stanley H.
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(93)90090-R
+UR  - http://www.sciencedirect.com/science/article/pii/016740489390090R
+AB  - This article explores information security issues in a context directed to meeting the needs of distributed workstation environments. It is not intended to be self-contained. Many topics, particularly those that are generic to securing computer and communication systems, are hardly touched on. The intent has been to (i) provide a context for exploring information security issues associated with distributed workstation environments and (ii) explore a few of the most important technology-based counter-measures available in workstation security.
+ER  - 
+
+TY  - JOUR
+T1  - Compliance by design – Bridging the chasm between auditors and IT architects
+JO  - Computers & Security
+VL  - 30
+IS  - 6–7
+SP  - 410
+EP  - 426
+PY  - 2011/9//
+Y2  - 2011/10//
+T2  - 
+AU  - Julisch, Klaus
+AU  - Suter, Christophe
+AU  - Woitalla, Thomas
+AU  - Zimmermann, Olaf
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2011.03.005
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404811000514
+KW  - Information systems audit
+KW  - CAVR
+KW  - Compliance
+KW  - Security architecture
+KW  - Patterns
+KW  - Service-oriented architecture
+KW  - Business processes
+KW  - Enterprise applications
+AB  - System and process auditors assure – from an information processing perspective – the correctness and integrity of the data that is aggregated in a company’s financial statements. To do so, they assess whether a company’s business processes and information systems process financial data correctly. The audit process is a complex endeavor that in practice has to rely on simplifying assumptions. These simplifying assumptions mainly result from the need to restrict the audit scope and to focus it on the major risks. This article describes a generalized audit process. According to our experience with this process, there is a risk that material deficiencies remain undiscovered when said simplifying assumptions are not satisfied. To address this risk of deficiencies, the article compiles thirteen control patterns, which – according to our experience – are particularly suited to help information systems satisfy the simplifying assumptions. As such, use of these proven control patterns makes information systems easier to audit and IT architects can use them to build systems that meet audit requirements by design. Additionally, the practices and advice offered in this interdisciplinary article help bridge the gap between the architects and auditors of information systems and show either role how to benefit from an understanding of the other role’s terminology, techniques, and general work approach.
+ER  - 
+
+TY  - JOUR
+T1  - A configurable cryptography subsystem in a middleware framework for embedded systems
+JO  - Computer Networks
+VL  - 46
+IS  - 6
+SP  - 771
+EP  - 795
+PY  - 2004/12/20/
+T2  - 
+AU  - McKinnon, A. David
+AU  - Bakken, David E.
+AU  - Shovic, John C.
+SN  - 1389-1286
+DO  - http://dx.doi.org/10.1016/j.comnet.2004.06.020
+UR  - http://www.sciencedirect.com/science/article/pii/S1389128604001732
+KW  - Middleware
+KW  - Security
+KW  - CORBA
+KW  - Embedded systems
+AB  - Computer and network security is becoming increasingly important as both large systems and, increasingly small, embedded systems are networked. Middleware frameworks aid the system developer who must interconnect individual systems into larger interconnected, distributed systems. However, there exist very few middleware frameworks that have been designed for use with embedded systems, which constitute the vast majority of CPUs produced each year, and none offer the range of security mechanisms required by the wide range of embedded system applications. This paper describes MicroQoSCORBA, a highly configurable middleware framework for embedded systems, and its security subsystem. It first presents an analysis of security requirements for embedded applications and what can and should be done in middleware. It then presents the design of MicroQoSCORBA’s security subsystem and the wide range of mechanisms it supports. Experimental results for these mechanisms are presented for two different embedded systems and one desktop computer that collectively represent a wide range of computational capabilities.
+ER  - 
+
+TY  - JOUR
+T1  - It security testing, a practical guide — part 5: Security stress/loading testing
+JO  - Computer Audit Update
+VL  - 1993
+IS  - 3
+SP  - 7
+EP  - 10
+PY  - 1993/3//
+T2  - 
+AU  - Robertson, Bernard
+AU  - Pullen, David
+SN  - 0960-2593
+DO  - http://dx.doi.org/10.1016/0960-2593(93)90041-X
+UR  - http://www.sciencedirect.com/science/article/pii/096025939390041X
+ER  - 
+
+TY  - JOUR
+T1  - Ideal log setting for database forensics reconstruction
+JO  - Digital Investigation
+VL  - 12
+IS  - 
+SP  - 27
+EP  - 40
+PY  - 2015/3//
+T2  - 
+AU  - Adedayo, Oluwasola Mary
+AU  - Olivier, Martin S.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2014.12.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287614001200
+KW  - Database management system
+KW  - Database forensics
+KW  - Digital forensics
+KW  - Reconstruction
+KW  - Ideal log setting
+AB  - Abstract
+The ability to reconstruct the data stored in a database at an earlier time is an important aspect of database forensics. Past research shows that the log file in a database can be useful for reconstruction. However, in many database systems there are various options that control which information is included in the logs. This paper introduces the notion of the ideal log setting necessary for an effective reconstruction process in database forensics. The paper provides a survey of the default logging preferences in some of the popular database management systems and identifies the information that a database log should contain in order to be useful for reconstruction. The challenges that may be encountered in storing the information as well as ways of overcoming the challenges are discussed. Possible logging preferences that may be considered as the ideal log setting for the popular database systems are also proposed. In addition, the paper relates the identified requirements to the three dimensions of reconstruction in database forensics and points out the additional requirements and/or techniques that may be required in the different dimensions.
+ER  - 
+
+TY  - JOUR
+T1  - Electronic discovery: digital forensics and beyond
+JO  - Computer Fraud & Security
+VL  - 2006
+IS  - 4
+SP  - 8
+EP  - 10
+PY  - 2006/4//
+T2  - 
+AU  - Forte, Dario
+AU  - Power, Richard
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(06)70332-3
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372306703323
+AB  - Companies need to be ready to find and produce electronic records at the drop of a hat in the face of a lawsuit. Three-quarters of modern day lawsuits entail e-Discovery. Organisations need to salvage data from every remote corner of their systems. Information from email, office documents, log files, transactions and scanned files must be on standby for extraction and scrutiny.
+
+And it isn't cheap - the average cost of an e-Discovery project is several hundred thousand dollars.
+
+The idea is to provide a trusted copy of original documents requested by lawyers or chosen for presentation by the company.
+
+“Litigation Lifecycle Management” is a very common legal procedure in the United States. This article provides an introduction to the topic with special reference to its complexities.
+ER  - 
+
+TY  - JOUR
+T1  - Access control for smarter healthcare using policy spaces
+JO  - Computers & Security
+VL  - 29
+IS  - 8
+SP  - 848
+EP  - 858
+PY  - 2010/11//
+T2  - 
+AU  - Ardagna, Claudio A.
+AU  - De Capitani di Vimercati, Sabrina
+AU  - Foresti, Sara
+AU  - Grandison, Tyrone W.
+AU  - Jajodia, Sushil
+AU  - Samarati, Pierangela
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2010.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404810000623
+KW  - Access control
+KW  - Break the glass
+KW  - Policy spaces
+KW  - Exceptions
+KW  - Healthcare systems
+AB  - A fundamental requirement for the healthcare industry is that the delivery of care comes first and nothing should interfere with it. As a consequence, the access control mechanisms used in healthcare to regulate and restrict the disclosure of data are often bypassed in case of emergencies. This phenomenon, called “break the glass”, is a common pattern in healthcare organizations and, though quite useful and mandatory in emergency situations, from a security perspective, it represents a serious system weakness. Malicious users, in fact, can abuse the system by exploiting the break the glass principle to gain unauthorized privileges and accesses.
+
+In this paper, we propose an access control solution aimed at better regulating break the glass exceptions that occur in healthcare systems. Our solution is based on the definition of different policy spaces, a language, and a composition algebra to regulate access to patient data and to balance the rigorous nature of traditional access control systems with the “delivery of care comes first” principle.
+ER  - 
+
+TY  - JOUR
+T1  - Flexible composition and execution of large scale applications on distributed e-infrastructures
+JO  - Journal of Computational Science
+VL  - 5
+IS  - 1
+SP  - 51
+EP  - 62
+PY  - 2014/1//
+T2  - 
+AU  - Zasada, Stefan J.
+AU  - Chang, David C.W.
+AU  - Haidar, Ali N.
+AU  - Coveney, Peter V.
+SN  - 1877-7503
+DO  - http://dx.doi.org/10.1016/j.jocs.2013.10.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1877750313001269
+KW  - E-infrastructure
+KW  - High performance computing
+KW  - Application virtualization
+KW  - Usability
+AB  - Abstract
+Computer simulation is finding a role in an increasing number of scientific disciplines, concomitant with the rise in available computing power. Marshalling this power facilitates new, more effective and different research than has been hitherto possible. Realizing this inevitably requires access to computational power beyond the desktop, making use of clusters, supercomputers, data repositories, networks and distributed aggregations of these resources. The use of diverse e-infrastructure brings with it the ability to perform distributed multiscale simulations. Accessing one such resource entails a number of usability and security problems; when multiple geographically distributed resources are involved, the difficulty is compounded. In this paper we present a solution, the Application Hosting Environment,33
+AHE is available to download under the LGPL license from: https://sourceforge.net/projects/ahe3/.
+ which provides a Software as a Service layer on top of distributed e-infrastructure resources. We describe the performance and usability enhancements present in AHE version 3, and show how these have led to a high performance, easy to use gateway for computational scientists working in diverse application domains, from computational physics and chemistry, materials science to biology and biomedicine.
+ER  - 
+
+TY  - JOUR
+T1  - Beyond RACF: Extending user authentication controls
+JO  - Computers & Security
+VL  - 10
+IS  - 8
+SP  - 711
+EP  - 722
+PY  - 1991/12//
+T2  - 
+AU  - Lynch, Paul
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(91)90090-Z
+UR  - http://www.sciencedirect.com/science/article/pii/016740489190090Z
+AB  - A discussion on passwords and user i.d.s as the central point for security control is presented, with recommendations for stricter control, and identifying weaknesses in this approach. Use of “tokens” for authentication is discussed, concentrating on currently available devices, including IBM's TSS. The impact of authentication on the US NCSC standards (the “Orange Book”) and the proposed ITSEC standards are considered.
+ER  - 
+
+TY  - JOUR
+T1  - Security issues in system development
+JO  - Computer Audit Update
+VL  - 1992
+IS  - 9
+SP  - 4
+EP  - 8
+PY  - 1992/9//
+T2  - 
+AU  - Price, G.R.
+SN  - 0960-2593
+DO  - http://dx.doi.org/10.1016/0960-2593(92)90010-K
+UR  - http://www.sciencedirect.com/science/article/pii/096025939290010K
+ER  - 
+
+TY  - JOUR
+T1  - Client server architectures and security
+JO  - Computer Audit Update
+VL  - 1992
+IS  - 9
+SP  - 8
+EP  - 12
+PY  - 1992/9//
+T2  - 
+AU  - Pullen, David
+AU  - Robertson, Bernard
+SN  - 0960-2593
+DO  - http://dx.doi.org/10.1016/0960-2593(92)90011-B
+UR  - http://www.sciencedirect.com/science/article/pii/096025939290011B
+ER  - 
+
+TY  - JOUR
+T1  - Towards a unified taxonomy and architecture of cloud frameworks
+JO  - Future Generation Computer Systems
+VL  - 29
+IS  - 5
+SP  - 1196
+EP  - 1210
+PY  - 2013/7//
+T2  - Special section: Hybrid Cloud Computing
+AU  - Dukaric, Robert
+AU  - Juric, Matjaz B.
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2012.09.006
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X12001793
+KW  - Cloud Computing
+KW  - Infrastructure as a service
+KW  - Taxonomy
+KW  - Architectural framework
+AB  - Infrastructure as a Service (IaaS) is one of the most important layers of Cloud Computing. However, there is an evident deficiency of mechanisms for analysis, comparison and evaluation of IaaS cloud implementations, since no unified taxonomy or reference architecture is available. In this article, we propose a unified taxonomy and an IaaS architectural framework. The taxonomy is structured around seven layers: core service layer, support layer, value-added services, control layer, management layer, security layer and resource abstraction. We survey various IaaS systems and map them onto our taxonomy to evaluate the classification. We then introduce an IaaS architectural framework that relies on the unified taxonomy. We provide a detailed description of each layer and define dependencies between the layers and components. Finally, we evaluate the proposed IaaS architectural framework on several real-world projects, while performing a comprehensive analysis of the most important commercial and open-source IaaS products. The evaluation results show notable distinction of feature support and capabilities between commercial and open-source IaaS platforms, significant deficiency of important architectural components in terms of fulfilling true promise of infrastructure clouds, and real-world usability of the proposed taxonomy and architectural framework.
+ER  - 
+
+TY  - JOUR
+T1  - Security implications of implementing active network infrastructures using agent technology
+JO  - Computer Networks
+VL  - 36
+IS  - 1
+SP  - 87
+EP  - 100
+PY  - 2001/6//
+T2  - Active Networks and Services
+AU  - Karnouskos, Stamatis
+SN  - 1389-1286
+DO  - http://dx.doi.org/10.1016/S1389-1286(01)00155-4
+UR  - http://www.sciencedirect.com/science/article/pii/S1389128601001554
+KW  - Active networks
+KW  - Security
+KW  - Active code
+KW  - Agent technology
+AB  - Active networks (AN) are a rapid evolving area of research and in parallel an area of great industry interest. However, for this technology to make the step out of the labs and penetrate the market, the security problems have to be tackled effectively. This paper demonstrates why and how agent technology research, can and should be applied to active networks, in order to fulfill the new security challenges this infrastructure poses. First, we identify the key elements of AN, analyze the nature of active code, specify the role of agents in active networks and present a multi-execution environment active network architecture. Then, we target the security threats for active code and execution environment, and state the basic as well as the extended security requirements. Subsequently, we try to see how we can apply the security solutions and research done for agents to the context of active networks in order to satisfy their requirements.
+ER  - 
+
+TY  - JOUR
+T1  - Automated computer forensics training in a virtualized environment
+JO  - Digital Investigation
+VL  - 5, Supplement
+IS  - 
+SP  - S105
+EP  - S111
+PY  - 2008/9//
+T2  - The Proceedings of the Eighth Annual DFRWS Conference
+AU  - Brueckner, Stephen
+AU  - Guaspari, David
+AU  - Adelstein, Frank
+AU  - Weeks, Joseph
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2008.05.009
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287608000406
+KW  - Digital forensic training
+KW  - Computer training
+KW  - Virtualized training
+KW  - Automated assessment
+KW  - Automated evaluation
+AB  - The CYber DEfenSe Trainer (CYDEST) is a virtualized training platform for network defense and computer forensics. It uses virtual machines to provide tactical level exercises for personnel such as network administrators, first responders, and digital forensics investigators. CYDEST incorporates a number of features to reduce instructor workload and to improve training realism, including: (1) automated assessment of trainee performance, (2) automated attacks that respond dynamically to the student's actions, (3) a full fidelity training environment, (4) an unrestricted user interface incorporating real tools, and (5) continuous, remote accessibility via the Web.
+ER  - 
+
+TY  - JOUR
+T1  - Expert Provisioner: a range management aid
+JO  - Knowledge-Based Systems
+VL  - 11
+IS  - 5–6
+SP  - 339
+EP  - 344
+PY  - 1998/11/23/
+T2  - 
+AU  - Power, Rhys
+AU  - Reynolds, Steve
+AU  - Kingston, John
+AU  - Harrison, Ian
+AU  - Ann Macintosh
+AU  - Tonberg, Jon
+SN  - 0950-7051
+DO  - http://dx.doi.org/10.1016/S0950-7051(98)00062-8
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705198000628
+KW  - Knowledge engineering
+KW  - Knowledge-based systems
+KW  - Logistics
+AB  - Expert Provisioner is a knowledge-based provisioning system developed by Royal Air Force (RAF) logistics research and AIAI at the University of Edinburgh for use by the RAF logistics command to support the procurement of consumable parts. The starting point for Expert Provisioner is an electronic purchase order form and its end point is a recommendation of whether to buy the item or not, its cost and due delivery date. Purchase recommendations are based on many factors including forecast demand, unit costs, shelf life and existing stock levels. Identified benefits of the system include improved speed and accuracy of the data checking and order quantity calculation processes; automatic recording of provisioning history data for use in financial management/analysis; and finally, the ability to allow trainees to work on real life problems and compare their results with the experts.
+ER  - 
+
+TY  - JOUR
+T1  - Assessing insider threats to information security using technical, behavioural and organisational measures
+JO  - Information Security Technical Report
+VL  - 15
+IS  - 3
+SP  - 112
+EP  - 133
+PY  - 2010/8//
+T2  - Computer Crime - A 2011 Update
+AU  - Roy Sarkar, Kuheli
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/j.istr.2010.11.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412710000488
+AB  - The UK government took a bruising in the headlines (Sep 2008) after a Home Office contractor lost a USB stick containing unencrypted data on all 84,000 prisoners in England and Wales. As a result, the Home Office terminated the £1.5 million contract with the management consultancy firm.
+
+The world woke up to the largest attempted bank fraud ever when the UK’s National Hi-Tech Crime Unit foiled the world’s largest potential bank robbery in March 2005. With the help of the security supervisor, thieves masquerading as cleaning staff installed hardware keystroke loggers on computers within the London branch of a Japanese bank, to steal £220m.
+
+It is indeed sobering to imagine that any organisation could fall victim to such events and the damage an insider can do. The consulting firm lost the contract worth £1.5 million due to a small mistake by an employee. The London branch of the Japanese Bank would have lost £220 million had not the crime been foiled.
+
+Insider threat is a reality. Insiders commit fraud or steal sensitive information when motivated by money or revenge. Well-meaning employees can compromise the security of an organisation with their overzealousness in getting their job done. Every organisation has a varied mix of employees, consultants, management, partners and complex infrastructure and that makes handling insider threats a daunting challenge. With insider attacks, organisations face potential damage through loss of revenue, loss of reputation, loss of intellectual property or even loss of human life.
+
+The insider threat problem is more elusive and perplexing than any other threat. Assessing the insider threat is the first step to determine the likelihood of any insider attack. Technical solutions do not suffice since insider threats are fundamentally a people issue. Therefore, a three-pronged approach - technological, behavioural and organisational assessment is essential in facilitating the prediction of insider threats and pre-empt any insider attack thus improving the organization’s security, survivability, and resiliency in light of insider threats.
+ER  - 
+
+TY  - JOUR
+T1  - Administrative controls for password-based computer access control systems
+JO  - Computer Fraud & Security Bulletin
+VL  - 8
+IS  - 3
+SP  - 5
+EP  - 13
+PY  - 1986/1//
+T2  - 
+AU  - Wood, CharlesCresson
+SN  - 0142-0496
+DO  - http://dx.doi.org/10.1016/0142-0496(86)90043-3
+UR  - http://www.sciencedirect.com/science/article/pii/0142049686900433
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of a mediation system enabling secure communication among Critical Infrastructures
+JO  - International Journal of Critical Infrastructure Protection
+VL  - 5
+IS  - 2
+SP  - 86
+EP  - 97
+PY  - 2012/7//
+T2  - 
+AU  - Castrucci, Marco
+AU  - Neri, Alessandro
+AU  - Caldeira, Filipe
+AU  - Aubert, Jocelyn
+AU  - Khadraoui, Djamel
+AU  - Aubigny, Matthieu
+AU  - Harpes, Carlo
+AU  - Simões, Paulo
+AU  - Suraci, Vincenzo
+AU  - Capodieci, Paolo
+SN  - 1874-5482
+DO  - http://dx.doi.org/10.1016/j.ijcip.2012.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1874548212000194
+KW  - Critical Infrastructure
+KW  - Information sharing
+KW  - Web services
+KW  - MICIE
+KW  - Secure mediation gateway
+AB  - Nowadays, the increase of interdependencies among different Critical Infrastructures (CI) makes it more and more difficult to protect without using a systemic approach that considers a single infrastructure as part of a complex system of infrastructures. A strong collaboration among CI owners is required to avoid, or at least to limit the propagation of failures from one infrastructure to another and to put CI in safety mode. The key element enabling this required cooperation is the possibility for them to exchange relevant information related to the status of their infrastructures and to the services provided. In this paper, we present a middleware solution that allows CIs sharing real-time information, enabling the design and implementation of fault mitigation strategies and mechanisms to prevent the cascading phenomena generated by the failure propagation from one infrastructure to another.
+ER  - 
+
+TY  - JOUR
+T1  - Model-driven business process security requirement specification
+JO  - Journal of Systems Architecture
+VL  - 55
+IS  - 4
+SP  - 211
+EP  - 223
+PY  - 2009/4//
+T2  - Secure Service-Oriented Architectures (Special Issue on Secure SOA)
+AU  - Wolter, Christian
+AU  - Menzel, Michael
+AU  - Schaad, Andreas
+AU  - Miseldine, Philip
+AU  - Meinel, Christoph
+SN  - 1383-7621
+DO  - http://dx.doi.org/10.1016/j.sysarc.2008.10.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1383762108001471
+KW  - Web service security
+KW  - Business process
+KW  - Model transformation
+KW  - Security annotations
+KW  - Access control
+AB  - Various types of security goals, such as authentication or confidentiality, can be defined as policies for service-oriented architectures, typically in a manual fashion. Therefore, we foster a model-driven transformation approach from modelled security goals in the context of process models to concrete security implementations. We argue that specific types of security goals may be expressed in a graphical fashion at the business process modelling level which in turn can be transformed into corresponding access control and security policies. In this paper we present security policy and policy constraint models. We further discuss a translation of security annotated business processes into platform specific target languages, such as XACML or AXIS2 security configurations. To demonstrate the suitability of this approach an example transformation is presented based on an annotated process.
+ER  - 
+
+TY  - JOUR
+T1  - User provisioning with SPML
+JO  - Information Security Technical Report
+VL  - 9
+IS  - 1
+SP  - 86
+EP  - 96
+PY  - 2004/1//
+Y2  - 2004/3//
+T2  - 
+AU  - Sodhi, Gavenraj
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/S1363-4127(04)00018-4
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412704000184
+ER  - 
+
+TY  - JOUR
+T1  - A framework for post-event timeline reconstruction using neural networks
+JO  - Digital Investigation
+VL  - 4
+IS  - 3–4
+SP  - 146
+EP  - 157
+PY  - 2007/9//
+Y2  - 2007/12//
+T2  - 
+AU  - Khan, M.N.A.
+AU  - Chatwin, C.R.
+AU  - Young, R.C.D.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2007.11.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287607000837
+KW  - Computer forensics
+KW  - Digital investigation
+KW  - Event reconstruction
+KW  - Digital evidence
+KW  - Digital forensic analysis
+KW  - Neural networks
+AB  - Post-event timeline reconstruction plays a critical role in forensic investigation and serves as a means of identifying evidence of the digital crime. We present an artificial neural networks based approach for post-event timeline reconstruction using the file system activities. A variety of digital forensic tools have been developed during the past two decades to assist computer forensic investigators undertaking digital timeline analysis, but most of the tools cannot handle large volumes of data efficiently. This paper looks at the effectiveness of employing neural network methodology for computer forensic analysis by preparing a timeline of relevant events occurring on a computing machine by tracing the previous file system activities. Our approach consists of monitoring the file system manipulations, capturing file system snapshots at discrete intervals of time to characterise the use of different software applications, and then using this captured data to train a neural network to recognise execution patterns of the application programs. The trained version of the network may then be used to generate a post-event timeline of a seized hard disk to verify the execution of different applications at different time intervals to assist in the identification of available evidence.
+ER  - 
+
+TY  - JOUR
+T1  - PalmCIS: A wireless handheld application for satisfying clinician information needs
+JO  - Journal of the American Medical Informatics Association
+VL  - 11
+IS  - 1
+SP  - 19
+EP  - 28
+PY  - 2004/1//
+Y2  - 2004/2//
+T2  - 
+AU  - Chen, Elizabeth S
+AU  - Mendonça, Eneida A
+AU  - McKnight, Lawrence K
+AU  - Stetson, Peter D
+AU  - Lei, Jianbo
+AU  - Cimino, James J
+SN  - 1067-5027
+DO  - http://dx.doi.org/10.1197/jamia.M1387
+UR  - http://www.sciencedirect.com/science/article/pii/S1067502703002020
+AB  - Wireless handheld technology provides new ways to deliver and present information. As with any technology, its unique features must be taken into consideration and its applications designed accordingly. In the clinical setting, availability of needed information can be crucial during the decision-making process. Preliminary studies performed at New York Presbyterian Hospital (NYPH) determined that there are inadequate access to information and ineffective communication among clinicians (potential proximal causes of medical errors). In response to these findings, the authors have been developing extensions to their Web-based clinical information system including PalmCIS, an application that provides access to needed patient information via a wireless personal digital assistant (PDA). The focus was on achieving end-to-end security and developing a highly usable system. This report discusses the motivation behind PalmCIS, design and development of the system, and future directions.
+ER  - 
+
+TY  - JOUR
+T1  - Log management for effective incident response
+JO  - Network Security
+VL  - 2005
+IS  - 9
+SP  - 4
+EP  - 7
+PY  - 2005/9//
+T2  - 
+AU  - Forte, Dario
+SN  - 1353-4858
+DO  - http://dx.doi.org/10.1016/S1353-4858(05)70279-8
+UR  - http://www.sciencedirect.com/science/article/pii/S1353485805702798
+AB  - Log file correlation is related to two distinct activities: Intrusion Detection and Network Forensics. It is more important than ever that these two disciplines work together, and in cooperation, to avoid points of failure. This article presents an overview of log analysis and correlation, with special emphasis on the tools and techniques for managing them within a network forensics context.
+ER  - 
+
+TY  - JOUR
+T1  - Automated consent through privacy agents: Legal requirements and technical architecture
+JO  - Computer Law & Security Review
+VL  - 25
+IS  - 2
+SP  - 136
+EP  - 144
+PY  - 2009///
+T2  - 
+AU  - Le Métayer, Daniel
+AU  - Monteleone, Shara
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/j.clsr.2009.02.010
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364909000387
+KW  - Privacy agents
+KW  - Legal analysis of consent
+KW  - Technical architecture
+KW  - RFID tags
+KW  - Pervasive computing
+KW  - Ambient intelligence
+KW  - Liability
+KW  - PET (Privacy Enhancing Technologies)
+AB  - The changes imposed by new information technologies, especially pervasive computing and the Internet, require a deep reflection on the fundamental values underlying privacy and the best way to achieve their protection. The explicit consent of the data subject, which is a cornerstone of most data protection regulations, is a typical example of requirement which is very difficult to put into practice in the new world of “pervasive computing” where many data communications necessarily occur without the users' notice. In this paper, we argue that an architecture based on “Privacy Agents” can make privacy rights protection more effective, provided however that this architecture meets a number of legal requirements to ensure the validity of consent delivered through such Privacy Agents. We first present a legal analysis of consent considering successively (1) its nature; (2) its essential features (qualities and defects) and (3) its formal requirements. Then we draw the lessons of this legal analysis for the design of a valid architecture based on Privacy Agents. To conclude, we suggest an implementation of this architecture proposed in a multidisciplinary project involving lawyers and computer scientists.
+ER  - 
+
+TY  - JOUR
+T1  - An ‘intelligent’ approach to audit trail analysis
+JO  - Computer Audit Update
+VL  - 1991
+IS  - 11
+SP  - 13
+EP  - 17
+PY  - 1991/11//
+T2  - 
+AU  - Hickman, Frank
+SN  - 0960-2593
+DO  - http://dx.doi.org/10.1016/0960-2593(91)90050-J
+UR  - http://www.sciencedirect.com/science/article/pii/096025939190050J
+ER  - 
+
+TY  - JOUR
+T1  - Economics and the cyber challenge
+JO  - Information Security Technical Report
+VL  - 17
+IS  - 1–2
+SP  - 9
+EP  - 18
+PY  - 2012/2//
+T2  - Human Factors and Bio-metrics
+AU  - Walker, Simon
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/j.istr.2011.12.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412711000860
+AB  - Economics can be used as a tool to explain, describe, and to a certain extent predict many forms of human behaviour. However, there is only a limited body of work on its application to information security, much of which is acknowledged as partial or incomplete. As a consequence, there is a paucity of robust explanatory or predictive models that are tuned for the peculiarities of the “cyber” challenge, either to organisations, or, at a higher level, the nation state.
+
+The effect of this is that the base arguments for information security business cases are often weak or flawed; as a result, there is an argument that both organisations and nation states will therefore tend to underinvest in information security. To improve this position, there would be benefits for information security, as a profession adopting economic models used in other areas of endeavour that historically have suffered similar problems. One potential model is full-cost accounting.
+
+However, there are a number of further implications. These include an underlining of the importance of information security professional “speaking business language”. Also highlighted is the potential value of building a common knowledge base of the true cost of security failures, akin to the actuarial bodies of knowledge used in the insurance industry, rather than the partial and imperfect measures in use today.
+ER  - 
+
+TY  - JOUR
+T1  - Information Systems Audit Trails in Legal Proceedings as Evidence
+JO  - Computers & Security
+VL  - 20
+IS  - 5
+SP  - 409
+EP  - 421
+PY  - 2001/7/1/
+T2  - 
+AU  - Allinson, Caroline
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(01)00513-2
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404801005132
+KW  - law enforcement
+KW  - audit trails
+KW  - evidence
+KW  - investigation, expert witness
+KW  - information security
+KW  - policy
+KW  - court
+KW  - survey
+KW  - computer
+AB  - Australian State and Commonwealth Governments are interested in the collection, storage and presentation of audit trail information, particularly within a legal framework. Law enforcement agencies have a legal obligation to keep audit records of all activity on information systems used within their operations. Little to no research has been identified in relation to the use of internal audit systems for evidentiary purpose.
+
+A brief history of audit trails is given with requirements for such audit trails beyond the year 2000.
+
+The Queensland Police Service (QPS), Australia, is used as a major case study . Information on principles, techniques and processes used, and the reason for the recording, storing and releasing of audit information for evidentiary purposes have been studied.
+
+To assist in determining current practice in the Australian Commonwealth and State Governments the results of an Australia wide survey of all government departments are given and contrasted to the major study for QPS.
+
+Reference is also made to the legal obligations for authorization of audit analysis, expert witnessing and legal precedence in relation to court acceptance or rejection of audit information used in evidence.
+
+It is shown that most organizations studied generate and retain audit trails but the approach is not consistent nor is it comprehensive. It is suggested that these materials would not withstand a serious legal challenge.
+ER  - 
+
+TY  - JOUR
+T1  - A model-integrated authoring environment for privacy policies
+JO  - Science of Computer Programming
+VL  - 89, Part B
+IS  - 
+SP  - 105
+EP  - 125
+PY  - 2014/9/1/
+T2  - Special issue on Success Stories in Model Driven Engineering
+AU  - Nadas, Andras
+AU  - Levendovszky, Tihamer
+AU  - Jackson, Ethan K.
+AU  - Madari, Istvan
+AU  - Sztipanovits, Janos
+SN  - 0167-6423
+DO  - http://dx.doi.org/10.1016/j.scico.2013.05.004
+UR  - http://www.sciencedirect.com/science/article/pii/S016764231300124X
+KW  - Privacy policies
+KW  - Model-integrated computing
+KW  - Constraint logic programming
+AB  - Abstract
+Privacy policies are rules designed to ensure that individuals’ health data are properly protected. Health Information Systems (HIS) are legally required to adhere to these policies. Since privacy policies are imposed on complex software systems, it is extremely hard to reason about their conformance and consistency. In order to address this problem, we have created a model-driven authoring environment to formally specify privacy policies originally defined in legal terms. In our observation, appropriate formalization of our policy language enabled formal analysis of its policies; these features were key to a successful model-driven engineering process. In this paper we present our modeling language and show its semantic anchoring to analyzable logic programs. We report on several projects where our approach is being applied and validated.
+ER  - 
+
+TY  - JOUR
+T1  - Intrusion detection aware component-based systems: A specification-based framework
+JO  - Journal of Systems and Software
+VL  - 80
+IS  - 5
+SP  - 700
+EP  - 710
+PY  - 2007/5//
+T2  - Component-Based Software Engineering of Trustworthy Embedded Systems
+AU  - Hussein, Mohammed
+AU  - Zulkernine, Mohammad
+SN  - 0164-1212
+DO  - http://dx.doi.org/10.1016/j.jss.2006.08.017
+UR  - http://www.sciencedirect.com/science/article/pii/S0164121206002263
+KW  - Component-based software engineering
+KW  - Component security
+KW  - UML profile
+KW  - Intrusion detection
+AB  - Component-Based Software Engineering (CBSE) increases the reusability of software and hence decreases software development time and cost. Unfortunately, developing components for maximum reusability and acquiring third party components invite many security related concerns. The security related issues are more crucial for embedded and real-time systems. Currently, many approaches are proposed to aid the development and evaluation of secure components. However, it is well known among practitioners that, like any other software entities, components cannot be completely secure. This fact leads us to incorporate intrusion detection facilities to equip components with mechanisms to discover intrusions against components. In this paper, we present a framework for developing components with intrusion detection capabilities. This framework uses UMLintr, a UML profile for intrusion specifications. The profile allows developers to specify intrusion scenarios using UML diagrams. Specifying intrusion scenarios using the same language that is used for specifying software behavior eliminates the need for separate languages for describing intrusions. Other software specification languages can be easily adopted into this framework. The outcome of this framework are components equipped with intrusion detectors. Based on UMLintr, a prototype is built and used to generate signatures for some intrusions included in the benchmark DARPA attack datasets. Furthermore, we describe an Intrusion Detection System (IDS) which uses these signatures to detect component intrusions.
+ER  - 
+
+TY  - JOUR
+T1  - Network intrusion investigation – Preparation and challenges
+JO  - Digital Investigation
+VL  - 3
+IS  - 3
+SP  - 118
+EP  - 126
+PY  - 2006/9//
+T2  - 
+AU  - Johnston, Andy
+AU  - Reust, Jessica
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2006.08.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287606000922
+KW  - Intrusion investigation
+KW  - Incident response
+KW  - Network forensics
+KW  - Digital forensic examination
+KW  - Compromise of sensitive information
+KW  - Forensic preparedness
+AB  - As new legislation is written mandating notification of affected parties following the compromise of confidential data, reliable investigative procedures into unauthorized access of such data assume increasing importance. The increasing costs and penalties associated with exposure of sensitive data can be mitigated through forensic preparation and the ability to employ digital forensics. A case study of the compromise of several systems containing sensitive data is outlined, with particular attention given to the procedures followed during the initial response and their impact on the subsequent digital forensic examination. Practical problems and challenges that arise in intrusion investigations are discussed, along with solutions and methodologies to address these issues. This case study illustrates both the importance of evaluating the evidence analyzed and of corroborating findings and conclusions with multiple independent sources of evidence. An initial response that incorporates forensic procedures provides a solid foundation for a successful and thorough forensic examination.
+ER  - 
+
+TY  - JOUR
+T1  - An Informatics Blueprint for Healthcare Quality Information Systems
+JO  - Journal of the American Medical Informatics Association
+VL  - 13
+IS  - 4
+SP  - 402
+EP  - 417
+PY  - 2006/7//
+Y2  - 2006/8//
+T2  - 
+AU  - Niland, Joyce C.
+AU  - Rouse, Layla
+AU  - Stahl, Douglas C.
+SN  - 1067-5027
+DO  - http://dx.doi.org/10.1197/jamia.M2050
+UR  - http://www.sciencedirect.com/science/article/pii/S1067502706000624
+AB  - There is a critical gap in our nation’s ability to accurately measure and manage the quality of medical care. A robust healthcare quality information system (HQIS) has the potential to address this deficiency through the capture, codification, and analysis of information about patient treatments and related outcomes. Because non-technical issues often present the greatest challenges, this paper provides an overview of these socio-technical issues in building a successful HQIS, including the human, organizational, and knowledge management (KM) perspectives. Through an extensive literature review and direct experience in building a practical HQIS (the National Comprehensive Cancer Network Outcomes Research Database system), we have formulated an “informatics blueprint” to guide the development of such systems. While the blueprint was developed to facilitate healthcare quality information collection, management, analysis, and reporting, the concepts and advice provided may be extensible to the development of other types of clinical research information systems.
+ER  - 
+
+TY  - JOUR
+T1  - Learning relational policies from electronic health record access logs
+JO  - Journal of Biomedical Informatics
+VL  - 44
+IS  - 2
+SP  - 333
+EP  - 342
+PY  - 2011/4//
+T2  - 
+AU  - Malin, Bradley
+AU  - Nyemba, Steve
+AU  - Paulett, John
+SN  - 1532-0464
+DO  - http://dx.doi.org/10.1016/j.jbi.2011.01.007
+UR  - http://www.sciencedirect.com/science/article/pii/S1532046411000098
+KW  - Electronic health records
+KW  - Organizational behavior
+KW  - Knowledge discovery
+KW  - Access logs
+KW  - Auditing
+AB  - Modern healthcare organizations (HCOs) are composed of complex dynamic teams to ensure clinical operations are executed in a quick and competent manner. At the same time, the fluid nature of such environments hinders administrators’ efforts to define access control policies that appropriately balance patient privacy and healthcare functions. Manual efforts to define these policies are labor-intensive and error-prone, often resulting in systems that endow certain care providers with overly broad access to patients’ medical records while restricting other providers from legitimate and timely use. In this work, we propose an alternative method to generate these policies by automatically mining usage patterns from electronic health record (EHR) systems. EHR systems are increasingly being integrated into clinical environments and our approach is designed to be generalizable across HCOs, thus assisting in the design and evaluation of local access control policies. Our technique, which is grounded in data mining and social network analysis theory, extracts a statistical model of the organization from the access logs of its EHRs. In doing so, our approach enables the review of predefined policies, as well as the discovery of unknown behaviors. We evaluate our approach with 5 months of access logs from the Vanderbilt University Medical Center and confirm the existence of stable social structures and intuitive business operations. Additionally, we demonstrate that there is significant turnover in the interactions between users in the HCO and that policies learned at the department-level afford greater stability over time.
+ER  - 
+
+TY  - JOUR
+T1  - Securing digital signatures for non-repudiation
+JO  - Computer Communications
+VL  - 22
+IS  - 8
+SP  - 710
+EP  - 716
+PY  - 1999/5/25/
+T2  - 
+AU  - Zhou, J.
+AU  - Lam, K.Y.
+SN  - 0140-3664
+DO  - http://dx.doi.org/10.1016/S0140-3664(99)00031-6
+UR  - http://www.sciencedirect.com/science/article/pii/S0140366499000316
+KW  - Digital signature
+KW  - Non-repudiation
+KW  - Secure electronic commerce
+AB  - Dispute of transactions is a common problem that could jeopardise business. Hence non-repudiation services are essential in business transactions which provide evidence to enable dispute resolution. To be eligible as non-repudiation evidence, the digital signature on an electronic document should remain valid until its expiry date which is specified by some non-repudiation policy. The conventional approaches are either inefficient or insecure to achieve non-repudiation in electronic commerce. This article presents a practical scheme to secure digital signatures as non-repudiation evidence with an adjustable degree of risk.
+ER  - 
+
+TY  - JOUR
+T1  - A transaction flow approach to software security certification for document handling systems
+JO  - Computers & Security
+VL  - 7
+IS  - 5
+SP  - 495
+EP  - 502
+PY  - 1988/10//
+T2  - 
+AU  - Pfleeger, Charles P.
+AU  - Pfleeger, Shari Lawrence
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(88)90203-9
+UR  - http://www.sciencedirect.com/science/article/pii/0167404888902039
+KW  - Security
+KW  - Certification
+KW  - Transaction
+KW  - Data flow
+KW  - Verification
+KW  - Validation
+KW  - Exposure
+KW  - Control
+AB  - A security certification method is described for a document handling system for a major government organization. The security evaluation process includes identification of the exposures of the system, determination of the controls that cover those exposures, and evaluation of the appropriateness and effectiveness of the controls. Included are the details of the analysis performed and the types of results expected in that analysis, both of which constitute the basic evaluation of the document handling system. The certification analysis approach can be extended naturally to other types of computing systems.
+ER  - 
+
+TY  - JOUR
+T1  - Security and performance in service-oriented applications: Trading off competing objectives
+JO  - Decision Support Systems
+VL  - 50
+IS  - 1
+SP  - 336
+EP  - 346
+PY  - 2010/12//
+T2  - 
+AU  - Zo, Hangjung
+AU  - Nazareth, Derek L.
+AU  - Jain, Hemant K.
+SN  - 0167-9236
+DO  - http://dx.doi.org/10.1016/j.dss.2010.09.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0167923610001715
+KW  - Service-oriented computing
+KW  - Application composition
+KW  - Performance
+KW  - Security
+KW  - Multiple criteria decision making
+AB  - As service-oriented computing becomes more prevalent, an increasing number of applications will be developed using existing software components with standard interfaces. These components may be developed in-house, may represent purchased software, or may involve vendor located leased services. The use of multiple services, possibly utilizing different technologies and different sources, has significant implications for the performance and security of these applications to support a business process effectively. Estimating performance and security in this distributed environment is a hard problem. This paper examines how performance and security measures can be developed for service-based applications. Business processes are broken down into constituent tasks and a formal mechanism is developed for deriving performance and security measures for the application. Given the competing nature of these two objectives, a tradeoff strategy is utilized wherein managers can trade improved performance for reduced security or vice versa. As the number of alternative services for each task increases, the composition problem becomes combinatorially explosive. A genetic algorithm approach is adopted to find the Pareto optimal set of services that can be assembled to support the business process. An application to a real-world business process illustrates its effectiveness.
+ER  - 
+
+TY  - JOUR
+T1  - General controls in computer systems
+JO  - Computers & Security
+VL  - 4
+IS  - 1
+SP  - 33
+EP  - 45
+PY  - 1985/3//
+T2  - 
+AU  - Cerullo, Michael J.
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(85)90007-0
+UR  - http://www.sciencedirect.com/science/article/pii/0167404885900070
+KW  - Internal control
+KW  - plan of organization
+KW  - operations controls
+KW  - system development and planning controls
+KW  - access controls
+KW  - documentation
+KW  - personnel controls
+KW  - operating system controls
+KW  - master planning
+KW  - contingency planning
+AB  - Because almost all business organizations own or will shortly own computer systems, auditors can no longer treat the computer as a “black box” to be ignored when attesting to the fairness with which financial statements present financial position and results of operations. This paper is primarily written for auditors who are becoming involved in auditing computerized accounting systems. It covers in detail general controls in computer systems, the first and most important category of controls evaluated by an auditor. General controls relate to all EDP activities; they span all jobs processed on the computer system. When they are weak or non-existing, the auditor must expand his testing of the entire computer system, often at considerable additional cost to the client.
+ER  - 
+
+TY  - JOUR
+T1  - A remote interactive non-repudiation multimedia-based m-learning system
+JO  - Telematics and Informatics
+VL  - 27
+IS  - 4
+SP  - 377
+EP  - 393
+PY  - 2010/11//
+T2  - 
+AU  - Adibi, Sasan
+SN  - 0736-5853
+DO  - http://dx.doi.org/10.1016/j.tele.2010.01.001
+UR  - http://www.sciencedirect.com/science/article/pii/S073658531000002X
+KW  - m-Leaning
+KW  - e-Learning
+KW  - Non-repudiation
+KW  - Identity management
+KW  - Multimedia interactive communication
+AB  - One of the current challenges regarding distance learning systems, from a performance point of view, is the efficient and timely delivery of multimedia-enriched learning materials. Providing guaranteed Class of Service (CoS) and Quality of Service (QoS) are also challenging especially for remote sites and rural areas where Internet coverage tends to be limited. On a different note, another challenge is to track the audience accessing the learning materials and more importantly to monitor the true identity of the examination attendees. This paper aims to investigate both of these issues simultaneously, with an introduction of a non-repudiation system that provides a security mechanism, as well as maintaining certain QoS measures. This system not only authenticates the intended party, but also integrates a digital signature scheme accompanied with the transmitted multimedia-based information. The included digital signature prevents a later dispute from the involved parties that the communication ever took place or they ever took part in the communication.
+
+Therefore this paper introduces and discusses a multimedia-enriched interactive non-repudiation system involved in a mobile-based learning (m-learning) environment. The performance of this system is considered and discussed in terms of network-centric parameters, including end-to-end delays, overhead, and bandwidth, using Labview 8.5 mobile-transmitter and mobile-receiver testbeds.
+ER  - 
+
+TY  - JOUR
+T1  - The future information system : The quality and security debate — Part 2
+JO  - Computer Fraud & Security Bulletin
+VL  - 1994
+IS  - 9
+SP  - 7
+EP  - 14
+PY  - 1994/9//
+T2  - 
+AU  - Blatchford, CliveW
+SN  - 0142-0496
+DO  - http://dx.doi.org/10.1016/0142-0496(94)90184-8
+UR  - http://www.sciencedirect.com/science/article/pii/0142049694901848
+AB  - This is the concluding part of the article in which Clive Blatchford outlines some of the current considerations in the Open Systems Information Security Integration.
+ER  - 
+
+TY  - JOUR
+T1  - How secure is the next generation of IP-based emergency services architecture?
+JO  - International Journal of Critical Infrastructure Protection
+VL  - 3
+IS  - 1
+SP  - 41
+EP  - 50
+PY  - 2010/5//
+T2  - 
+AU  - Tschofenig, Hannes
+AU  - Arumaithurai, Mayutan
+AU  - Schulzrinne, Henning
+AU  - Aboba, Bernard
+SN  - 1874-5482
+DO  - http://dx.doi.org/10.1016/j.ijcip.2010.02.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1874548210000028
+KW  - Emergency services architecture
+KW  - Ecrit
+AB  - For some location-based applications, such as emergency calling or roadside assistance, it appears that the identity of the requester is less important than accurate and trustworthy location information for accomplishing the main function. Accurate and genuine location is important for these applications to avoid misuse.
+
+In this paper we point to some ongoing efforts regarding transition emergency service architectures that could introduce security vulnerabilities unless countermeasures are developed. Furthermore, we summarize the ongoing work in providing cryptographic assertions for location.
+
+We argue that many of the currently proposed ideas are difficult to deploy and to operate. Additionally, when used without ensuring that the underlying assumptions are met these mechanisms do not provide any additional benefit, but costs.
+
+We conclude this article with a suggestion on what the research community and industry should be investigating to avoid potential problems with IP-based emergency services.
+ER  - 
+
+TY  - JOUR
+T1  - File Marshal: Automatic extraction of peer-to-peer data
+JO  - Digital Investigation
+VL  - 4, Supplement
+IS  - 
+SP  - 43
+EP  - 48
+PY  - 2007/9//
+T2  - 
+AU  - Adelstein, Frank
+AU  - Joyce, Robert A.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2007.06.016
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287607000400
+KW  - Peer-to-peer
+KW  - P2P
+KW  - Forensics
+KW  - LimeWire
+KW  - File sharing
+AB  - Digital forensic investigators often find peer-to-peer, or file sharing, software present on the computers, or the images of the disks, that they examine. Investigators must first determine what P2P software is present and where the associated information is stored, retrieve the information from the appropriate directories, and then analyze the results. File Marshal is a tool that will automatically detect and analyze peer-to-peer client use on a disk. The tool automates what is currently a manual and labor intensive process. It will determine what clients currently are or have been installed on a machine, and then extracts per-user usage information, specifically a list of peer servers contacted, and files that were shared and downloaded. The tool was designed to perform its actions in a forensically sound way, including maintaining a detailed audit trail of all actions performed. File Marshal is extensible, using a configuration file to specify details about specific peer-to-peer clients (e.g., location of log files and registry keys indicating installation). This paper describes the general design and features of File Marshal, its current status, and the plans for continued development and release. When complete, File Marshal, a National Institute of Justice funded effort, will be disseminated to law enforcement at no cost.
+ER  - 
+
+TY  - JOUR
+T1  - The enemy within: the inherent security risks of temporary staff
+JO  - Computer Fraud & Security
+VL  - 2014
+IS  - 5
+SP  - 5
+EP  - 7
+PY  - 2014/5//
+T2  - 
+AU  - Liu, Ching
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(14)70489-0
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372314704890
+AB  - Since the credit crunch and the subsequent tentative recovery, there has been a boom in the use of temporary staff. According to the Chartered Institute of Personnel and Development's (CIPD) Labour Market Outlook Survey last year, employers reported that 29% of new recruits will be employed on this basis.1
+
+There is a growing issue with fraudsters taking positions with companies as temporary staff with the sole intention of learning their systems and procedures so they can later commit fraud.
+
+The risk of fraud has been exacerbated by the growth of ‘Bring Your Own Device’ (BYOD) on many company networks. IT departments need to effectively control BYOD users, especially temporary ones, and look at what privileges temporary staff are given, explains Ching Liu of Control Risks.
+ER  - 
+
+TY  - JOUR
+T1  - How to supervise and control I/S Security Officers and Auditors
+JO  - Computers & Security
+VL  - 6
+IS  - 1
+SP  - 17
+EP  - 21
+PY  - 1987/2//
+T2  - 
+AU  - Moulton, Rolf T.
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(87)90121-0
+UR  - http://www.sciencedirect.com/science/article/pii/0167404887901210
+KW  - IS security
+KW  - IS audit
+KW  - Computer audit
+KW  - Access control
+KW  - IS supervision
+KW  - IS management
+KW  - IS responsibilities
+AB  - Information system Security Officers (ISSO) and Information System Auditors (ISA) can have similar capabilities with respect to asset access. Their supervision and control requires special consideration by management because they may literally have the keys to all of the organization's information and physical assets. The managers of each of those employees must be directly accountable for the individual's supervision. The same suggestions which are described for ISSO supervision apply to ISA supervision. Further, each is in a unique position to audit the activities of the other. Recommendations are provided to accomplish this “audit of the auditors.”
+ER  - 
+
+TY  - JOUR
+T1  - Security views
+JO  - Computers & Security
+VL  - 22
+IS  - 8
+SP  - 654
+EP  - 663
+PY  - 2003/12//
+T2  - 
+AU  - Schultz, Eugene
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(03)00002-6
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404803000026
+ER  - 
+
+TY  - JOUR
+T1  - Teleservice requirements for management
+JO  - Computer Networks and ISDN Systems
+VL  - 26, Supplement 4
+IS  - 
+SP  - S163
+EP  - S178
+PY  - 1995///
+T2  - 
+AU  - da Cruz, Alina
+AU  - Lewis, Dave
+AU  - Crowcroft, Jon
+SN  - 0169-7552
+DO  - http://dx.doi.org/10.1016/0169-7552(95)90004-7
+UR  - http://www.sciencedirect.com/science/article/pii/0169755295900047
+KW  - Teleservice
+KW  - OSI
+KW  - QoS
+AB  - Future advances in conferencing will make it feasible to build servers which collaborate to provide services similar to those of an airline booking system over the networks. Such servers should be able to support real-time queries and modifications to the information stored. We present the management requirements for the services that are providd by these servers.
+ER  - 
+
+TY  - JOUR
+T1  - IMENSE: An e-infrastructure environment for patient specific multiscale data integration, modelling and clinical treatment
+JO  - Journal of Computational Science
+VL  - 3
+IS  - 5
+SP  - 314
+EP  - 327
+PY  - 2012/9//
+T2  - Advanced Computing Solutions for Health Care and Medicine
+AU  - Zasada, Stefan J.
+AU  - Wang, Tao
+AU  - Haidar, Ali
+AU  - Liu, Enjie
+AU  - Graf, Norbert
+AU  - Clapworthy, Gordon
+AU  - Manos, Steven
+AU  - Coveney, Peter V.
+SN  - 1877-7503
+DO  - http://dx.doi.org/10.1016/j.jocs.2011.07.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1877750311000639
+KW  - Clinical decision support
+KW  - Electronic health records
+KW  - Virtual Physiological Human
+KW  - Medical data management
+AB  - Secure access to patient data and analysis tools to run on that data will revolutionize the treatment of a wide range of diseases, by using advanced simulation techniques to underpin the clinical decision making process. To achieve these goals, suitable e-Science infrastructures are required to allow clinicians and researchers to trivially access data and launch simulations. In this paper we describe the open source Individualized MEdiciNe Simulation Environment (IMENSE), which provides a platform to securely manage clinical data, and to perform wide ranging analysis on that data, ultimately with the intention of enhancing clinical decision making with direct impact on patient health care. We motivate the design decisions taken in the development of the IMENSE system by considering the needs of researchers in the ContraCancrum project, which provides a paradigmatic case in which clinicians and researchers require coordinated access to data and simulation tools. We show how the modular nature of the IMENSE system makes it applicable to a wide range of biomedical computing scenarios, from within a single hospital to major international research projects.
+ER  - 
+
+TY  - JOUR
+T1  - Tree-formed verification data for trusted platforms
+JO  - Computers & Security
+VL  - 32
+IS  - 
+SP  - 19
+EP  - 35
+PY  - 2013/2//
+T2  - 
+AU  - Schmidt, Andreas U.
+AU  - Leicher, Andreas
+AU  - Brett, Andreas
+AU  - Shah, Yogendra
+AU  - Cha, Inhyok
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2012.09.004
+UR  - http://www.sciencedirect.com/science/article/pii/S016740481200140X
+KW  - Trusted platform
+KW  - Remote attestation
+KW  - Hash tree
+KW  - Measurement log
+KW  - Verification data
+KW  - Validation
+AB  - The establishment of trust relationships to a computing platform relies on validation processes. Validation allows an external entity to build trust in the expected behaviour of the platform based on provided evidence of the platform's configuration. In a process like remote attestation, the ‘trusted’ platform submits verification data created during a start up process. These data consist of hardware-protected values of platform configuration registers, containing nested measurement values, e.g., hash values, of loaded or started components. Commonly, the register values are created in linear order by a hardware-secured operation. Fine-grained diagnosis of components, based on the linear order of verification data and associated measurement logs, is not optimal. We propose a method to use tree-formed verification data to validate a platform. Component measurement values represent leaves, and protected registers represent roots of a hash tree. We describe the basic mechanism of validating a platform using tree-formed measurement logs and root registers and show a logarithmic speed-up for the search of faults. Secure creation of a tree is possible using a limited number of hardware-protected registers and a single protected operation. In this way, the security of tree-formed verification data is maintained.
+ER  - 
+
+TY  - JOUR
+T1  - Development of Information Security Baselines for Healthcare Information Systems in New Zealand
+JO  - Computers & Security
+VL  - 21
+IS  - 2
+SP  - 172
+EP  - 192
+PY  - 2002/3/31/
+T2  - 
+AU  - Janczewski, Lech
+AU  - Xinli Shi, Frank
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/S0167-4048(02)00212-2
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404802002122
+KW  - healthcare information systems
+KW  - electronic medical records
+KW  - information privacy
+KW  - information security baselines
+KW  - security model
+AB  - In 1996 New Zealand had introduced security standard AS/NZCS 4444 based on the British Standard BS 7799, which has recently been accepted as an international standard ISO 17799. This standard is very often referred to as the ‘baseline lane approach’ to the issue of managing information security. On the other hand the health information systems (HIS) are undergoing rapid development both in the number of installed systems as in the law and regulations governing HIS developments and deployment. The project was aimed at reviewing the AS/NZCS 4444 standard from the HIS requirements point of view. In this paper, we began with an overview of healthcare information systems (HIS) infrastructure in New Zealand and associated security issues around privacy and confidentiality, followed by a general review of the security baseline approach. We analyzed each clause of the AS/NZS 4444 with the information collected about technical and non-technical approaches to protecting HIS, consisting of a series of multi-case studies of healthcare organizations that collect, process, store and transmit electronic medical records. Finally, we proposed a new set of information security baselines based on the research to build an information security model for healthcare organizations.
+ER  - 
+
+TY  - JOUR
+T1  - MEGA: A tool for Mac OS X operating system and application forensics
+JO  - Digital Investigation
+VL  - 5, Supplement
+IS  - 
+SP  - S83
+EP  - S90
+PY  - 2008/9//
+T2  - The Proceedings of the Eighth Annual DFRWS Conference
+AU  - Joyce, Robert A.
+AU  - Powers, Judson
+AU  - Adelstein, Frank
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2008.05.011
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287608000376
+KW  - Mac OS X
+KW  - Computer forensics
+KW  - Spotlight
+KW  - Disk image analysis
+KW  - Application analysis
+AB  - Computer forensic tools for Apple Mac hardware have traditionally focused on low-level file system details. Mac OS X and common applications on the Mac platform provide an abundance of information about the user's activities in configuration files, caches, and logs. We are developing MEGA, an extensible tool suite for the analysis of files on Mac OS X disk images. MEGA provides simple access to Spotlight metadata maintained by the operating system, yielding efficient file content search and exposing metadata such as digital camera make and model. It can also help investigators to assess FileVault encrypted home directories. MEGA support tools are under development to interpret files written by common Mac OS applications such as Safari, Mail, and iTunes.
+ER  - 
+
+TY  - JOUR
+T1  - Baseline controls in some vital but often-overlooked areas of your information protection programme
+JO  - Computer Fraud & Security
+VL  - 2007
+IS  - 12
+SP  - 17
+EP  - 20
+PY  - 2007/12//
+T2  - 
+AU  - Forte, Dario
+AU  - Power, Richard
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(07)70170-7
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372307701707
+AB  - Dario Forte &amp; Richard Power look at the baseline.
+ER  - 
+
+TY  - JOUR
+T1  - Security Views - Malware Update
+JO  - Computers & Security
+VL  - 25
+IS  - 5
+SP  - 317
+EP  - 324
+PY  - 2006/7//
+T2  - 
+
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/j.cose.2006.06.003
+UR  - http://www.sciencedirect.com/science/article/pii/S0167404806000952
+ER  - 
+
+TY  - JOUR
+T1  - Tool review—WinHex
+JO  - Digital Investigation
+VL  - 1
+IS  - 2
+SP  - 114
+EP  - 128
+PY  - 2004/6//
+T2  - 
+AU  - Casey, Eoghan
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2004.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287604000295
+KW  - Digital forensics tool testing
+KW  - Digital evidence preservation
+KW  - Forensic examination
+KW  - File systems
+KW  - Data recovery
+AB  - This paper presents strengths and shortcomings of WinHex Specialist Edition (version 11.25 SR-7) in the context of the overall digital forensics process, focusing on its ability to preserve and examine data on storage media. No serious problems were found during non-exhaustive testing of the tool's ability to create a forensic image of a disk, and to verify the integrity of an image. Generally accepted data sets were used to test WinHex's ability to reliably and accurately interpret file date–time stamps, recover deleted files, and search for keywords. The results of these tests are summarized in this paper. Certain advanced examination capabilities were also evaluated, including the creation of custom templates to interpret EXT2/EXT3 file systems. Based on this review, several enhancements are proposed. In addition to these results, this paper demonstrates a systematic approach to evaluating similar forensic tools.
+ER  - 
+
+TY  - JOUR
+T1  - A higher level of computer security through active policies
+JO  - Computers & Security
+VL  - 14
+IS  - 2
+SP  - 147
+EP  - 157
+PY  - 1995///
+T2  - 
+AU  - Abrams, Marshall D.
+AU  - Moffett, Jonathan D.
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(95)97048-F
+UR  - http://www.sciencedirect.com/science/article/pii/016740489597048F
+KW  - Monitor
+KW  - Active
+KW  - Passive
+KW  - Reference Monitor
+KW  - Policies
+KW  - Distributed systems
+KW  - Assurance
+AB  - This paper views the Reference Monitor in a new framework that makes it possible to generalize from passive to active monitors. It describes a major trend in the evolution of information systems security. The concepts are a practical reflection of real-world needs, expressed in a theoretical framework. The approach of employing active and passive policies provides a higher level of security than would otherwise be possible. The passive traditional Reference Monitor that interprets security policies and permits or prohibits access requests is supplemented by an active monitor to initiate behavior, such as taking positive actions to maintain integrity, taking recovery actions to restore situations after failures, and regularly monitoring the system. This extension to enforcement of various policies supports distributed systems architectures as the appropriate model for thinking about information technology (IT) security.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy, trust and policy-making: Challenges and responses
+JO  - Computer Law & Security Review
+VL  - 25
+IS  - 1
+SP  - 69
+EP  - 83
+PY  - 2009///
+T2  - 
+AU  - Wright, David
+AU  - Gutwirth, Serge
+AU  - Friedewald, Michael
+AU  - De Hert, Paul
+AU  - Langheinrich, Marc
+AU  - Moscibroda, Anna
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/j.clsr.2008.11.004
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364908001672
+KW  - Ambient intelligence
+KW  - Profiling
+KW  - RFID
+KW  - Data Protection
+KW  - Privacy
+KW  - Information Society Policies
+AB  - The authors contend that the emerging ubiquitous Information Society (aka ambient intelligence, pervasive computing, ubiquitous networking and so on) will raise many privacy and trust issues that are context dependent. These issues will pose many challenges for policy-makers and stakeholders because people's notions of privacy and trust are different and shifting. People's attitudes towards privacy and protecting their personal data can vary significantly according to differing circumstances. In addition, notions of privacy and trust are changing over time. The authors provide numerous examples of the challenges facing policy-makers and identify some possible responses, but they see a need for improvements in the policy-making process in order to deal more effectively with varying contexts. They also identify some useful policy-making tools. They conclude that the broad brush policies of the past are not likely to be adequate to deal with the new challenges and that we are probably entering an era that will require development of “micro-policies”. While the new technologies will pose many challenges, perhaps the biggest challenge of all will be to ensure coherence of these micro-policies.
+ER  - 
+
+TY  - JOUR
+T1  - NADIR: An automated system for detecting network intrusion and misuse
+JO  - Computers & Security
+VL  - 12
+IS  - 3
+SP  - 235
+EP  - 248
+PY  - 1993/5//
+T2  - 
+AU  - Hochberg, Judith
+AU  - Jackson, Kathleen
+AU  - Stallings, Cathy
+AU  - McClary, J.F.
+AU  - DuBois, David
+AU  - Ford, Josephine
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(93)90110-Q
+UR  - http://www.sciencedirect.com/science/article/pii/016740489390110Q
+KW  - Computer security
+KW  - intrusion detection
+KW  - misuse detection
+KW  - anomaly detection
+KW  - expert system
+AB  - This paper describes a misuse detection system for Los Alamos National Laboratory's Integrated Computing Network (ICN). This automated expert system, the Network Anomaly Detection and Intrusion Reporter (NADIR), streamlines and supplements the manual audit record review traditionally performed by security auditors. NADIR compares network activity, as summarized in weekly profiles of individual users and the ICN as a whole, against expert rules that define security policy and improper or suspicious behaviour. NADIR reports suspicious behaviour to security auditors and provides tools to aid in follow-up investigations. This paper describes analysis by NADIR of two types of ICN activity: user authentication and access control, and mass file storage. It highlights system design issues of data handling, exploiting existing auditing systems, and performing audit analysis at the network level.
+ER  - 
+
+TY  - JOUR
+T1  - A security framework for a workflow-based grid development platform
+JO  - Computer Standards & Interfaces
+VL  - 32
+IS  - 5–6
+SP  - 230
+EP  - 245
+PY  - 2010/10//
+T2  - Information and communications security, privacy and trust: Standards and Regulations
+AU  - Vivas, José L.
+AU  - Fernández-Gago, Carmen
+AU  - Lopez, Javier
+AU  - Benjumea, Andrés
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2009.04.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548909000270
+KW  - Grid
+KW  - Security framework
+KW  - Security services
+KW  - Virtual organizations
+AB  - This paper describes the security framework that is to be developed for the generic grid platform created for the project GREDIA. This platform is composed of several components that need to be secured. The platform uses the OGSA standards, so that the security framework will follow GSI, the portion of Globus that implements security. Thus, we will show the security features that GSI already provides and we will outline which others need to be created or enhanced.
+ER  - 
+
+TY  - JOUR
+T1  - Implementing interoperable provenance in biomedical research
+JO  - Future Generation Computer Systems
+VL  - 34
+IS  - 
+SP  - 1
+EP  - 16
+PY  - 2014/5//
+T2  - Special Section: Distributed Solutions for Ubiquitous Computing and Ambient Intelligence
+AU  - Curcin, V.
+AU  - Miles, S.
+AU  - Danger, R.
+AU  - Chen, Y.
+AU  - Bache, R.
+AU  - Taweel, A.
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/j.future.2013.12.001
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X13002653
+KW  - Provenance
+KW  - Biomedical informatics
+AB  - Abstract
+The provenance of a piece of data refers to knowledge about its origin, in terms of the entities and actors involved in its creation, e.g. data sources used, operations carried out on them, and users enacting those operations. Provenance is used to better understand the data and the context of its production, and to assess its reliability, by asserting whether correct procedures were followed. Providing evidence for validating research is of particular importance in the biomedical domain, where the strength of the results depends on the data sources and processes used. In recent times, previously manual processes have become fully or semi-automated, e.g. clinical trial recruitment, epidemiological studies, diagnosis making. The latter is typically achieved through interactions of heterogeneous software systems in multiple settings (hospitals, clinics, academic and industrial research organisations). Provenance traces of these software need to be integrated in a consistent and meaningful manner, but since these software systems rarely share a common platform, the provenance interoperability between them has to be achieved on the level of conceptual models. It is a non-trivial matter to determine where to start in making a biomedical software system provenance-aware. In this paper, we specify recommendations to developers on how to approach provenance modelling, capture, security, storage and querying, based on our experiences with two large-scale biomedical research projects: Translational Research and Patient Safety in Europe (TRANSFoRm) and Electronic Health Records for Clinical Research (EHR4CR). While illustrated with concrete issues encountered, the recommendations are of a sufficiently high level so as to be reusable across the biomedical domain.
+ER  - 
+
+TY  - JOUR
+T1  - Developing a Windows NT security policy
+JO  - Information Security Technical Report
+VL  - 3
+IS  - 3
+SP  - 31
+EP  - 43
+PY  - 1998///
+T2  - 
+AU  - White, Ian
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/S1363-4127(98)80029-0
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412798800290
+AB  - The choice of Windows NT as the strategic platform for the desktop and shared application server is becoming more widespread. A challenge for the security team is to provide guidelines on the minimum level of security controls that should be implemented on these systems. This article discusses some of the controls that might be expected to be included within such a Windows NT Security Policy (the policy).
+ER  - 
+
+TY  - JOUR
+T1  - A survey of password mechanisms: Weaknesses and potential improvements. Part 1
+JO  - Computers & Security
+VL  - 8
+IS  - 7
+SP  - 587
+EP  - 604
+PY  - 1989/11//
+T2  - 
+AU  - Jobusch, David L.
+AU  - Oldehoeft, Arthur E.
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(89)90051-5
+UR  - http://www.sciencedirect.com/science/article/pii/0167404889900515
+KW  - Authentication
+KW  - Passwords
+KW  - UNIX
+KW  - Pass-phrases
+AB  - While research continues on more sophisticated methods of authentication, password mechanisms remain the predominant method of identifying computer system users. In this paper, the goals of authentication are reviewed, and the strengths and vulnerabilities of password mechanisms are discussed. The 4.3 Berkeley Software Distribution (4.3BSD) version of UNIX is used as a case study throughout the paper. Several recommendations are presented for the improvement of password mechanisms. In particular, a simple extension of the UNIX password system is described that permits the use of pass-phrases.
+ER  - 
+
+TY  - JOUR
+T1  - Guide for authors
+JO  - Computers & Security
+VL  - 12
+IS  - 4
+SP  - 419
+EP  - 
+PY  - 1993/6//
+T2  - 
+
+SN  - 0167-4048
+DO  - http://dx.doi.org/10.1016/0167-4048(93)90030-9
+UR  - http://www.sciencedirect.com/science/article/pii/0167404893900309
+ER  - 
+
+TY  - JOUR
+T1  - The growing need for on-scene triage of mobile devices
+JO  - Digital Investigation
+VL  - 6
+IS  - 3–4
+SP  - 112
+EP  - 124
+PY  - 2010/5//
+T2  - Embedded Systems Forensics: Smart Phones, GPS Devices, and Gaming Consoles
+AU  - Mislan, Richard P.
+AU  - Casey, Eoghan
+AU  - Kessler, Gary C.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2010.03.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287610000149
+KW  - Mobile device forensics
+KW  - Cell phone forensics
+KW  - On-scene triage inspection
+KW  - Mobile device technician
+AB  - The increasing number of mobile devices being submitted to Digital Forensic Laboratories (DFLs) is creating a backlog that can hinder investigations and negatively impact public safety and the criminal justice system. In a military context, delays in extracting intelligence from mobile devices can negatively impact troop and civilian safety as well as the overall mission. To address this problem, there is a need for more effective on-scene triage methods and tools to provide investigators with information in a timely manner, and to reduce the number of devices that are submitted to DFLs for analysis. Existing tools that are promoted for on-scene triage actually attempt to fulfill the needs of both on-scene triage and in-lab forensic examination in a single solution. On-scene triage has unique requirements because it is a precursor to and distinct from the forensic examination process, and may be performed by mobile device technicians rather than forensic analysts. This paper formalizes the on-scene triage process, placing it firmly in the overall forensic handling process and providing guidelines for standardization of on-scene triage. In addition, this paper outlines basic requirements for automated triage tools.
+ER  - 
+
+TY  - JOUR
+T1  - SoTE: Strategy of Triple-E on solving Trojan defense in Cyber-crime cases
+JO  - Computer Law & Security Review
+VL  - 26
+IS  - 1
+SP  - 52
+EP  - 60
+PY  - 2010/1//
+T2  - 
+AU  - Kao, Da-Yu
+AU  - Wang, Shiuh-Jeng
+AU  - Fu-Yuan Huang, Frank
+SN  - 0267-3649
+DO  - http://dx.doi.org/10.1016/j.clsr.2009.09.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0267364909001575
+KW  - Cyber-crime
+KW  - Cyber criminology
+KW  - Digital evidence
+KW  - Trojan defense
+KW  - Triple-E strategy
+AB  - Cyber activity has become an essential part of the general public's everyday life. The hacking threats of Cyber-crime are becoming more sophisticated as internet communication services are more popular. To further confirm the final finding of Cyber-crime, this study proposes three analytical tools to clarify the Cyber-crime issues by means of Ideal Log, M-N model and MDFA (Multi-faceted Digital Forensics Analysis) strategy, where Ideal Log is identified as a traceable element of digital evidence including four elements of IP Address, Timestamp, Digital Action, and Response Message. M-N model applies a formal method for collating and analyzing data sets of investigation-relevant logs in view of connected time with ISP logs. MDFA strategy attempts to outline the basic elements of Cyber-crime using new procedural investigative steps, and combining universal types of evidential information in terms of Evidence, Scene, Victim, and Suspect. After researchers figure out what has happened in Cyber-crime events, it will be easier to communicate with offenders, victims or related people. SoTE (Strategy of Triple-E) is discussed to observe Cyber-crime from the viewpoints of Education, Enforcement and Engineering. That approach is further analyzed from the fields of criminology, investigation and forensics. Each field has its different focus in dealing with diverse topics, such as: the policy of 6W1H (What, Which, When, Where, Who, Why, and How) questions, the procedure of MDFA strategy, the process of ideal Logs and M-N model. In addition, the case study and proposed suggestion of this paper are presented to counter Cyber-crime.
+ER  - 
+
+TY  - JOUR
+T1  - The establishment of a pilot telemedical information society
+JO  - Future Generation Computer Systems
+VL  - 15
+IS  - 2
+SP  - 133
+EP  - 156
+PY  - 1999/3/11/
+T2  - 
+AU  - Marsh, Andy
+SN  - 0167-739X
+DO  - http://dx.doi.org/10.1016/S0167-739X(98)00059-4
+UR  - http://www.sciencedirect.com/science/article/pii/S0167739X98000594
+KW  - Telemedicine
+KW  - Information society
+KW  - World Wide Web
+AB  - National and international telecommunication infrastructures have been set up through Europe to facilitate the movement of information. One major benefactor of the improved communication infrastructures is the health care community. The accessibility and interoperability of medical information systems is one of the grand challenges for the 21st century. Within Europe current developments in the application of telemedicine are being defined in separate initiatives. There are a number of pilot actions concentrating on various aspects of telemedicine. These actions involving the introduction of new technology or working practices rarely fail for technology related problems. However, in order to fully assess the likely take-up of telemedical technologies it is vital that all the aspects including non-technical are also addressed.
+
+This paper describes how a complete pilot telemedical information society will be set up which facilitates to support secure and standardised remote diagnosis, teleconsultations and advanced medical facilities in a number of sectors covering a crucial spectrum of those required to support a complete telemedical information society. This pilot testbed will then be assessed in the context of a European environment identifying a business plan for its extension to other member states therefore promoting a truly international telemedical information society for the 21st century.
+ER  - 
+
+TY  - JOUR
+T1  - The first 10 years of the Trojan Horse defence
+JO  - Computer Fraud & Security
+VL  - 2015
+IS  - 1
+SP  - 5
+EP  - 13
+PY  - 2015/1//
+T2  - 
+AU  - Bowles, Stephen
+AU  - Hernandez-Castro, Julio
+SN  - 1361-3723
+DO  - http://dx.doi.org/10.1016/S1361-3723(15)70005-9
+UR  - http://www.sciencedirect.com/science/article/pii/S1361372315700059
+AB  - Apprehended criminals throughout history have always attempted to put the blame on someone else, a strategy popularly known as a SODDI defence (Some Other Dude Did It). When this defence is used, the act of the crime (actus reus) and the guilty mind (mens rea) is blamed on another party. A Trojan Horse Defence (THD) is a type of modern SODDI defence, where the mens rea and actus reus are blamed on a piece of software, known as a trojan.1
+
+It has now become common for people accused of some computer-related crime to claim that the responsibility lies with malware placed on their machine without their knowledge.
+
+This so-called Trojan Horse Defence (THD) was first used a decade ago. In this article, Stephen Bowles and Julio Hernandez-Castro of the University of Kent undertake a timely retrospective with an in-depth and critical literature review plus a detailed look at the peculiarities of many court cases from around the world.
+ER  - 
+
+TY  - JOUR
+T1  - FriendlyRoboCopy: A GUI to RoboCopy for computer forensic investigators
+JO  - Digital Investigation
+VL  - 4
+IS  - 1
+SP  - 16
+EP  - 23
+PY  - 2007/3//
+T2  - 
+AU  - LaVelle, Claire
+AU  - Konrad, Almudena
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2007.01.001
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287607000023
+KW  - Digital forensics
+KW  - Network forensics
+KW  - Drive mapping
+KW  - RoboCopy application
+KW  - Microsoft OS forensics
+KW  - Network system administration
+KW  - NAS
+KW  - Computer cluster
+KW  - Graphical User Interface
+KW  - Perl
+KW  - Open Source application
+AB  - One of the most pressing challenges in digital investigations today is the extraction and forensic preservation of a subset of data on computer clusters and other large storage systems. As the number and capacity of computer systems increases, it is no longer feasible to create forensic duplicates of every system in their entirety. Although forensic tools are being developed to cope with such situations, they do not support all file systems. Experienced digital investigators use tools such as RoboCopy to preserve a subset of data on target systems, and take steps to document their process and results. This paper explores the need for these tools in digital investigations, and demonstrates the strengths and weaknesses of using RoboCopy to acquire data on a network share. This paper then introduces FriendlyRoboCopy, which provides an effective, user-friendly interface to RoboCopy that addresses the requirements of forensic preservation.
+ER  - 
+
+TY  - JOUR
+T1  - Catching the malicious insider
+JO  - Information Security Technical Report
+VL  - 13
+IS  - 4
+SP  - 220
+EP  - 224
+PY  - 2008/11//
+T2  - 
+AU  - Jones, Andy
+SN  - 1363-4127
+DO  - http://dx.doi.org/10.1016/j.istr.2008.10.008
+UR  - http://www.sciencedirect.com/science/article/pii/S1363412708000526
+KW  - Insider
+KW  - Defence
+KW  - Detection holistic
+AB  - This paper looks at the issue of the malicious insider and at a range of the environmental and technical issues that have led to the current situation. The paper also examines why the threat from the malicious insider is changing and looks at a range of measures that can be taken in order to minimise the likelihood of an attack and to enhance the probability of detection in the case of an attack.
+ER  - 
+
+TY  - JOUR
+T1  - Analyzing multiple logs for forensic evidence
+JO  - Digital Investigation
+VL  - 4, Supplement
+IS  - 
+SP  - 82
+EP  - 91
+PY  - 2007/9//
+T2  - 
+AU  - Arasteh, Ali Reza
+AU  - Debbabi, Mourad
+AU  - Sakha, Assaad
+AU  - Saleh, Mohamed
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2007.06.013
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287607000448
+KW  - Forensic analysis
+KW  - Log analysis
+KW  - Formal methods
+KW  - Model checking
+KW  - Logging systems
+KW  - Log correlation
+AB  - Information stored in logs of a computer system is of crucial importance to gather forensic evidence of investigated actions or attacks. Analysis of this information should be rigorous and credible, hence it lends itself to formal methods. We propose a model checking approach to the formalization of the forensic analysis of logs. A set of logs is modeled as a tree whose labels are events extracted from the logs. In order to provide a structure to these events, we express each event as a term of algebra. The signature of the algebra is carefully chosen to include all relevant information necessary to conduct the analysis. Properties of the model, attack scenarios, and event sequences are expressed as formulas of a logic having dynamic, linear, temporal, and modal characteristics. Moreover, we provide a tableau-based proof system for this logic upon which a model checking algorithm can be developed. We use our model in a case study to demonstrate how events leading to an SYN attack can be reconstructed from a number of system logs.
+ER  - 
+
+TY  - JOUR
+T1  - AlmaNebula: A Computer Forensics Framework for the Cloud
+JO  - Procedia Computer Science
+VL  - 19
+IS  - 
+SP  - 139
+EP  - 146
+PY  - 2013///
+T2  - The 4th International Conference on Ambient Systems, Networks and Technologies (ANT 2013), the 3rd International Conference on Sustainable Energy Information Technology (SEIT-2013)
+AU  - Federici, Corrado
+SN  - 1877-0509
+DO  - http://dx.doi.org/10.1016/j.procs.2013.06.023
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050913006315
+KW  - Forensics as a service
+KW  - Computer forensics framework
+KW  - Commodity computing
+KW  - Big data
+KW  - Web scale
+KW  - Distributed processing
+AB  - Abstract
+Scalability, fault tolerance and collaborative processing across possibly dispersed sites are key enablers of modern computer forensics applications, that must be able to elastically accommodate all kinds of digital investigations, without wasting resources or fail to deliver timely outcomes. Traditional tools running in a standalone or client- server setups may fall short when handling the multi terabyte scale of a case just above average or, conversely, lie mainly underutilized when dealing with few digital evidences. A new category of applications that leverage the opportunities offered by modern Cloud Computing (CC) platforms, where scalable computational power and storage capacity can be engaged and decommissioned on demand, allow one to conveniently master huge amounts of information that otherwise could be impossible to wield. This paper discusses the design goals, technical requirements and architecture of AlmaNebula, a conceptual framework for the analysis of digital evidences built on top of a Cloud infrastructure, which aims to embody the concept of “Forensics as a service”.
+ER  - 
+
+TY  - JOUR
+T1  - Privacy-preserving network flow recording
+JO  - Digital Investigation
+VL  - 8, Supplement
+IS  - 
+SP  - S90
+EP  - S100
+PY  - 2011/8//
+T2  - 11th Annual Digital Forensics Research Conference
+AU  - Shebaro, Bilal
+AU  - Crandall, Jedidiah R.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2011.05.011
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287611000351
+KW  - NetFlow
+KW  - Network forensics
+KW  - Identity based encryption
+KW  - Privacy preserving semantics
+KW  - Statistical database
+AB  - Network flow recording is an important tool with applications that range from legal compliance and security auditing to network forensics, troubleshooting, and marketing. Unfortunately, current network flow recording technologies do not allow network operators to enforce a privacy policy on the data that is recorded, in particular how this data is stored and used within the organization. Challenges to building such a technology include the public key infrastructure, scalability, and gathering statistics about the data while still preserving privacy.
+
+We present a network flow recording technology that addresses these challenges by using Identity Based Encryption in combination with privacy-preserving semantics for on-the-fly statistics. We argue that our implementation supports a wide range of policies that cover many current applications of network flow recording. We also characterize the performance and scalability of our implementation and find that the encryption and statistics scale well and can easily keep up with the rate at which commodity systems can capture traffic, with a couple of interesting caveats about the size of the subnet that data is being recorded for and how statistics generation is affected by implementation details. We conclude that privacy-preserving network flow recording is possible at 10 gigabit rates for subnets as large as a /20 (4096 hosts).
+
+Because network flow recording is one of the most serious threats to web privacy today, we believe that developing technology to enforce a privacy policy on the recorded data is an important first step before policy makers can make decisions about how network operators can and should store and use network flow data. Our goal in this paper is to explore the tradeoffs of performance and scalability vs. privacy, and the usefulness of the recorded data in forensics vs. privacy.
+ER  - 
+
+TY  - JOUR
+T1  - Measures of retaining digital evidence to prosecute computer-based cyber-crimes
+JO  - Computer Standards & Interfaces
+VL  - 29
+IS  - 2
+SP  - 216
+EP  - 223
+PY  - 2007/2//
+T2  - 
+AU  - Wang, Shiuh-Jeng
+SN  - 0920-5489
+DO  - http://dx.doi.org/10.1016/j.csi.2006.03.008
+UR  - http://www.sciencedirect.com/science/article/pii/S0920548906000456
+KW  - Digital evidence
+KW  - Investigation
+KW  - Computer forensics
+KW  - Cyber-crime
+AB  - With the rapid growth of computer and network systems in recent years, there has also been a corresponding increase in cyber-crime. Cyber-crime takes many forms and has garnered much attention in the media, making information security a more urgent and important priority. In order to fight cyber-crime, criminal evidence must be gathered from these computer-based systems. This is quite different from the collection of conventional criminal evidence and can confuse investigators attempting to deal with the forensics of cyber-crime, highlighting the importance of computer forensics. In this paper, we offer solutions to guard against cyber-crime through the implementation of software toolkits for computer-based systems. In this way, those who engage in criminal acts in cyber-space can be more easily apprehended.
+ER  - 
+
+TY  - JOUR
+T1  - Self-sustaining, efficient and forward-secure cryptographic constructions for Unattended Wireless Sensor Networks
+JO  - Ad Hoc Networks
+VL  - 10
+IS  - 7
+SP  - 1204
+EP  - 1220
+PY  - 2012/9//
+T2  - 
+AU  - Yavuz, Attila Altay
+AU  - Ning, Peng
+SN  - 1570-8705
+DO  - http://dx.doi.org/10.1016/j.adhoc.2012.03.006
+UR  - http://www.sciencedirect.com/science/article/pii/S1570870512000479
+KW  - Applied cryptography
+KW  - Unattended Wireless Sensor Networks (UWSNs)
+KW  - Digital signatures
+KW  - Forward security
+KW  - Aggregate signatures
+AB  - Unattended Wireless Sensor Networks (UWSNs) operating in hostile environments face great security and performance challenges due to the lack of continuous real-time communication with the final data receivers (e.g., mobile data collectors). The lack of real-time communication forces sensors to accumulate sensed data possibly for long time periods, along with the corresponding authentication tags. It also makes UWSNs vulnerable to active adversaries, which can compromise sensors and manipulate the collected data. Hence, it is critical to have forward security property such that even if the adversary can compromise the current keying materials, she cannot forge authentication tags generated before the compromise. Forward secure and aggregate signature schemes are developed to address these issues. Unfortunately, existing schemes either impose substantial overhead, or do not allow public verifiability, thereby impractical for resource-constrained UWSNs.
+
+In this paper, we propose a new class of cryptographic schemes, referred to as Hash-BasedSequentialAggregate andForwardSecureSignature (HaSAFSS), which allows a signer to sequentially generate a compact, fixed-size, and publicly verifiable signature efficiently. We develop three HaSAFSS schemes, Symmetric HaSAFSS (Sym-HaSAFSS), Elliptic Curve Cryptography (ECC) based HaSAFSS (ECC-HaSAFSS) and self-SUstaining HaSAFSS (SU-HaSAFSS). These schemes integrate the efficiency of MAC-based aggregate signatures and the public verifiability of Public Key Cryptography (PKC)-based signatures by preserving forward security via Timed-Release Encryption (TRE). We demonstrate that our schemes are secure and also significantly more efficient than previous approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Forensic analysis of logs: Modeling and verification
+JO  - Knowledge-Based Systems
+VL  - 20
+IS  - 7
+SP  - 671
+EP  - 682
+PY  - 2007/10//
+T2  - Special Issue on Techniques to Produce Intelligent Secure Software
+AU  - Saleh, Mohamed
+AU  - Arasteh, Ali Reza
+AU  - Sakha, Assaad
+AU  - Debbabi, Mourad
+SN  - 0950-7051
+DO  - http://dx.doi.org/10.1016/j.knosys.2007.05.002
+UR  - http://www.sciencedirect.com/science/article/pii/S0950705107000561
+KW  - Forensic analysis
+KW  - Log analysis
+KW  - Formal methods
+KW  - Model checking
+KW  - Logging systems
+AB  - Information stored in logs of a computer system is of crucial importance to gather forensic evidence of investigated actions or attacks against the system. Analysis of this information should be rigorous and credible, hence it lends itself to formal methods. We propose a model checking approach to the formalization of the forensic analysis of logs. The set of logs of a certain system is modeled as a tree whose labels are events extracted from the logs. In order to provide a structure to these events, we express each event as a term of a term algebra. The signature of the algebra is carefully chosen to include all relevant information necessary to conduct the analysis. Properties of the model are expressed as formulas of a logic having dynamic, linear, temporal, and modal characteristics. Moreover, we provide a tableau-based proof system for this logic upon which a model checking algorithm can be developed. In order to illustrate the proposed approach, the Windows auditing system is studied. The properties that we capture in our logic include invariant properties of a system, forensic hypotheses, and generic or specific attack signatures. Moreover, we discuss the admissibility of forensics hypotheses and the underlying verification issues.
+ER  - 
+
+TY  - JOUR
+T1  - A DSL for modeling application-specific functionalities of business applications
+JO  - Computer Languages, Systems & Structures
+VL  - 43
+IS  - 
+SP  - 69
+EP  - 95
+PY  - 2015/10//
+T2  - 
+AU  - Popovic, Aleksandar
+AU  - Lukovic, Ivan
+AU  - Dimitrieski, Vladimir
+AU  - Djukic, Verislav
+SN  - 1477-8424
+DO  - http://dx.doi.org/10.1016/j.cl.2015.03.003
+UR  - http://www.sciencedirect.com/science/article/pii/S1477842415000263
+KW  - Domain-specific languages
+KW  - IIS?CFuncLang
+KW  - Application-specific functionalities
+KW  - Model transformations
+KW  - IIS?Case
+AB  - Abstract
+Models have been widely used in the information system development process. Models are not just means for system analysis and documentation. They may be also transformed into system implementation, primarily program code. Generated program code of screen forms and transaction programs mainly implements generic functionalities that can be expressed by simple retrieval, insertion, update, or deletion operations over database records. Besides the program code of generic functionalities, each application usually includes program code for specific business logic that represents application-specific functionalities, which may include complex calculations, as well as a series of database operations. There is a lack of domain-specific and tool-supported techniques for specification of such application-specific functionalities at the level of platform-independent models (PIMs). In this paper, we propose an approach and a domain-specific language (DSL), named IIS?CFuncLang, aimed at enabling a complete specification of application-specific functionalities at the PIM level. We have developed algorithms for transformation of IIS?CFuncLang specifications into executable program code, such as PL/SQL program code. In order to support specification of application-specific functionalities using IIS?CFuncLang, we have also developed appropriate tree-based and textual editors. The language, editors, and the transformations are embedded into a Model-Driven Software Development tool, named Integrated Information Systems CASE (IIS?Case). IIS?Case supports platform-independent design and automated prototyping of information systems, which allows us to verify and test our approach in practice.
+ER  - 
+
+TY  - JOUR
+T1  - Network forensics based on fuzzy logic and expert system
+JO  - Computer Communications
+VL  - 32
+IS  - 17
+SP  - 1881
+EP  - 1892
+PY  - 2009/11/15/
+T2  - 
+AU  - Liao, Niandong
+AU  - Tian, Shengfeng
+AU  - Wang, Tinghua
+SN  - 0140-3664
+DO  - http://dx.doi.org/10.1016/j.comcom.2009.07.013
+UR  - http://www.sciencedirect.com/science/article/pii/S0140366409002060
+KW  - Network forensics
+KW  - Expert system
+KW  - Fuzzy logic
+KW  - Intrusion detection system
+KW  - Vulnerability scanning
+AB  - Network forensics is a research area that finds the malicious users by collecting and analyzing the intrusion or infringement evidence of computer crimes such as hacking. In the past, network forensics was only used by means of investigation. However, nowadays, due to the sharp increase of network traffic, not all the information captured or recorded will be useful for analysis or evidence. The existing methods and tools for network forensics show only simple results. The administrators have difficulty in analyzing the state of the damaged system without expert knowledge. Therefore, we need an effective and automated analyzing system for network forensics. In this paper, we firstly guarantee the evidence reliability as far as possible by collecting different forensic information of detection sensors. Secondly, we propose an approach based on fuzzy logic and expert system for network forensics that can analyze computer crimes in network environment and make digital evidences automatically. At the end of the paper, the experimental comparison results between our proposed method and other popular methods are presented. Experimental results show that the system can classify most kinds of attack types (91.5% correct classification rate on average) and provide analyzable and comprehensible information for forensic experts.
+ER  - 
+
+TY  - JOUR
+T1  - Improving evidence acquisition from live network sources
+JO  - Digital Investigation
+VL  - 3
+IS  - 2
+SP  - 89
+EP  - 96
+PY  - 2006/6//
+T2  - 
+AU  - Nikkel, Bruce J.
+SN  - 1742-2876
+DO  - http://dx.doi.org/10.1016/j.diin.2006.05.002
+UR  - http://www.sciencedirect.com/science/article/pii/S1742287606000363
+KW  - Network forensics
+KW  - Live network evidence
+KW  - Live network acquisition
+KW  - Live network forensics
+KW  - NFAT
+AB  - The pervasiveness of network technology is causing a shift in the location of digital evidence. What was once largely found on individual disks tied to single individuals is now becoming distributed across remote networked machines, under the control of multiple organizations, and scattered over multiple jurisdictions. The network interactions between these machines are also becoming recognized as a source of network evidence. These live network sources of evidence bring additional challenges which need to be addressed. This paper discusses these issues and suggests some improvements in the methods used for the collection of evidence from live network sources.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive view of Hadoop research—A systematic literature review
+JO  - Journal of Network and Computer Applications
+VL  - 46
+IS  - 
+SP  - 1
+EP  - 25
+PY  - 2014/11//
+T2  - 
+AU  - Polato, Ivanilton
+AU  - Ré, Reginaldo
+AU  - Goldman, Alfredo
+AU  - Kon, Fabio
+SN  - 1084-8045
+DO  - http://dx.doi.org/10.1016/j.jnca.2014.07.022
+UR  - http://www.sciencedirect.com/science/article/pii/S1084804514001635
+KW  - Systematic literature review
+KW  - Apache Hadoop
+KW  - MapReduce
+KW  - HDFS
+KW  - Survey
+AB  - Abstract
+Context: In recent years, the valuable knowledge that can be retrieved from petabyte scale datasets – known as Big Data – led to the development of solutions to process information based on parallel and distributed computing. Lately, Apache Hadoop has attracted strong attention due to its applicability to Big Data processing. Problem: The support of Hadoop by the research community has provided the development of new features to the framework. Recently, the number of publications in journals and conferences about Hadoop has increased consistently, which makes it difficult for researchers to comprehend the full body of research and areas that require further investigation. Solution: We conducted a systematic literature review to assess research contributions to Apache Hadoop. Our objective was to identify gaps, providing motivation for new research, and outline collaborations to Apache Hadoop and its ecosystem, classifying and quantifying the main topics addressed in the literature. Results: Our analysis led to some relevant conclusions: many interesting solutions developed in the studies were never incorporated into the framework; most publications lack sufficient formal documentation of the experiments conducted by authors, hindering their reproducibility; finally, the systematic review presented in this paper demonstrates that Hadoop has evolved into a solid platform to process large datasets, but we were able to spot promising areas and suggest topics for future research within the framework.
+ER  - 
+
+TY  - JOUR
+T1  - A latent class modeling approach to detect network intrusion
+JO  - Computer Communications
+VL  - 30
+IS  - 1
+SP  - 93
+EP  - 100
+PY  - 2006/12/15/
+T2  - 
+AU  - Wang, Yun
+AU  - Kim, Inyoung
+AU  - Mbateng, Gaston
+AU  - Ho, Shih-Yieh
+SN  - 0140-3664
+DO  - http://dx.doi.org/10.1016/j.comcom.2006.07.018
+UR  - http://www.sciencedirect.com/science/article/pii/S0140366406002891
+KW  - Intrusion detection
+KW  - Machine learning
+KW  - Classification
+KW  - Latent class model
+KW  - Computer security
+AB  - This study presents a latent class modeling approach to examine network traffic data when labeled abnormal events are absent in training data, or such events are insufficient to fit a conventional regression model. Using six anomaly-associated risk factors identified from previous studies, the latent class model based on an unlabeled sample yielded acceptable classification results compared with a logistic regression model based on a labeled sample (correctly classified: 0.95 vs. 0.98, sensitivity: 0.99 vs. 0.99, and specificity: 0.77 vs. 0.97). The study demonstrates a great potency for using the latent class modeling technique to analyze network traffic data.
+ER  - 
+
+
