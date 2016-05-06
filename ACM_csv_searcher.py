@@ -1,51 +1,64 @@
+import argparse
+import csv
 import sys
+
 sys.dont_write_bytecode = True
 
-if len(sys.argv) != 3:
-  print 'Usage: ACM_csv_searcher.csv <gold_standard> <target>'
-  exit()
 
-gold_standard = open(sys.argv[1],"rU")
-target = open(sys.argv[2],"rU")
+TITLE = {'ieee': 0, 'acm': 6, 'springer': 0, 'default': 0}
+SKIP = {'ieee': 2, 'acm': 1, 'springer': 1, 'default': 0}
 
-gs_dict = {}
-total_gold_papers = 0
-for line in gold_standard:
-  if line.rstrip('\n').rstrip(',') not in gs_dict:
-    gs_dict[line.rstrip('\n').rstrip(',')] = 0
-    total_gold_papers += 1
 
-for line in target:
-  line = line.split(",")
-  for item in gs_dict:
-    if line[6] == item:
-      gs_dict[item] = 1
-      # print "Found match for: " + item
+def main(search, result):
+    for title in search:
+        pretty = (title[:75] + '...') if len(title) > 75 else title
+        if title.lower() in result:
+            print('\033[92m✓\033[0m {}'.format(pretty))
+        else:
+            print('\033[91m✘\033[0m {}'.format(pretty))
 
-toPrint = ""
-inc = 0
-for item in gs_dict:
-  if gs_dict[item] == 1:
-    toPrint += item + "\n"
-    inc += 1
 
-print "List of included papers (" + str(inc) + " of " + str(total_gold_papers) + "):" 
-print toPrint + "\n"
+def _read(file_, service='default'):
+    titles = None
 
-toPrint = ""
-exc = 0
-for item in gs_dict:
-  if gs_dict[item] == 0:
-    toPrint += item + "\n"
-    exc += 1
+    for _ in range(SKIP[service]):
+        next(file_)
+    reader = csv.reader(file_)
+    titles = [row[TITLE[service]] for row in reader]
 
-print "List of excluded papers (" + str(exc) + " of " + str(total_gold_papers) + "):" 
-print toPrint + "\n"
+    return titles
 
-# headers = False
-# for i in f:
-#   if (headers):
-#     i = i.split(",")
-#     sys.stdout.write("'" + i[0] + "',")
-#   else:
-#     headers = True
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+            description=(
+                'Script to search results exported from scientific indexing '
+                'services to identify the recall of certain literary works.'
+            )
+        )
+    parser.add_argument(
+            '-s', dest='service', default='default',
+            choices=['ieee', 'acm', 'springer'],
+            help=(
+                'The indexing service from which the results were exported. '
+                'Default is "default".'
+            )
+        )
+    parser.add_argument(
+            'search', type=argparse.FileType('r'),
+            help=(
+                'Path to the file containing the title of the literary works '
+                'to be searched.'
+            )
+        )
+    parser.add_argument(
+            'result', type=argparse.FileType('r'),
+            help='Path to the file containing the exported results.'
+        )
+    args = parser.parse_args()
+
+    search = _read(args.search)
+    result = _read(args.result, args.service)
+    result = [title.lower() for title in result]
+
+    main(search, result)
