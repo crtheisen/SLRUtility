@@ -3,6 +3,26 @@ SLR helper scripts. Original version by jtking. Reworked for an attack surface S
 
 Notes from Jason below (should be rewritten in another voice)
 
+## ACM_csv_searcher
+
+```
+usage: ACM_csv_searcher.py [-h] [-s {ieee,acm,springer}] search result
+
+Script to search results exported from scientific indexing services to
+identify the recall of certain literary works.
+
+positional arguments:
+  search                Path to the file containing the title of the literary
+                        works to be searched.
+  result                Path to the file containing the exported results.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -s {ieee,acm,springer}
+                        The indexing service from which the results were
+                        exported. Default is "default".
+```
+
 ##ACMDownloader:
 Uses Selenium to open a web browser and wait for you to enter search criteria into the advanced ACM search page
 
