@@ -6,14 +6,10 @@ if len(sys.argv) != 2:
   print('Usage: SpringerParser.py <output>')
   exit()
 
-driver = webdriver.Firefox()
-driver.get("http://link.springer.com/search/page/1?date-facet-mode=between&showAll=true&query=security+AND+%22entry+point%22+AND+%22attack+surface%22")
-assert "Springer" in driver.title
-
 write_result = open(sys.argv[1], "w")
+driver = webdriver.Firefox()
 
 for x in range(1, 6):
-  driver = webdriver.Firefox()
   driver.get("http://link.springer.com/search/page/" + str(x) + "?date-facet-mode=between&showAll=true&query=security+AND+%22entry+point%22+AND+%22attack+surface%22")
   assert "Springer" in driver.title
 
@@ -30,4 +26,6 @@ for x in range(1, 6):
       else:
         write_result.write(attr + ",")
       i += 1
-  driver.close()
+
+driver.close()
+write_result.close()
