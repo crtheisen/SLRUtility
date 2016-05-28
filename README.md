@@ -23,6 +23,29 @@ optional arguments:
                         exported. Default is "default".
 ```
 
+## parse.py
+
+```
+usage: parse.py [-h] [-b {phantom,firefox}] [--start START] [--stop STOP]
+                {ieee,acm,springer} url output
+
+Script to scrape search results from indexing services.
+
+positional arguments:
+  {ieee,acm,springer}   The indexing service from which the results are to be
+                        parsed.
+  url                   The URL of the search results. Use {} as the
+                        placeholder for page number.
+  output                Path to the file to which the parse results should be
+                        written.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -b {phantom,firefox}  The browser to use when retrieving the search results.
+  --start START         Index of the page of results to start parsing from.
+  --stop STOP           Index of the page of results to stop parsing to.
+```
+
 ##ACMDownloader:
 Uses Selenium to open a web browser and wait for you to enter search criteria into the advanced ACM search page
 
