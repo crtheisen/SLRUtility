@@ -3,10 +3,10 @@ SLR helper scripts. Original version by jtking. Reworked for an attack surface S
 
 Notes from Jason below (should be rewritten in another voice)
 
-## ACM_csv_searcher
+## search.py
 
 ```
-usage: ACM_csv_searcher.py [-h] [-s {ieee,acm,springer}] search result
+usage: search.py [-h] [-s {ieee,acm,springer}] search result
 
 Script to search results exported from scientific indexing services to
 identify the recall of certain literary works.
