@@ -32,6 +32,8 @@ class Parser(object):
             pass
         elif self.service == 'springer':
             return ('title', 'authors', 'venue', 'year', 'link')
+        else:
+            return None
 
     def parse(self, url):
         debug('Parsing {}'.format(url))

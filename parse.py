@@ -19,7 +19,10 @@ def parse(service, url, start, stop, browser):
         parser = Parser(service, browser)
         parser.setup()
 
-        results.append(parser.get_header())
+        header = parser.get_header()
+        if header:
+            results.append(header)
+
         index = 1
         for page in range(start, stop + 1):
             results += parser.parse(url.format(page))
