@@ -1,3 +1,4 @@
+import re
 import traceback
 
 from selenium import webdriver
@@ -12,6 +13,9 @@ CSS = By.CSS_SELECTOR
 ID = By.ID
 TAG = By.TAG_NAME
 
+# Date Parsing
+DATE_RE = re.compile('(\d{4})-(\d{2})-(\d{2})')
+
 
 class Parser(object):
     def __init__(self, service, browser):
@@ -22,6 +26,8 @@ class Parser(object):
     def get_header(self):
         if self.service == 'acm':
             pass
+        elif self.service == 'dtic':
+            return ('title', 'year', 'link')
         elif self.service == 'ieee':
             pass
         elif self.service == 'springer':
@@ -31,6 +37,8 @@ class Parser(object):
         debug('Parsing {}'.format(url))
         if self.service == 'acm':
             return self._parse_acm(url)
+        elif self.service == 'dtic':
+            return self._parse_dtic(url)
         elif self.service == 'ieee':
             return self._parse_ieee(url)
         elif self.service == 'springer':
@@ -58,6 +66,35 @@ class Parser(object):
 
     def _parse_acm(self, url):
         raise NotImplementedError('Implementation does not exist.')
+
+    def _parse_dtic(self, url):
+        _results = list()
+
+        try:
+            self.driver.get(url)
+            if self.driver.title == '':
+                error('{} could not be retrieved.'.format(url))
+                sys.exit(1)
+            results = self.driver.find_element(ID, 'content-container1') \
+                .find_element(TAG, 'ol')
+
+            for result in results.find_elements(TAG, 'li'):
+                title, year, link = '', None, ''
+                title = result.find_element(CSS, 'a:first-child').text
+                link = result.find_element(CSS, 'a:first-child')\
+                    .get_attribute('href')
+
+                for metadata in result.find_elements(CSS, 'font'):
+                    match = DATE_RE.search(metadata.text)
+                    if match:
+                        year = match.group(1)
+
+                _results.append((title, year, link))
+        except WebDriverException:
+            extype, exvalue, extrace = sys.exc_info()
+            traceback.print_exception(extype, exvalue, extrace)
+
+        return _results
 
     def _parse_ieee(self, url):
         raise NotImplementedError('Implementation does not exist.')
