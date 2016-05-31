@@ -32,6 +32,8 @@ class Parser(object):
             pass
         elif self.service == 'springer':
             return ('title', 'authors', 'venue', 'year', 'link')
+        elif self.service == 'scholar':
+            return ('title', 'authors', 'venue', 'year', 'link')
 
     def parse(self, url):
         debug('Parsing {}'.format(url))
@@ -43,6 +45,8 @@ class Parser(object):
             return self._parse_ieee(url)
         elif self.service == 'springer':
             return self._parse_springer(url)
+        elif self.service == 'scholar':
+            return self._parse_google_scholar(url)
 
     def setup(self):
         self.driver = self._get_driver(self.browser)
@@ -125,6 +129,28 @@ class Parser(object):
                         .get_attribute('title')
                 year = metadata.find_element(CSS, '.enumeration span') \
                     .get_attribute('title')
+
+                _results.append((title, authors, venue, year, link))
+        except WebDriverException:
+            extype, exvalue, extrace = sys.exc_info()
+            traceback.print_exception(extype, exvalue, extrace)
+
+        return _results
+
+    def _parse_google_scholar(self, url):
+        _results = list()
+
+        try:
+            self.driver.get(url)
+            results = self.driver.find_element(ID, 'gs_ccl')
+            for result in results.find_elements(CLASS, 'gs_r'):
+                title, authors, venue, year, link = '', '', '', None, ''
+
+                title = result.find_element(CSS, 'h3 a').get_attribute('text')
+                link = result.find_element(CSS, 'h3 a').get_attribute('href')
+                debug(title)
+                debug(link)
+               
 
                 _results.append((title, authors, venue, year, link))
         except WebDriverException:
