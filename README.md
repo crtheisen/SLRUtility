@@ -1,7 +1,7 @@
 # SLRUtility
 These scripts are designed to help researchers perform systematic literature reviews (SLRs). These scripts are domain-agnostic, so anyone who would like to systematically explore literature in an area can use them.
 
-## Dependencies:
+## Dependencies
 
 These scripts are written in Python 3. They require Selenium and termcolor to run.
 
