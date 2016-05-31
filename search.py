@@ -5,8 +5,12 @@ import sys
 sys.dont_write_bytecode = True
 
 
-TITLE = {'acm': 6, 'dtic': 0, 'ieee': 0, 'springer': 0, 'default': 0}
-SKIP = {'acm': 1, 'dtic': 1, 'ieee': 2, 'springer': 1, 'default': 0}
+TITLE = {
+    'acm': 6, 'dtic': 0, 'ieee': 0, 'proquest': 0, 'springer': 0, 'default': 0
+}
+SKIP = {
+    'acm': 1, 'dtic': 1, 'ieee': 2, 'proquest': 1, 'springer': 1, 'default': 0
+}
 
 
 def main(search, result):
@@ -38,7 +42,7 @@ if __name__ == '__main__':
         )
     parser.add_argument(
             '-s', dest='service', default='default',
-            choices=['acm', 'dtic', 'ieee', 'springer'],
+            choices=['acm', 'dtic', 'ieee', 'proquest', 'springer'],
             help=(
                 'The indexing service from which the results were exported. '
                 'Default is "default".'

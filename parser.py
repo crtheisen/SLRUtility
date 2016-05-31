@@ -4,6 +4,8 @@ import traceback
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support.ui import WebDriverWait
 
 from logger import *
 
@@ -15,6 +17,7 @@ TAG = By.TAG_NAME
 
 # Date Parsing
 DATE_RE = re.compile('(\d{4})-(\d{2})-(\d{2})')
+YEAR_RE = re.compile('(\d{4})')
 
 
 class Parser(object):
@@ -30,10 +33,17 @@ class Parser(object):
             return ('title', 'year', 'link')
         elif self.service == 'ieee':
             pass
+        elif self.service == 'proquest':
+            return ('title', 'authors', 'venue', 'year', 'link')
         elif self.service == 'springer':
             return ('title', 'authors', 'venue', 'year', 'link')
+<<<<<<< HEAD
         elif self.service == 'scholar':
             return ('title', 'authors', 'venue', 'year', 'link')
+=======
+        else:
+            return None
+>>>>>>> e6b7110856c19587b5399911c5b7d9d004ba4db2
 
     def parse(self, url):
         debug('Parsing {}'.format(url))
@@ -43,6 +53,8 @@ class Parser(object):
             return self._parse_dtic(url)
         elif self.service == 'ieee':
             return self._parse_ieee(url)
+        elif self.service == 'proquest':
+            return self._parse_proquest(url)
         elif self.service == 'springer':
             return self._parse_springer(url)
         elif self.service == 'scholar':
@@ -102,6 +114,44 @@ class Parser(object):
 
     def _parse_ieee(self, url):
         raise NotImplementedError('Implementation does not exist.')
+
+    def _parse_proquest(self, url):
+        _results = list()
+
+        try:
+            self.driver.get(url)
+            results = self.driver.find_element(CLASS, 'resultItems')
+            for result in results.find_elements(CSS, 'li.resultItem'):
+                title, authors, venue, year, link = '', '', '', None, ''
+
+                title = result.find_element(CLASS, 'previewTitle').text
+                debug(title)
+                link = result.find_element(CLASS, 'previewTitle') \
+                    .get_attribute('href')
+                elms = result.find_element(CSS, 'div.contentArea') \
+                    .find_element(CSS, 'div.results_list_copy') \
+                    .find_elements(CSS, 'span.titleAuthorETC')
+                if elms:
+                    authors = elms[0].text
+
+                    if len(elms) == 2:
+                        match = None
+                        if self._contains(elms[1], TAG, 'strong'):
+                            venue = elms[1].find_element(TAG, 'strong').text
+                            match = YEAR_RE.search(elms[1].text)
+                        else:
+                            venue = elms[1].text
+                            match = YEAR_RE.search(venue)
+
+                        if match:
+                            year = match.group(1)
+
+                _results.append((title, authors, venue, year, link))
+        except WebDriverException:
+            extype, exvalue, extrace = sys.exc_info()
+            traceback.print_exception(extype, exvalue, extrace)
+
+        return _results
 
     def _parse_springer(self, url):
         _results = list()
