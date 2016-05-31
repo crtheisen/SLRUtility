@@ -5,6 +5,25 @@ These scripts are designed to help researchers perform systematic literature rev
 
 These scripts are written in Python 3. They require Selenium and termcolor to run.
 
+## agregate.py
+
+```
+usage: aggregate.py [-h] directory output
+
+Script to aggregate the search results from multiple academic literature
+indexing services.
+
+positional arguments:
+  directory   Path to the directory containing the CSV files that inturn
+              contain the results exported from the indexing services' search
+              results.
+  output      Path to the file to which the aggregated results should be
+              written.
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
+
 ## search.py
 
 ```
