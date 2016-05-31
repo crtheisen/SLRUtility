@@ -37,13 +37,10 @@ class Parser(object):
             return ('title', 'authors', 'venue', 'year', 'link')
         elif self.service == 'springer':
             return ('title', 'authors', 'venue', 'year', 'link')
-<<<<<<< HEAD
         elif self.service == 'scholar':
             return ('title', 'authors', 'venue', 'year', 'link')
-=======
         else:
             return None
->>>>>>> e6b7110856c19587b5399911c5b7d9d004ba4db2
 
     def parse(self, url):
         debug('Parsing {}'.format(url))
@@ -197,6 +194,7 @@ class Parser(object):
                 title, authors, venue, year, link = '', '', '', None, ''
 
                 title = result.find_element(CSS, 'h3 a').get_attribute('text')
+                debug(title)
                 link = result.find_element(CSS, 'h3 a').get_attribute('href')
                 debug(title)
                 debug(link)
