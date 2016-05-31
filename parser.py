@@ -191,14 +191,13 @@ class Parser(object):
             self.driver.get(url)
             results = self.driver.find_element(ID, 'gs_ccl')
             for result in results.find_elements(CLASS, 'gs_r'):
+                debug('here')
                 title, authors, venue, year, link = '', '', '', None, ''
 
                 title = result.find_element(CSS, 'h3 a').get_attribute('text')
-                debug(title)
                 link = result.find_element(CSS, 'h3 a').get_attribute('href')
                 debug(title)
                 debug(link)
-               
 
                 _results.append((title, authors, venue, year, link))
         except WebDriverException:
