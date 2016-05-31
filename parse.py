@@ -57,7 +57,7 @@ if __name__ == '__main__':
             help='Index of the page of results to stop parsing to.'
         )
     parser.add_argument(
-            'service', choices=['acm', 'dtic', 'ieee', 'springer'],
+            'service', choices=['acm', 'dtic', 'ieee', 'proquest', 'springer'],
             help=(
                 'The indexing service from which the results are to be parsed.'
             )
