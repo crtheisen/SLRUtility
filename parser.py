@@ -194,10 +194,14 @@ class Parser(object):
                 title, authors, venue, year, link = '', '', '', None, ''
 
                 title = result.find_element(CSS, 'h3 a').get_attribute('text')
-                debug(title)
                 link = result.find_element(CSS, 'h3 a').get_attribute('href')
+
+                year = YEAR_RE.search(result.find_element(CLASS, 'gs_a').text)
+                year = year.group(1)
+
                 debug(title)
                 debug(link)
+                debug(year)
                
 
                 _results.append((title, authors, venue, year, link))
