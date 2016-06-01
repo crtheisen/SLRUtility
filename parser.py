@@ -202,7 +202,6 @@ class Parser(object):
                 debug(title)
                 debug(link)
                 debug(year)
-               
 
                 _results.append((title, authors, venue, year, link))
         except WebDriverException:
