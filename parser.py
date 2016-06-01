@@ -197,7 +197,8 @@ class Parser(object):
                 link = result.find_element(CSS, 'h3 a').get_attribute('href')
 
                 year = YEAR_RE.search(result.find_element(CLASS, 'gs_a').text)
-                year = year.group(1)
+                if (year):
+                    year = year.group(1)
 
                 debug(title)
                 debug(link)
