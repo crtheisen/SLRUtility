@@ -34,3 +34,6 @@ vignettes/*.pdf
 
 # Project file
 *.Rproj
+
+# Temporary directories
+diagrams
