@@ -2,6 +2,9 @@
 rm(list = ls())
 cat("\014")
 
+# Include Constants
+source("constants.R")
+
 # Include Libraries
 source("library.R")
 
@@ -14,14 +17,17 @@ init.libraries("plot")
 
 ##########################################
 ### Number of Papers by Class
-dataset <- read.csv("data/class.csv", header = T) %>%
-  filter(class != "Unavailable")
+dataset <- read.csv("data/plots/class.csv", header = T) %>%
+  filter(class != "Unavailable", class != "Duplicate", class != "Pending")
+
+dataset$class <- factor(dataset$class, levels = PAPER.CLASSES)
 
 plot.dataset <- dataset %>%
   group_by(class) %>%
-  summarize(count = n())
+  summarize(count = n()) %>%
+  arrange(count)
 
-# Export Resolution   700 x 691
+# Export Resolution   600 x 575
 # File Name           distclass.eps
 ggplot(plot.dataset, aes(x = class, y = count)) +
   geom_bar(stat = "identity", width = 1, color = "black", fill = "#d0d0d0") +
@@ -34,13 +40,16 @@ ggplot(plot.dataset, aes(x = class, y = count)) +
 
 ##########################################
 ### Number of Papers by Granularity
-dataset <- read.csv("data/granularity.csv", header = T)
+dataset <- read.csv("data/plots/granularity.csv", header = T)
+
+dataset$granularity <- factor(dataset$granularity, levels = PAPER.GRANULARITY)
 
 plot.dataset <- dataset %>%
   group_by(granularity) %>%
-  summarize(count = n())
+  summarize(count = n()) %>%
+  arrange(count)
 
-# Export Resolution   700 x 600
+# Export Resolution   650 x 550
 # File Name           distgranularity.eps
 ggplot(plot.dataset, aes(x = granularity, y = count)) +
   geom_bar(stat = "identity", width = 1, color = "black", fill = "#d0d0d0") +
