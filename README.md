@@ -5,7 +5,7 @@ These scripts are designed to help researchers perform systematic literature rev
 
 These scripts are written in Python 3. They require Selenium and termcolor to run.
 
-## agregate.py
+## aggregate.py
 
 ```
 usage: aggregate.py [-h] directory output
